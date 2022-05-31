@@ -1,0 +1,73 @@
+@import "styles/_colors.scss";
+
+.inquiry-popup {
+  color: #4d4d4d;
+  margin: 1rem 0.2rem 0.1rem 1rem;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-rows: 1fr 4fr 3fr;
+
+  .content-title {
+    display: block;
+    color: #7d1ed8;
+    font-size: 1rem;
+    font-weight: 700;
+  }
+
+  .inquiry-box {
+    align-items: center;
+    margin: 0 1.5rem;
+
+    .title-box {
+      input {
+        width: 20rem;
+        height: 1.2rem;
+      }
+
+      .error {
+        color: red;
+        font-size: 0.8rem;
+      }
+    }
+  }
+
+  .inquiry-content {
+    align-items: center;
+    margin: 0.5rem 0rem 0.5rem 1.5rem;
+
+    .inquiry-textarea {
+      width: 20rem;
+      resize: none;
+    }
+  }
+
+  .inquiry-success-content {
+    text-align: center;
+    margin: 1rem;
+  }
+
+  .inquiry-info-title {
+    font-weight: bold;
+  }
+
+  .inquiry-info {
+    margin: 1rem 0 0.5rem 1rem;
+    font-weight: bold;
+    display: flex;
+
+    .inquiry-connection {
+      margin-left: 0.5rem;
+      font-size: 0.8rem;
+
+      .connection-info {
+        font-weight: initial;
+
+        -ms-user-select: all;
+        -moz-user-select: all;
+        -webkit-user-select: all;
+        -khtml-user-select: all;
+        user-select: all;
+      }
+    }
+  }
+}

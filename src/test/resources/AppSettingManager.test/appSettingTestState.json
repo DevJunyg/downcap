@@ -1,0 +1,567 @@
+{
+  "past": [],
+  "present": {
+    "appSetting": {
+      "realTimeTranslationFlag": true
+    },
+    "multiline": {},
+    "originCaption": {
+      "captions": [
+        {
+          "lines": [
+            {
+              "words": [
+                {
+                  "confidence": 0.798,
+                  "text": "인간의",
+                  "start": 0.27,
+                  "end": 1.107,
+                  "id": 0
+                },
+                {
+                  "confidence": 0.957,
+                  "text": "일본",
+                  "start": 1.17,
+                  "end": 1.53,
+                  "id": 1
+                },
+                {
+                  "confidence": 0.355,
+                  "text": "보강하시나요",
+                  "start": 1.53,
+                  "end": 2.37,
+                  "id": 2
+                }
+              ],
+              "id": 0
+            }
+          ],
+          "id": 3
+        },
+        {
+          "lines": [
+            {
+              "words": [
+                {
+                  "confidence": 0.665,
+                  "text": "양은",
+                  "start": 2.79,
+                  "end": 3.145,
+                  "id": 4
+                },
+                {
+                  "confidence": 0.726,
+                  "text": "산업단지",
+                  "start": 3.148,
+                  "end": 3.926,
+                  "id": 5
+                },
+                {
+                  "confidence": 0.216,
+                  "text": "유튜버의",
+                  "start": 3.991,
+                  "end": 4.612,
+                  "id": 6
+                },
+                {
+                  "confidence": 0.393,
+                  "text": "스마트도",
+                  "start": 4.618,
+                  "end": 5.337,
+                  "id": 7
+                },
+                {
+                  "confidence": 0.316,
+                  "text": "아웃",
+                  "start": 5.58,
+                  "end": 5.85,
+                  "id": 8
+                }
+              ],
+              "id": 1
+            }
+          ],
+          "id": 9
+        }
+      ]
+    },
+    "popup": {},
+    "project": {
+      "selectedEditType": "translated",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+        "origin": 20,
+        "translated": 40
+      },
+      "sequence": [
+        "origin",
+        "translated"
+      ],
+      "projectDefaultStyle": {
+        "background": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "color": {
+          "r": 163,
+          "g": 255,
+          "b": 166,
+          "a": 1
+        },
+        "outline": 3,
+        "outlineColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bold": true,
+        "underline": false,
+        "italic": false,
+        "font": 4,
+        "fontSize": 100
+      },
+      "videoPath": "file://D:\\downcap\\downcap test\\Test data\\movie\\main.mp4",
+      "projectName": "main",
+      "videoMeta": {
+        "width": 1920,
+        "height": 1080
+      },
+      "totalTranslateTaskLength": 2,
+      "nowTranslateTaskLength": 2
+    },
+    "projectCotrol": {},
+    "translatedCaption": {
+      "captions": [
+        {
+          "id": 0,
+          "origin": "인간의 일본 보강하시나요",
+          "paragraphs": [
+            {
+              "lines": [
+                {
+                  "words": [
+                    {
+                      "start": 0.27,
+                      "end": 0.48,
+                      "text": "Do",
+                      "id": 14
+                    },
+                    {
+                      "start": 0.48,
+                      "end": 0.76,
+                      "text": "you",
+                      "id": 15
+                    },
+                    {
+                      "start": 0.76,
+                      "end": 1.46,
+                      "text": "reinforce",
+                      "id": 16
+                    },
+                    {
+                      "start": 1.46,
+                      "end": 1.88,
+                      "text": "human",
+                      "id": 17
+                    },
+                    {
+                      "start": 1.88,
+                      "end": 2.37,
+                      "text": "Japan?",
+                      "id": 18
+                    }
+                  ],
+                  "id": 3
+                }
+              ],
+              "id": 14
+            }
+          ],
+          "meta": {
+            "reversTranslateStatus": "Successed",
+            "translatStatus": "Successed"
+          },
+          "revers": "당신은 인간 일본을 강화합니까?"
+        },
+        {
+          "id": 1,
+          "origin": "양은 산업단지 유튜버의 스마트도 아웃",
+          "paragraphs": [
+            {
+              "lines": [
+                {
+                  "words": [
+                    {
+                      "start": 2.79,
+                      "end": 3.058,
+                      "text": "Yang",
+                      "id": 19
+                    },
+                    {
+                      "start": 3.058,
+                      "end": 3.273,
+                      "text": "Eun",
+                      "id": 20
+                    },
+                    {
+                      "start": 3.273,
+                      "end": 3.864,
+                      "text": "Industrial",
+                      "id": 21
+                    },
+                    {
+                      "start": 3.864,
+                      "end": 4.293,
+                      "text": "Complex",
+                      "id": 22
+                    },
+                    {
+                      "start": 4.293,
+                      "end": 4.884,
+                      "text": "YouTuber's",
+                      "id": 23
+                    },
+                    {
+                      "start": 4.884,
+                      "end": 5.206,
+                      "text": "Smart",
+                      "id": 24
+                    },
+                    {
+                      "start": 5.206,
+                      "end": 5.367,
+                      "text": "is",
+                      "id": 25
+                    }
+                  ],
+                  "id": 4
+                }
+              ],
+              "id": 15
+            },
+            {
+              "lines": [
+                {
+                  "words": [
+                    {
+                      "start": 5.367,
+                      "end": 5.635,
+                      "text": "also",
+                      "id": 26
+                    },
+                    {
+                      "start": 5.635,
+                      "end": 5.85,
+                      "text": "out",
+                      "id": 27
+                    }
+                  ],
+                  "id": 5
+                }
+              ],
+              "id": 16
+            }
+          ],
+          "meta": {
+            "reversTranslateStatus": "Successed",
+            "translatStatus": "Successed"
+          },
+          "revers": "양은산업단지 유튜버 스마트도 나왔다"
+        }
+      ]
+    },
+    "translatedMultiline": {
+      "checkpoint": 10
+    },
+    "youtubeSearch": {},
+    "dualCaption": {},
+    "dualMultiline": {}
+  },
+  "future": [],
+  "group": null,
+  "_latestUnfiltered": {
+    "appSetting": {
+      "realTimeTranslationFlag": true
+    },
+    "multiline": {},
+    "originCaption": {
+      "captions": [
+        {
+          "lines": [
+            {
+              "words": [
+                {
+                  "confidence": 0.798,
+                  "text": "인간의",
+                  "start": 0.27,
+                  "end": 1.107,
+                  "id": 0
+                },
+                {
+                  "confidence": 0.957,
+                  "text": "일본",
+                  "start": 1.17,
+                  "end": 1.53,
+                  "id": 1
+                },
+                {
+                  "confidence": 0.355,
+                  "text": "보강하시나요",
+                  "start": 1.53,
+                  "end": 2.37,
+                  "id": 2
+                }
+              ],
+              "id": 0
+            }
+          ],
+          "id": 3
+        },
+        {
+          "lines": [
+            {
+              "words": [
+                {
+                  "confidence": 0.665,
+                  "text": "양은",
+                  "start": 2.79,
+                  "end": 3.145,
+                  "id": 4
+                },
+                {
+                  "confidence": 0.726,
+                  "text": "산업단지",
+                  "start": 3.148,
+                  "end": 3.926,
+                  "id": 5
+                },
+                {
+                  "confidence": 0.216,
+                  "text": "유튜버의",
+                  "start": 3.991,
+                  "end": 4.612,
+                  "id": 6
+                },
+                {
+                  "confidence": 0.393,
+                  "text": "스마트도",
+                  "start": 4.618,
+                  "end": 5.337,
+                  "id": 7
+                },
+                {
+                  "confidence": 0.316,
+                  "text": "아웃",
+                  "start": 5.58,
+                  "end": 5.85,
+                  "id": 8
+                }
+              ],
+              "id": 1
+            }
+          ],
+          "id": 9
+        }
+      ]
+    },
+    "popup": {},
+    "project": {
+      "selectedEditType": "translated",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+        "origin": 20,
+        "translated": 40
+      },
+      "sequence": [
+        "origin",
+        "translated"
+      ],
+      "projectDefaultStyle": {
+        "background": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 0
+        },
+        "color": {
+          "r": 163,
+          "g": 255,
+          "b": 166,
+          "a": 1
+        },
+        "outline": 3,
+        "outlineColor": {
+          "r": 0,
+          "g": 0,
+          "b": 0,
+          "a": 1
+        },
+        "bold": true,
+        "underline": false,
+        "italic": false,
+        "font": 4,
+        "fontSize": 100
+      },
+      "videoPath": "file://D:\\downcap\\downcap test\\Test data\\movie\\main.mp4",
+      "projectName": "main",
+      "videoMeta": {
+        "width": 1920,
+        "height": 1080
+      },
+      "totalTranslateTaskLength": 2,
+      "nowTranslateTaskLength": 2
+    },
+    "projectCotrol": {},
+    "translatedCaption": {
+      "captions": [
+        {
+          "id": 0,
+          "origin": "인간의 일본 보강하시나요",
+          "paragraphs": [
+            {
+              "lines": [
+                {
+                  "words": [
+                    {
+                      "start": 0.27,
+                      "end": 0.48,
+                      "text": "Do",
+                      "id": 14
+                    },
+                    {
+                      "start": 0.48,
+                      "end": 0.76,
+                      "text": "you",
+                      "id": 15
+                    },
+                    {
+                      "start": 0.76,
+                      "end": 1.46,
+                      "text": "reinforce",
+                      "id": 16
+                    },
+                    {
+                      "start": 1.46,
+                      "end": 1.88,
+                      "text": "human",
+                      "id": 17
+                    },
+                    {
+                      "start": 1.88,
+                      "end": 2.37,
+                      "text": "Japan?",
+                      "id": 18
+                    }
+                  ],
+                  "id": 3
+                }
+              ],
+              "id": 14
+            }
+          ],
+          "meta": {
+            "reversTranslateStatus": "Successed",
+            "translatStatus": "Successed"
+          },
+          "revers": "당신은 인간 일본을 강화합니까?"
+        },
+        {
+          "id": 1,
+          "origin": "양은 산업단지 유튜버의 스마트도 아웃",
+          "paragraphs": [
+            {
+              "lines": [
+                {
+                  "words": [
+                    {
+                      "start": 2.79,
+                      "end": 3.058,
+                      "text": "Yang",
+                      "id": 19
+                    },
+                    {
+                      "start": 3.058,
+                      "end": 3.273,
+                      "text": "Eun",
+                      "id": 20
+                    },
+                    {
+                      "start": 3.273,
+                      "end": 3.864,
+                      "text": "Industrial",
+                      "id": 21
+                    },
+                    {
+                      "start": 3.864,
+                      "end": 4.293,
+                      "text": "Complex",
+                      "id": 22
+                    },
+                    {
+                      "start": 4.293,
+                      "end": 4.884,
+                      "text": "YouTuber's",
+                      "id": 23
+                    },
+                    {
+                      "start": 4.884,
+                      "end": 5.206,
+                      "text": "Smart",
+                      "id": 24
+                    },
+                    {
+                      "start": 5.206,
+                      "end": 5.367,
+                      "text": "is",
+                      "id": 25
+                    }
+                  ],
+                  "id": 4
+                }
+              ],
+              "id": 15
+            },
+            {
+              "lines": [
+                {
+                  "words": [
+                    {
+                      "start": 5.367,
+                      "end": 5.635,
+                      "text": "also",
+                      "id": 26
+                    },
+                    {
+                      "start": 5.635,
+                      "end": 5.85,
+                      "text": "out",
+                      "id": 27
+                    }
+                  ],
+                  "id": 5
+                }
+              ],
+              "id": 16
+            }
+          ],
+          "meta": {
+            "reversTranslateStatus": "Successed",
+            "translatStatus": "Successed"
+          },
+          "revers": "양은산업단지 유튜버 스마트도 나왔다"
+        }
+      ]
+    },
+    "translatedMultiline": {
+      "checkpoint": 10
+    },
+    "youtubeSearch": {},
+    "dualCaption": {},
+    "dualMultiline": {}
+  },
+  "index": 0,
+  "limit": 1
+}

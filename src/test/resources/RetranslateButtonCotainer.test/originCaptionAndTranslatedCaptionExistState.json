@@ -1,0 +1,191 @@
+{
+  "appSetting": {
+      "realTimeTranslationFlag": true
+  },
+  "multiline": {
+      "captions": []
+  },
+  "originCaption": {
+      "captions": [
+          {
+              "id": 1,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 1,
+                              "end": 0.51,
+                              "start": 0.27,
+                              "text": "내가",
+                              "confidence": 0.978
+                          },
+                          {
+                              "id": 2,
+                              "end": 1.44,
+                              "start": 0.51,
+                              "text": "안녕하세요",
+                              "confidence": 0.474
+                          }
+                      ],
+                      "id": 1,
+                      "style": {
+                          "background": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 0
+                          }
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.02
+          }
+      ],
+      "defaultStyle": {
+          "color": {
+              "r": 163,
+              "g": 255,
+              "b": 166,
+              "a": 1
+          },
+          "outline": 3,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 95
+      }
+  },
+  "popup": {},
+  "project": {
+      "selectedEditType": "origin",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+          "origin": 20,
+          "translated": 40
+      },
+      "sequence": [
+          "origin",
+          "translated"
+      ],
+      "projectDefaultStyle": {
+          "background": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "color": {
+              "r": 243,
+              "g": 250,
+              "b": 86,
+              "a": 1
+          },
+          "outline": 3,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "projectName": "무야호 origin",
+      "videoPath": "file://C:\\Users\\hogeu\\Desktop\\테스트 짧은 영상\\무한도전 무야호_360p.mp4",
+      "videoMeta": {
+          "width": 640,
+          "height": 360
+      },
+      "totalTranslateTaskLength": 5,
+      "nowTranslateTaskLength": 5,
+      "trnaldatedGuidClosed": true
+  },
+  "projectCotrol": {
+      "focusParagraphMetas": [
+          {
+              "path": {
+                  "lineIndex": 0,
+                  "paragraphIndex": 0
+              },
+              "source": "list",
+              "type": "originCaption"
+          }
+      ],
+      "selectedStyleEditType": "line"
+  },
+  "translatedCaption": {
+      "defaultStyle": {
+          "color": {
+              "r": 163,
+              "g": 255,
+              "b": 166,
+              "a": 1
+          },
+          "outline": 3,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 95
+      },
+      "captions": [
+          {
+              "id": 1,
+              "origin": "내가 안녕하세요",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 0.27,
+                                      "end": 1.148,
+                                      "text": "hello",
+                                      "id": 3
+                                  },
+                                  {
+                                      "start": 1.148,
+                                      "end": 1.44,
+                                      "text": "i",
+                                      "id": 4
+                                  }
+                              ],
+                              "id": 2
+                          }
+                      ],
+                      "id": 9
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "안녕하세요"
+          }
+      ]
+  },
+  "translatedMultiline": {
+      "captions": [],
+      "checkpoint": 1
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

@@ -1,0 +1,81 @@
+{
+  "multiline": {
+      "captions": [{
+          "lines": [{
+              "words": [{
+                  "end": 16.834467,
+                  "start": 0,
+                  "text": "새로 생성한 줄입니다",
+                  "id": 0
+              }],
+              "id": 0
+          }],
+          "id": 7
+      }, {
+          "lines": [{
+              "words": [{
+                  "end": 16.834467,
+                  "start": 0,
+                  "text": "새로 생성한 줄입니다",
+                  "id": 1
+              }],
+              "id": 1
+          }],
+          "id": 8
+      }, {
+          "lines": [{
+              "words": [{
+                  "end": 16.834467,
+                  "start": 0,
+                  "text": "새로 생성한 줄입니다",
+                  "id": 2
+              }],
+              "id": 2
+          }],
+          "id": 9
+      }, {
+          "lines": [{
+              "words": [{
+                  "end": 16.834467,
+                  "start": 0,
+                  "text": "새로 생성한 줄입니다",
+                  "id": 3
+              }],
+              "id": 3
+          }],
+          "id": 10,
+          "horizontal": 0.5,
+          "vertical": 0.18
+      }],
+      "defaultStyle": {
+          "background": {
+              "r": 177,
+              "g": 157,
+              "b": 245,
+              "a": 0.86
+          },
+          "color": {
+              "r": 245,
+              "g": 240,
+              "b": 250,
+              "a": 1
+          },
+          "outline": 3,
+          "outlineColor": {
+              "r": 3,
+              "g": 7,
+              "b": 49,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "defaultLocation": {
+          "vertical": 0.18,
+          "horizontal": 0.5
+      }
+  }
+}

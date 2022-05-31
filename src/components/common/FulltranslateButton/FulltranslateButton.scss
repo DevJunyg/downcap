@@ -1,0 +1,26 @@
+.downcap-fulltranslateButton-container {
+  border: 1px solid rgb(196, 196, 196);
+  border-bottom: 0px;
+  border-top-left-radius: 0.4rem;
+  border-top-right-radius: 0.4rem;
+  display: flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+  margin-right: 0.5rem;
+
+  .downcap-fulltranslateButton-button {
+    display: flex;
+    cursor: pointer;
+
+    .fulltranslate-icon {
+      width: 1.3rem;
+      margin-right: 3px;
+    }
+
+    div {
+      align-items: center;
+      font-size: 0.8rem;
+      font-weight: 500;
+    }
+  }
+}

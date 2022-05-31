@@ -1,0 +1,143 @@
+{
+	"translatedMultiline": {
+		"captions": [{
+			"id": 0,
+			"lines": [{
+				"id": 0,
+				"words": [{
+					"start": 0,
+					"id": 0,
+					"end": 16.834467,
+					"text": "This is a newly created line"
+				}],
+				"style": {
+						"background": {
+								"r": 255,
+								"g": 255,
+								"b": 255,
+								"a": 0
+						},
+						"color": {
+								"r": 255,
+								"g": 223,
+								"b": 255,
+								"a": 1
+						},
+						"outline": 3,
+						"outlineColor": {
+								"r": 88,
+								"g": 21,
+								"b": 192,
+								"a": 1
+						},
+						"bold": true,
+						"underline": false,
+						"italic": false,
+						"font": 4,
+						"fontSize": 100
+				}
+			}],
+			"meta": {
+				"sourceId": 7,
+				"sourceText": "새로 생성한 줄입니다",
+				"status": "Successed",
+				"translatedText": "This is a newly created line"
+			}
+		}, {
+			"id": 1,
+			"lines": [{
+				"id": 1,
+				"words": [{
+					"start": 0,
+					"id": 1,
+					"end": 16.834467,
+					"text": "This is a newly created line"
+				}]
+			}],
+			"meta": {
+				"sourceId": 8,
+				"sourceText": "새로 생성한 줄입니다",
+				"status": "Successed",
+				"translatedText": "This is a newly created line"
+			}
+		}, {
+			"id": 2,
+			"lines": [{
+				"id": 2,
+				"words": [{
+					"start": 0,
+					"id": 2,
+					"end": 16.834467,
+					"text": "This is a newly created line"
+				}]
+			}],
+			"meta": {
+				"sourceId": 9,
+				"sourceText": "새로 생성한 줄입니다",
+				"status": "Successed",
+				"translatedText": "This is a newly created line"
+			}
+		}, {
+			"id": 3,
+			"lines": [{
+				"id": 3,
+				"words": [{
+					"start": 0,
+					"id": 3,
+					"end": 16.834467,
+					"text": "This is a newly created line"
+				}]
+			}],
+			"meta": {
+				"sourceId": 10,
+				"sourceText": "새로 생성한 줄입니다",
+				"status": "Successed",
+				"translatedText": "This is a newly created line"
+			}
+		}, {
+			"lines": [{
+				"words": [{
+					"end": 16.834467,
+					"start": 0,
+					"text": "This is a newly created line",
+					"id": 4
+				}],
+				"id": 4
+			}],
+			"id": 29,
+			"horizontal": 0.5,
+			"vertical": 0.17
+		}],
+		"checkpoint": 28,
+		"defaultStyle": {
+			"background": {
+				"r": 177,
+				"g": 157,
+				"b": 245,
+				"a": 0.86
+			},
+			"color": {
+				"r": 245,
+				"g": 240,
+				"b": 250,
+				"a": 1
+			},
+			"outline": 3,
+			"outlineColor": {
+				"r": 3,
+				"g": 7,
+				"b": 49,
+				"a": 1
+			},
+			"bold": true,
+			"underline": false,
+			"italic": false,
+			"font": 4,
+			"fontSize": 100
+		},
+		"defaultLocation": {
+			"vertical": 0.17,
+			"horizontal": 0.5
+		}
+	}
+}

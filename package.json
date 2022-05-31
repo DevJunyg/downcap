@@ -1,0 +1,192 @@
+{
+  "name": "downcap",
+  "author": "mnutube",
+  "description": "This is a subtitle auto-generation program.",
+  "version": "1.12.5",
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "osxSign": {
+          "identity": "Developer ID Application: KwangSun Lee (2J87XKF38S)",
+          "hardened-runtime": true,
+          "entitlements": "entitlements.plist",
+          "entitlements-inherit": "entitlements.plist",
+          "signature-flags": "library"
+        },
+        "osxNotarize": {
+          "appleId": "yes@mnutube.com",
+          "appleIdPassword": "ezif-usax-ucnk-lawq"
+        }
+      }
+    }
+  },
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/pro-duotone-svg-icons": "^5.15.4",
+    "@fortawesome/pro-light-svg-icons": "^5.15.4",
+    "@fortawesome/pro-regular-svg-icons": "^5.15.4",
+    "@fortawesome/pro-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@material-ui/lab": "^4.0.0-alpha.60",
+    "@mnutube/logging": "^2.1.0",
+    "@reduxjs/toolkit": "^1.6.2",
+    "axios": "^0.23.0",
+    "classnames": "^2.3.1",
+    "dotenv": "^10.0.0",
+    "electron-updater": "^4.6.1",
+    "font-list": "^1.4.0",
+    "form-data": "^4.0.0",
+    "https": "^1.0.0",
+    "i18next": "^21.6.0",
+    "i18next-fs-backend": "^1.1.4",
+    "iconv": "^3.0.1",
+    "lodash": "^4.17.21",
+    "node-notifier": "^10.0.0",
+    "node-sass": "^6.0.1",
+    "react": "^17.0.2",
+    "react-color": "^2.19.3",
+    "react-dom": "^17.0.2",
+    "react-i18next": "^11.14.2",
+    "react-redux": "^7.2.5",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "^4.0.3",
+    "redux": "^4.1.1",
+    "redux-actions": "^2.6.5",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-pender": "^2.0.12",
+    "redux-saga": "^1.1.3",
+    "redux-undo": "^1.0.1",
+    "ssl-root-cas": "^1.3.1",
+    "uuid": "^8.3.2",
+    "web-vitals": "^2.1.2",
+    "xml-js": "^1.6.11"
+  },
+  "main": "src/electron/electron-starter.js",
+  "scripts": {
+    "coverage": "jest --coverage --coverageReporters=cobertura",
+    "react-start": "react-scripts start",
+    "react-build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom --testResultsProcessor ./node_modules/jest-sonar-reporter/index.js",
+    "eject": "react-scripts eject",
+    "electron-run": "electron .",
+    "electron-run:dev": "electron --inspect=5858 --trace-warnings .",
+    "start:dev": "nf -e .env,.env.local,.env.development,.env.development.local start",
+    "start:product": "nf start",
+    "dist:win": "yarn run react-scripts build && electron-builder -w -p never",
+    "dist:mac": "yarn run react-scripts build && electron-builder -m"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/eslint-parser": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "@babel/preset-typescript": "^7.15.0",
+    "@testing-library/dom": "^8.10.1",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/react-hooks": "^7.0.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/classnames": "^2.3.1",
+    "@types/i18next": "^13.0.0",
+    "@types/i18next-fs-backend": "^1.1.2",
+    "@types/iconv": "^3.0.0",
+    "@types/immutable": "^3.8.7",
+    "@types/jest": "^27.0.2",
+    "@types/lodash": "^4.14.175",
+    "@types/react": "^17.0.30",
+    "@types/react-color": "^3.0.5",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-i18next": "^8.1.0",
+    "@types/react-redux": "^7.1.19",
+    "@types/react-router-dom": "^5.3.1",
+    "@types/redux-actions": "^2.6.2",
+    "electron": "^14.1.1",
+    "electron-builder": "^22.13.1",
+    "electron-forge": "^5.2.4",
+    "electron-rebuild": "^3.2.3",
+    "eslint": "^8.0.1",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-plugin-flowtype": "^6.1.1",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-react": "^7.26.1",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "foreman": "^3.0.1",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.3.0",
+    "jest-css-modules-transform": "^4.3.0",
+    "jest-sonar-reporter": "^2.0.0",
+    "jest-transform-css": "^2.1.0",
+    "jest-watch-typeahead": "^1.0.0",
+    "ts-jest": "^27.0.7",
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  },
+  "homepage": "./",
+  "build": {
+    "appId": "net.downcap",
+    "extends": null,
+    "icon": "icon.ico",
+    "directories": {
+      "buildResources": "public"
+    },
+    "extraFiles": [
+      "${os}/*",
+      "i18n/*",
+      "sample/sample.mp4"
+    ],
+    "fileAssociations": {
+      "ext": ".docp",
+      "name": "DOCP File",
+      "role": "Editor"
+    },
+    "win": {
+      "certificateSubjectName": "M&Utube",
+      "publish": [
+        {
+          "provider": "generic",
+          "url": "https://downcap.net/release/"
+        }
+      ]
+    },
+    "mac": {
+      "hardenedRuntime": true,
+      "gatekeeperAssess": false,
+      "publish": [
+        {
+          "provider": "generic",
+          "url": "https://downcap.net/release/"
+        }
+      ]
+    }
+  },
+  "jestSonar": {
+    "reportPath": "coverage",
+    "reportFile": "sonar-report.xml",
+    "indent": 4
+  },
+  "packageManager": "yarn@3.0.2",
+  "engines": {
+    "node": ">=14.17.0"
+  }
+}

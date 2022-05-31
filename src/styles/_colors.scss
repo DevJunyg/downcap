@@ -1,0 +1,109 @@
+$color-violet: #7d1ed8;
+$color-summer-sky: #29abe2;
+$color-black: #161616;
+$color-red: #d50000;
+$color-whisper: #e6e6e6;
+$color-gray80: #cccccc;
+$color-light-gray: #d6d6d6;
+$color-light-grayish-blue: #dee2e6;
+$color_scarlet: #ff5e5e;
+$color-dark-red: #4d4d4d;
+$color-white-smoke: #f2f2f2;
+$color-white: #ffffff;
+$color-real-red: #e22929;
+$color-reddish: #ff6666;
+$color-shine-gray: #c4c0c0;
+$color-warm-gray: #ffffff26;
+$color-soft-gray: #ffffff80;
+$color-deep-gray: #444444;
+$color-soft-black: #1a1a1a;
+$color-pure-yellow: #FFF500;
+
+$danger-color: $color_scarlet;
+
+$border-color-default: $color-light-grayish-blue;
+
+$body-border-color: gray;
+$read-only-bg-color: gray;
+
+$main-background-color: $color-violet;
+$main-color: white;
+
+$ribbon-bg-color: $color-violet;
+$ribbon-color: #f2e9fb;
+
+$titlebar-color: $color-gray80;
+$titlebar-bg-color: #5f00aa;
+$titlebar-control-box-color: $color-gray80;
+$titlebar-btn-hover-color: white;
+$titlebar-btn-hover-bg-color: darken($titlebar-bg-color, 10);
+$titlebar-btn-exit-hover-color: white;
+$titlebar-btn-exit-hover-bg-color: darken(red, 10%);
+
+$editor-player-pane-bg-color: $color-whisper;
+
+$subtitle-standby-color: $color-whisper;
+$subtitle-highlight-color: $color-violet;
+$subtitle-time-table-standby-color: $subtitle-standby-color;
+$subtitle-time-table-highlight-color: $subtitle-highlight-color;
+$subtitle-words-box-standby-color: $subtitle-standby-color;
+$subtitle-words-box-highlight-color: $subtitle-highlight-color;
+$subtitle-highlight-bg-color: $color-whisper;
+
+$login-btn-active-color: $color-summer-sky;
+
+$styles-controls-title: $color-violet;
+
+$guide-color: $color-light-gray;
+
+$rendering-popup-message-color: $color-dark-red;
+$rendering-popup-message-content-title-color: $color-violet;
+
+$middle-line-border-bottom-color: $color-white-smoke;
+
+$rendering-cancel-btn-border-color: $color-whisper;
+$rendering-cancel-btn-hover-background-color: $color-real-red;
+$rendering-cancel-btn-hover-color: $color-white;
+
+$progress-bar-stripes-background-image-color: $color-warm-gray;
+$progress-bar-inner-box-shadow-color: $color-soft-gray;
+$progress-bar-inner-box-background-color: $color-violet;
+$progress-bar-background-color: $color-soft-black;
+$progress-bar-box-first-shadow-color: black;
+$progress-bar-box-second-shadow-color: $color-deep-gray;
+$progress-bar-text-color: white;
+$progress-render-text-percent-color: $color-violet;
+$progress-notice-text-color: $color-shine-gray;
+
+$rendering-fail-popup-close-btn-border-color: $color-whisper;
+$rendering-fail-popup-close-btn-hover-background-color: $color-light-gray;
+$rendering-fail-popup-close-btn-hover-color: white;
+$rendering-fail-popup-icon-color: $color-real-red;
+
+$user-info-content-background-color: $color-violet;
+$user-letter-color: $color-pure-yellow;
+$user-select-hover-background-color: $color-white;
+$user-select-hover-color: $color-violet;
+$youtube-video-upload-embeddable-message-color: $color-reddish;
+
+$exportPopup-notice-color: $color-summer-sky;
+
+$font-invalid-highlight-color: $color-violet;
+$font-invalid-text-guide-color: red;
+$font-invalid-list-menu-color: white;
+$font-invalid-list-menu-background-color: #7d1ed8;
+$font-invalid-list-menu-border-color: #cccccc;
+$font-invalid-list-border-color: $color-gray80;
+$font-invalid-list-item-text-line-border-bottom-color: #7d1ed8;
+$font-invalid-list-item-lang-color: #7d1ed8;
+$font-invalid-list-item-separator-color: #cccccc;
+$font-invalid-list-item-type-color: #7d1ed8;
+$font-invalid-list-item-btn-border-color: $color-whisper;
+$font-invalid-list-item-btn-background-color: white;
+$font-invalid-list-item-btn-hover-color: white;
+$font-invalid-list-item-btn-hover-background-color: #7d1ed8;
+$font-invalid-list-item-hover-background-color: #e6e6e6;
+$font-invalid-list-close-btn-border-color: $color-whisper;
+$font-invalid-list-close-btn-background-color: white;
+$font-invalid-list-close-btn-hover-color: white;
+$font-invalid-list-close-btn-hover-background-color: #7d1ed8;

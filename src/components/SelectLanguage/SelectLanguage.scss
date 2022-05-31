@@ -1,0 +1,18 @@
+.select-language-button-label {
+  color: inherit;
+  font-weight: 700;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.help-image-icon {
+  color: #adadad;
+  margin-left: 1rem;
+  cursor: pointer;
+  vertical-align: middle;
+  font-size: 1.8rem;
+
+  &:hover {
+    color: gray;
+  }
+}

@@ -1,0 +1,40 @@
+@import "styles/_colors.scss";
+
+.retranslate-contents {
+  color: #4d4d4d;
+  flex-direction: column;
+  margin: 0 1rem 0 1rem;
+
+  .retranslate-popup-title-box {
+    text-align: center;
+    margin-top: 1.5rem;
+
+    .retranslate-popup-title-img {
+      width: 5rem;
+      margin-bottom: 0.2rem;
+    }
+
+    .retranslate-popup-title {
+      color: $color-violet;
+      font-size: 1.3rem;
+      font-weight: bold;
+    }
+  }
+
+  .retranslate-popup-message-box {
+    display: flex;
+    flex-direction: column;
+    margin: 1.3rem 1rem;
+
+    .retranslate-popup-message {
+      display: flex;
+      align-items: center;
+      font-size: 1rem;
+
+      .retranslate-popup-icon {
+        width: 1.3rem;
+        margin-right: 0.3rem;
+      }
+    }
+  }
+}

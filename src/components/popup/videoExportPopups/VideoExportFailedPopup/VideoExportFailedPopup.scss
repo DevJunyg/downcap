@@ -1,0 +1,43 @@
+@import "styles/_colors.scss";
+
+.rendering-fail-popup {
+  .rendering-fail-btn {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .popup-close-btn {
+    border: $rendering-fail-popup-close-btn-border-color solid 1px;
+    border-radius: 8.5px;
+    margin: 0.5rem 0 0.5rem 0.5rem;
+    padding: 0.2rem 0.5rem;
+    font-weight: 500;
+    width: 5rem;
+    
+    &:hover {
+      background-color: $rendering-fail-popup-close-btn-hover-background-color;
+      color: $rendering-fail-popup-close-btn-hover-color;
+    }
+  }
+
+  .rendering-fail-box {
+    display: flex;
+    align-items: center;
+    margin: 1rem 1.5rem 0 1.5rem;
+
+    .rendering-fail-icon {
+      width: 40px;
+      height: inherit;
+      margin: 1rem 1.5rem 1rem 1rem;
+      color: $rendering-fail-popup-icon-color;
+    }
+
+    .rendering-fail-text {
+      width: inherit;
+      text-align: left;
+      z-index: 1;
+      height: inherit;
+      margin: 0.3rem 0.3rem 1rem 0.3rem;
+    }
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "lines": [
+      {
+        "words": [
+          {
+            "confidence": 0.768,
+            "start": 0.27,
+            "end": 1.107,
+            "text": "인간의",
+            "id": 20
+          },
+          {
+            "confidence": 0.956,
+            "start": 1.17,
+            "end": 1.53,
+            "text": "일본",
+            "id": 21
+          },
+          {
+            "confidence": 0.345,
+            "start": 1.53,
+            "end": 2.37,
+            "text": "보강하시나요",
+            "id": 22,
+            "style": {
+              "color": {
+                "r": 245,
+                "g": 223,
+                "b": 77,
+                "a": 1
+              },
+              "outline": 3,
+              "outlineColor": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              },
+              "bold": true
+            }
+          }
+        ],
+        "id": 4,
+        "style": {
+          "background": {
+            "r": 255,
+            "g": 0,
+            "b": 0,
+            "a": 1
+          },
+          "color": {
+            "r": 158,
+            "g": 25,
+            "b": 23,
+            "a": 1
+          },
+          "outline": 1,
+          "outlineColor": {
+            "r": 221,
+            "g": 220,
+            "b": 218,
+            "a": 1
+          },
+          "bold": false,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+        }
+      }
+    ],
+    "id": 23
+  },
+  {
+    "lines": [
+      {
+        "words": [
+          {
+            "confidence": 0.66,
+            "start": 2.79,
+            "end": 3.144,
+            "text": "양은",
+            "id": 24
+          },
+          {
+            "confidence": 0.714,
+            "start": 3.148,
+            "end": 3.926,
+            "text": "산업단지",
+            "id": 25
+          },
+          {
+            "confidence": 0.214,
+            "start": 3.991,
+            "end": 4.609,
+            "text": "유튜버의",
+            "id": 26
+          },
+          {
+            "confidence": 0.389,
+            "start": 4.618,
+            "end": 5.337,
+            "text": "스마트도",
+            "id": 27,
+            "style": {
+              "color": {
+                "r": 206,
+                "g": 56,
+                "b": 38,
+                "a": 1
+              }
+            }
+          },
+          {
+            "confidence": 0.312,
+            "start": 5.58,
+            "end": 5.85,
+            "text": "아웃",
+            "id": 28
+          }
+        ],
+        "id": 5
+      }
+    ],
+    "id": 29
+  }
+]

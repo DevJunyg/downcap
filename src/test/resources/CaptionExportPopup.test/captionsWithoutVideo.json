@@ -1,0 +1,317 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 0,
+                "text": "새로 생성한 줄입니다",
+                "id": 2
+              }
+            ],
+            "id": 2
+          }
+        ],
+        "id": 9459
+      }
+    ]
+  },
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 0.12,
+                "end": 1.083,
+                "text": "안녕하세요",
+                "id": 9148
+              },
+              {
+                "start": 1.083,
+                "end": 1.565,
+                "text": "걸러",
+                "id": 9149
+              },
+              {
+                "start": 1.565,
+                "end": 2.367,
+                "text": "스케일의",
+                "id": 9150
+              },
+              {
+                "start": 2.367,
+                "end": 3.33,
+                "text": "볼로입니다",
+                "id": 9151
+              }
+            ],
+            "id": 1556
+          }
+        ],
+        "id": 9152
+      }
+    ]
+  },
+  "popup": {},
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 165,
+        "g": 174,
+        "b": 246,
+        "a": 0.5
+      },
+      "color": {
+        "r": 191,
+        "g": 222,
+        "b": 255,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    },
+    "projectName": "1,9 테스트 자막",
+    "totalTranslateTaskLength": 6,
+    "nowTranslateTaskLength": 6,
+    "trnaldatedGuidClosed": true
+  },
+  "projectCotrol": {},
+  "translatedCaption": {
+    "captions": [
+      {
+        "id": 92,
+        "origin": "안녕하세요 걸러 스케일의 볼로입니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 0.12,
+                    "end": 0.655,
+                    "text": "Hello,",
+                    "id": 1800
+                  },
+                  {
+                    "start": 0.655,
+                    "end": 1.037,
+                    "text": "this",
+                    "id": 1801
+                  },
+                  {
+                    "start": 1.037,
+                    "end": 1.266,
+                    "text": "is",
+                    "id": 1802
+                  },
+                  {
+                    "start": 1.266,
+                    "end": 1.649,
+                    "text": "Bolo",
+                    "id": 1803
+                  },
+                  {
+                    "start": 1.649,
+                    "end": 1.878,
+                    "text": "of",
+                    "id": 1804
+                  },
+                  {
+                    "start": 1.878,
+                    "end": 2.336,
+                    "text": "every",
+                    "id": 1805
+                  },
+                  {
+                    "start": 2.336,
+                    "end": 2.795,
+                    "text": "other",
+                    "id": 1806
+                  },
+                  {
+                    "start": 2.795,
+                    "end": 3.33,
+                    "text": "scale.",
+                    "id": 1807
+                  }
+                ],
+                "id": 273
+              }
+            ],
+            "id": 9440
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "안녕하세요, 이것은 다른 모든 스케일의 볼로입니다."
+      }
+    ]
+  },
+  "translatedMultiline": {
+    "checkpoint": 9460,
+    "captions": [
+      {
+        "id": 0,
+        "lines": [
+          {
+            "id": 0,
+            "words": [
+              {
+                "start": 0,
+                "id": 0,
+                "end": 30,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 9459,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      }
+    ]
+  },
+  "youtubeSearch": {},
+  "dualCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "text": "안녕하세요"
+              },
+              {
+                "text": "걸러"
+              },
+              {
+                "text": "스케일의"
+              },
+              {
+                "text": "볼로입니다"
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 165,
+                "g": 174,
+                "b": 246,
+                "a": 0.5
+              },
+              "color": {
+                "r": 191,
+                "g": 222,
+                "b": 255,
+                "a": 1
+              },
+              "outline": 3,
+              "outlineColor": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              },
+              "bold": true,
+              "underline": false,
+              "italic": false,
+              "font": 4,
+              "fontSize": 100
+            }
+          },
+          {
+            "words": [
+              {
+                "text": "Hello,"
+              },
+              {
+                "text": "this"
+              },
+              {
+                "text": "is"
+              },
+              {
+                "text": "Bolo"
+              },
+              {
+                "text": "of"
+              },
+              {
+                "text": "every"
+              },
+              {
+                "text": "other"
+              },
+              {
+                "text": "scale."
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 165,
+                "g": 174,
+                "b": 246,
+                "a": 0.5
+              },
+              "color": {
+                "r": 191,
+                "g": 222,
+                "b": 255,
+                "a": 1
+              },
+              "outline": 3,
+              "outlineColor": {
+                "r": 0,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              },
+              "bold": true,
+              "underline": false,
+              "italic": false,
+              "font": 4,
+              "fontSize": 100
+            }
+          }
+        ],
+        "start": 0.12,
+        "end": 3.33
+      }
+    ]
+  },
+  "dualMultiline": {
+    "captions": []
+  }
+}

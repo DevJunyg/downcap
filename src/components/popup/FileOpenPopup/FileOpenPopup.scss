@@ -1,0 +1,114 @@
+@import "styles/_colors.scss";
+
+.file-open-popup-contents {
+  color: #4d4d4d;
+  margin: 0.3rem 0.3rem 0.3rem 0.3rem;
+
+  .content-title {
+    color: $color-violet;
+    font-size: 1rem;
+    font-weight: 700;
+    width: fit-content;
+    padding-right: 0.8rem;
+    white-space: nowrap;
+  }
+
+  .select-box {
+    display: flex;
+    align-items: center;
+    margin: 1rem 1.5rem;
+
+    .options-box {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      text-align: center;
+
+      .option-element {
+        display: flex;
+        margin-bottom: 0.5rem;
+        align-items: center;
+
+        input[type="radio"] {
+          margin: 1px;
+          margin-right: 5px;
+        }
+      }
+    }
+  }
+
+  .prediction-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0.5rem 1.5rem 0 1.5rem;
+
+    .prediction-element {
+      display: flex;
+      justify-content: flex-end;
+      align-items: baseline;
+      width: 100%;
+
+      .prediction-value {
+        color: $color-summer-sky;
+        font-weight: bold;
+        margin: 0 0.25rem 0 0.5rem;
+      }
+
+      .prediction-value-unit {
+        color: $color-violet;
+        font-weight: bold;
+      }
+
+      .file-name {
+        display: block;
+        text-align: center;
+        line-height: 150%;
+        font-size: 0.75rem;
+        padding-top: 3px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        border: solid 1px $color-gray80;
+        background-color: white;
+        margin: 0;
+        margin-right: 0.5rem;
+
+        .srt-error {
+          text-align: center;
+          color: red;
+          font-size: 0.8rem;
+        }
+      }
+
+      .attach-file-button {
+        font-size: 0.85rem;
+        font-weight: bold;
+        text-align: center;
+        width: 4.5rem;
+        padding-top: 1px;
+        border: solid 1px $color-gray80;
+        border-radius: 5px;
+        background-color: white;
+        cursor: pointer;
+
+        &:active {
+          color: white;
+          background-color: $color-violet;
+          border-color: $color-violet;
+        }
+      }
+    }
+    .notice {
+      margin: 0 auto;
+    }
+  }
+
+  .popup-player {
+    display: none;
+  }
+
+  .middle-line {
+    border-bottom: #f2f2f2 solid 1px;
+  }
+}

@@ -1,0 +1,222 @@
+{
+    "appSetting": {
+        "realTimeTranslationFlag": false
+    },
+    "multiline": {
+        "captions": [
+            {
+                "lines": [
+                    {
+                        "words": [
+                            {
+                                "end": 16.834467,
+                                "start": 0,
+                                "text": "새로 생성한 줄입니다",
+                                "id": 0
+                            }
+                        ],
+                        "id": 0
+                    }
+                ],
+                "id": 7
+            }
+        ]
+    },
+    "originCaption": {
+        "captions": [
+            {
+                "id": 1,
+                "lines": [
+                    {
+                        "words": [
+                            {
+                                "id": 1,
+                                "end": 0.51,
+                                "start": 0.27,
+                                "text": "내가",
+                                "confidence": 0.979,
+                                "style": {
+                                    "color": {
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255,
+                                        "a": 1
+                                    },
+                                    "outlineColor": {
+                                        "r": 34,
+                                        "g": 34,
+                                        "b": 34,
+                                        "a": 1
+                                    }
+                                }
+                            },
+                            {
+                                "id": 2,
+                                "end": 1.44,
+                                "start": 0.51,
+                                "text": "안녕하세요",
+                                "confidence": 0.463,
+                                "style": {
+                                    "color": {
+                                        "r": 255,
+                                        "g": 255,
+                                        "b": 255,
+                                        "a": 1
+                                    },
+                                    "outlineColor": {
+                                        "r": 34,
+                                        "g": 34,
+                                        "b": 34,
+                                        "a": 1
+                                    }
+                                }
+                            }
+                        ],
+                        "id": 1,
+                        "style": {
+                            "left": 50,
+                            "bottom": 5,
+                            "bold": true,
+                            "italic": false,
+                            "underline": false,
+                            "align": "center",
+                            "captionsLocation": "center",
+                            "outline": 0,
+                            "fontSize": 100,
+                            "font": 4
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "popup": {},
+    "project": {
+        "selectedEditType": "translated",
+        "selectedPreviewType": "web",
+        "wordSplits": {
+            "origin": 20,
+            "translated": 40
+        },
+        "sequence": [
+            "origin",
+            "translated"
+        ],
+        "projectDefaultStyle": {
+            "background": {
+                "r": 177,
+                "g": 157,
+                "b": 245,
+                "a": 0.86
+            },
+            "color": {
+                "r": 245,
+                "g": 240,
+                "b": 250,
+                "a": 1
+            },
+            "outline": 3,
+            "outlineColor": {
+                "r": 3,
+                "g": 7,
+                "b": 49,
+                "a": 1
+            },
+            "bold": true,
+            "underline": false,
+            "italic": false,
+            "font": 4,
+            "fontSize": 100
+        },
+        "trnaldatedGuidClosed": true,
+        "projectName": "무한도전 무야호_360pE-test",
+        "videoPath": "file://C:\\Users\\hogeu\\Desktop\\테스트 짧은 영상\\무한도전 무야호_360p.mp4",
+        "videoMeta": {
+            "width": 640,
+            "height": 360
+        },
+        "totalTranslateTaskLength": 5,
+        "nowTranslateTaskLength": 5
+    },
+    "projectCotrol": {
+        "selectedStyleEditType": "line",
+        "focusParagraphMetas": [
+            {
+                "path": {
+                    "lineIndex": 0,
+                    "captionIndex": 1,
+                    "paragraphIndex": 0
+                },
+                "source": "list",
+                "type": "translatedCaption"
+            }
+        ]
+    },
+    "translatedCaption": {
+        "captions": [
+            {
+                "id": 1,
+                "origin": "내가 안녕하세요",
+                "paragraphs": [
+                    {
+                        "lines": [
+                            {
+                                "words": [
+                                    {
+                                        "start": 0.27,
+                                        "end": 1.148,
+                                        "text": "hello",
+                                        "id": 3
+                                    },
+                                    {
+                                        "start": 1.148,
+                                        "end": 1.44,
+                                        "text": "i",
+                                        "id": 4
+                                    }
+                                ],
+                                "id": 2
+                            }
+                        ],
+                        "id": 13
+                    }
+                ],
+                "meta": {
+                    "reversTranslateStatus": "Successed",
+                    "translatStatus": "Successed"
+                },
+                "revers": "안녕하세요"
+            }
+        ]
+    },
+    "translatedMultiline": {
+        "captions": [
+            {
+                "id": 0,
+                "lines": [
+                    {
+                        "id": 0,
+                        "words": [
+                            {
+                                "start": 0,
+                                "id": 0,
+                                "end": 16.834467,
+                                "text": "This is a newly created line"
+                            }
+                        ]
+                    }
+                ],
+                "meta": {
+                    "sourceId": 7,
+                    "sourceText": "새로 생성한 줄입니다",
+                    "status": "Successed",
+                    "translatedText": "This is a newly created line"
+                }
+            }
+        ],
+        "checkpoint": 27
+    },
+    "youtubeSearch": {},
+    "dualCaption": {},
+    "dualMultiline": {}
+}

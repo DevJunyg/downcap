@@ -1,0 +1,795 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 0,
+                "text": "새로 생성한 줄입니다",
+                "id": 2
+              }
+            ],
+            "id": 2
+          }
+        ],
+        "id": 552,
+        "horizontal": 0.72,
+        "vertical": 0.38
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 10,
+                "start": 0,
+                "text": "새로 생성한 줄입니다",
+                "id": 1
+              }
+            ],
+            "id": 1
+          }
+        ],
+        "id": 551,
+        "horizontal": 0.28,
+        "vertical": 0.76
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 10,
+                "text": "새로 생성한 줄입니다",
+                "id": 3
+              }
+            ],
+            "id": 3
+          }
+        ],
+        "id": 553,
+        "horizontal": 0.5,
+        "vertical": 0.49
+      }
+    ]
+  },
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 0.72,
+                "end": 1.406,
+                "text": "저는",
+                "id": 319
+              },
+              {
+                "start": 1.406,
+                "end": 2.779,
+                "text": "개인적으로",
+                "id": 320
+              },
+              {
+                "start": 2.779,
+                "end": 3.236,
+                "text": "아",
+                "id": 321
+              },
+              {
+                "start": 3.236,
+                "end": 3.694,
+                "text": "이",
+                "id": 322
+              },
+              {
+                "start": 3.694,
+                "end": 4.151,
+                "text": "절",
+                "id": 323
+              },
+              {
+                "start": 4.151,
+                "end": 4.837,
+                "text": "후렴",
+                "id": 324
+              },
+              {
+                "start": 4.837,
+                "end": 5.752,
+                "text": "마지막",
+                "id": 325
+              },
+              {
+                "start": 5.752,
+                "end": 6.667,
+                "text": "부분을",
+                "id": 326
+              },
+              {
+                "start": 6.667,
+                "end": 8.04,
+                "text": "좋아하구요",
+                "id": 327
+              }
+            ],
+            "id": 40
+          }
+        ],
+        "id": 328
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 9.63,
+                "end": 10.14,
+                "text": "그리고",
+                "id": 329
+              }
+            ],
+            "id": 41
+          }
+        ],
+        "id": 330
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 11.64,
+                "end": 12.452,
+                "text": "코러스와",
+                "id": 331
+              },
+              {
+                "start": 12.452,
+                "end": 12.939,
+                "text": "함께",
+                "id": 332
+              },
+              {
+                "start": 12.939,
+                "end": 13.589,
+                "text": "나오는",
+                "id": 333
+              },
+              {
+                "start": 13.589,
+                "end": 13.914,
+                "text": "아",
+                "id": 334
+              }
+            ],
+            "id": 42
+          }
+        ],
+        "id": 335
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 15.302,
+                "end": 15.477,
+                "text": "아",
+                "id": 336
+              },
+              {
+                "start": 15.477,
+                "end": 15.651,
+                "text": "아",
+                "id": 337
+              },
+              {
+                "start": 15.651,
+                "end": 16,
+                "text": "여러분",
+                "id": 338
+              },
+              {
+                "start": 16,
+                "end": 16.262,
+                "text": "아직",
+                "id": 339
+              },
+              {
+                "start": 16.262,
+                "end": 16.524,
+                "text": "눈을",
+                "id": 340
+              },
+              {
+                "start": 16.524,
+                "end": 16.699,
+                "text": "못",
+                "id": 341
+              },
+              {
+                "start": 16.699,
+                "end": 17.31,
+                "text": "들어가셨구나",
+                "id": 342
+              }
+            ],
+            "id": 43
+          }
+        ],
+        "id": 343
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 18.6,
+                "end": 19.36,
+                "text": "코러스와",
+                "id": 344
+              },
+              {
+                "start": 19.36,
+                "end": 19.816,
+                "text": "함께",
+                "id": 345
+              },
+              {
+                "start": 19.816,
+                "end": 20.424,
+                "text": "나오는",
+                "id": 346
+              },
+              {
+                "start": 20.424,
+                "end": 21.336,
+                "text": "급브릿지를",
+                "id": 347
+              },
+              {
+                "start": 21.336,
+                "end": 21.792,
+                "text": "군의",
+                "id": 348
+              },
+              {
+                "start": 21.792,
+                "end": 22.248,
+                "text": "일원",
+                "id": 349
+              },
+              {
+                "start": 22.248,
+                "end": 23.16,
+                "text": "가져가나요",
+                "id": 350
+              }
+            ],
+            "id": 44
+          }
+        ],
+        "id": 351
+      }
+    ]
+  },
+  "popup": {},
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 169,
+        "g": 175,
+        "b": 2,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 16,
+        "g": 78,
+        "b": 4,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    },
+    "totalTranslateTaskLength": 5,
+    "nowTranslateTaskLength": 5,
+    "trnaldatedGuidClosed": true
+  },
+  "projectCotrol": {
+    "selectedStyleEditType": "line",
+    "focusParagraphMetas": [
+      {
+        "path": {
+          "lineIndex": 0,
+          "paragraphIndex": 3
+        },
+        "source": "list",
+        "type": "originCaption"
+      }
+    ]
+  },
+  "translatedCaption": {
+    "captions": [
+      {
+        "id": 33,
+        "origin": "저는 개인적으로 아 이 절 후렴 마지막 부분을 좋아하구요",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 0.72,
+                    "end": 0.96,
+                    "text": "I",
+                    "id": 560
+                  },
+                  {
+                    "start": 0.96,
+                    "end": 2.28,
+                    "text": "personally",
+                    "id": 561
+                  },
+                  {
+                    "start": 2.28,
+                    "end": 2.88,
+                    "text": "like",
+                    "id": 562
+                  },
+                  {
+                    "start": 2.88,
+                    "end": 3.36,
+                    "text": "the",
+                    "id": 563
+                  },
+                  {
+                    "start": 3.36,
+                    "end": 3.96,
+                    "text": "last",
+                    "id": 564
+                  },
+                  {
+                    "start": 3.96,
+                    "end": 4.56,
+                    "text": "part",
+                    "id": 565
+                  },
+                  {
+                    "start": 4.56,
+                    "end": 4.92,
+                    "text": "of",
+                    "id": 566
+                  },
+                  {
+                    "start": 4.92,
+                    "end": 5.4,
+                    "text": "the",
+                    "id": 567
+                  },
+                  {
+                    "start": 5.4,
+                    "end": 6.24,
+                    "text": "chorus",
+                    "id": 568
+                  },
+                  {
+                    "start": 6.24,
+                    "end": 6.6,
+                    "text": "of",
+                    "id": 569
+                  },
+                  {
+                    "start": 6.6,
+                    "end": 7.2,
+                    "text": "this",
+                    "id": 570
+                  }
+                ],
+                "id": 86
+              }
+            ],
+            "id": 557
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 7.2,
+                    "end": 8.04,
+                    "text": "verse.",
+                    "id": 571
+                  }
+                ],
+                "id": 87
+              }
+            ],
+            "id": 558
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "나는 개인적으로 이 구절의 후렴구의 마지막 부분을 좋아한다."
+      },
+      {
+        "id": 34,
+        "origin": "그리고",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 9.63,
+                    "end": 10.14,
+                    "text": "and",
+                    "id": 577
+                  }
+                ],
+                "id": 90
+              }
+            ],
+            "id": 561
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "그리고"
+      },
+      {
+        "id": 35,
+        "origin": "코러스와 함께 나오는 아",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 11.64,
+                    "end": 12.041,
+                    "text": "Ah",
+                    "id": 586
+                  },
+                  {
+                    "start": 12.041,
+                    "end": 12.71,
+                    "text": "with",
+                    "id": 587
+                  },
+                  {
+                    "start": 12.71,
+                    "end": 12.978,
+                    "text": "a",
+                    "id": 588
+                  },
+                  {
+                    "start": 12.978,
+                    "end": 13.914,
+                    "text": "chorus",
+                    "id": 589
+                  }
+                ],
+                "id": 92
+              }
+            ],
+            "id": 563
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "아 후렴과 함께"
+      },
+      {
+        "id": 36,
+        "origin": "아 아 여러분 아직 눈을 못 들어가셨구나",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 15.302,
+                    "end": 15.469,
+                    "text": "Ah,",
+                    "id": 590
+                  },
+                  {
+                    "start": 15.469,
+                    "end": 15.888,
+                    "text": "everyone,",
+                    "id": 591
+                  },
+                  {
+                    "start": 15.888,
+                    "end": 16.055,
+                    "text": "you",
+                    "id": 592
+                  },
+                  {
+                    "start": 16.055,
+                    "end": 16.39,
+                    "text": "haven't",
+                    "id": 593
+                  },
+                  {
+                    "start": 16.39,
+                    "end": 16.683,
+                    "text": "opened",
+                    "id": 594
+                  },
+                  {
+                    "start": 16.682,
+                    "end": 16.892,
+                    "text": "your",
+                    "id": 595
+                  },
+                  {
+                    "start": 16.892,
+                    "end": 17.101,
+                    "text": "eyes",
+                    "id": 596
+                  },
+                  {
+                    "start": 17.101,
+                    "end": 17.31,
+                    "text": "yet.",
+                    "id": 597
+                  }
+                ],
+                "id": 93
+              }
+            ],
+            "id": 564
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "아, 여러분, 아직 눈을 뜨지 않았습니다."
+      },
+      {
+        "id": 37,
+        "origin": "코러스와 함께 나오는 급브릿지를 군의 일원 가져가나요",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 18.6,
+                    "end": 18.761,
+                    "text": "Do",
+                    "id": 615
+                  },
+                  {
+                    "start": 18.761,
+                    "end": 18.976,
+                    "text": "you",
+                    "id": 616
+                  },
+                  {
+                    "start": 18.976,
+                    "end": 19.244,
+                    "text": "take",
+                    "id": 617
+                  },
+                  {
+                    "start": 19.244,
+                    "end": 19.458,
+                    "text": "the",
+                    "id": 618
+                  },
+                  {
+                    "start": 19.458,
+                    "end": 19.78,
+                    "text": "sharp",
+                    "id": 619
+                  },
+                  {
+                    "start": 19.78,
+                    "end": 20.156,
+                    "text": "bridge",
+                    "id": 620
+                  },
+                  {
+                    "start": 20.156,
+                    "end": 20.424,
+                    "text": "that",
+                    "id": 621
+                  },
+                  {
+                    "start": 20.424,
+                    "end": 20.746,
+                    "text": "comes",
+                    "id": 622
+                  },
+                  {
+                    "start": 20.746,
+                    "end": 21.014,
+                    "text": "with",
+                    "id": 623
+                  },
+                  {
+                    "start": 21.014,
+                    "end": 21.229,
+                    "text": "the",
+                    "id": 624
+                  },
+                  {
+                    "start": 21.229,
+                    "end": 21.604,
+                    "text": "chorus",
+                    "id": 625
+                  }
+                ],
+                "id": 96
+              }
+            ],
+            "id": 567
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 21.604,
+                    "end": 21.765,
+                    "text": "as",
+                    "id": 626
+                  },
+                  {
+                    "start": 21.765,
+                    "end": 21.872,
+                    "text": "a",
+                    "id": 627
+                  },
+                  {
+                    "start": 21.872,
+                    "end": 22.248,
+                    "text": "member",
+                    "id": 628
+                  },
+                  {
+                    "start": 22.248,
+                    "end": 22.409,
+                    "text": "of",
+                    "id": 629
+                  },
+                  {
+                    "start": 22.409,
+                    "end": 22.624,
+                    "text": "the",
+                    "id": 630
+                  },
+                  {
+                    "start": 22.624,
+                    "end": 23.16,
+                    "text": "military?",
+                    "id": 631
+                  }
+                ],
+                "id": 97
+              }
+            ],
+            "id": 568
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "군대의 일원으로 합창과 함께 오는 날카로운 다리를 가져 가십니까?"
+      }
+    ]
+  },
+  "translatedMultiline": {
+    "captions": [
+      {
+        "id": 2,
+        "lines": [
+          {
+            "id": 2,
+            "words": [
+              {
+                "start": 0,
+                "id": 1,
+                "end": 30,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 552,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      },
+      {
+        "id": 3,
+        "lines": [
+          {
+            "id": 3,
+            "words": [
+              {
+                "start": 0,
+                "id": 2,
+                "end": 10,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 551,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      },
+      {
+        "id": 4,
+        "lines": [
+          {
+            "id": 4,
+            "words": [
+              {
+                "start": 10,
+                "id": 3,
+                "end": 30,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 553,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      }
+    ],
+    "checkpoint": 554
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

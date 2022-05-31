@@ -1,0 +1,3395 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {},
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.862,
+                "start": 2.91,
+                "end": 3.239,
+                "text": "인사",
+                "id": 1153
+              },
+              {
+                "confidence": 1,
+                "start": 3.245,
+                "end": 3.57,
+                "text": "시간도",
+                "id": 1154
+              },
+              {
+                "confidence": 0.918,
+                "start": 3.57,
+                "end": 3.934,
+                "text": "없습니다",
+                "id": 1155
+              }
+            ],
+            "id": 178
+          }
+        ],
+        "id": 1156
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.48,
+                "start": 3.934,
+                "end": 4.2,
+                "text": "안될",
+                "id": 1157
+              },
+              {
+                "confidence": 0.446,
+                "start": 4.2,
+                "end": 4.47,
+                "text": "거하게",
+                "id": 1158
+              },
+              {
+                "confidence": 0.967,
+                "start": 4.47,
+                "end": 4.71,
+                "text": "레알",
+                "id": 1159
+              },
+              {
+                "confidence": 0.995,
+                "start": 4.71,
+                "end": 5.01,
+                "text": "짧은",
+                "id": 1160
+              },
+              {
+                "confidence": 0.723,
+                "start": 5.011,
+                "end": 5.91,
+                "text": "과긴급각의",
+                "id": 1161
+              },
+              {
+                "confidence": 0.685,
+                "start": 5.91,
+                "end": 6.63,
+                "text": "공진입니다",
+                "id": 1162
+              }
+            ],
+            "id": 179
+          }
+        ],
+        "id": 1163
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.892,
+                "start": 6.66,
+                "end": 6.99,
+                "text": "오늘은",
+                "id": 1164
+              },
+              {
+                "confidence": 1,
+                "start": 6.99,
+                "end": 7.59,
+                "text": "현대인들에게",
+                "id": 1165
+              },
+              {
+                "confidence": 0.853,
+                "start": 7.59,
+                "end": 7.8,
+                "text": "매우",
+                "id": 1166
+              },
+              {
+                "confidence": 1,
+                "start": 7.8,
+                "end": 8.1,
+                "text": "두려운",
+                "id": 1167
+              },
+              {
+                "confidence": 1,
+                "start": 8.1,
+                "end": 8.37,
+                "text": "존재",
+                "id": 1168
+              },
+              {
+                "confidence": 0.993,
+                "start": 8.37,
+                "end": 8.79,
+                "text": "탈모",
+                "id": 1169
+              },
+              {
+                "confidence": 0.8,
+                "start": 8.82,
+                "end": 9.21,
+                "text": "고통은",
+                "id": 1170
+              },
+              {
+                "confidence": 0.659,
+                "start": 9.21,
+                "end": 9.599,
+                "text": "방대한",
+                "id": 1171
+              }
+            ],
+            "id": 180
+          }
+        ],
+        "id": 1172
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.821,
+                "start": 9.635,
+                "end": 9.93,
+                "text": "아는",
+                "id": 1173
+              },
+              {
+                "confidence": 0.704,
+                "start": 9.931,
+                "end": 10.41,
+                "text": "지금의",
+                "id": 1174
+              },
+              {
+                "confidence": 0.778,
+                "start": 10.41,
+                "end": 10.889,
+                "text": "아카데미",
+                "id": 1175
+              },
+              {
+                "confidence": 0.96,
+                "start": 10.89,
+                "end": 11.16,
+                "text": "약한",
+                "id": 1176
+              },
+              {
+                "confidence": 0.672,
+                "start": 11.16,
+                "end": 11.79,
+                "text": "탈모치료의",
+                "id": 1177
+              },
+              {
+                "confidence": 0.937,
+                "start": 11.79,
+                "end": 12.149,
+                "text": "세계",
+                "id": 1178
+              },
+              {
+                "confidence": 1,
+                "start": 12.18,
+                "end": 12.48,
+                "text": "그런데",
+                "id": 1179
+              }
+            ],
+            "id": 181
+          }
+        ],
+        "id": 1180
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.979,
+                "start": 12.48,
+                "end": 13.08,
+                "text": "약물치료가",
+                "style": {},
+                "id": 1181
+              },
+              {
+                "confidence": 1,
+                "start": 13.08,
+                "end": 13.32,
+                "text": "아니라",
+                "style": {},
+                "id": 1182
+              },
+              {
+                "confidence": 1,
+                "start": 13.35,
+                "end": 13.86,
+                "text": "공학적인",
+                "style": {},
+                "id": 1183
+              },
+              {
+                "confidence": 0.88,
+                "start": 13.86,
+                "end": 14.31,
+                "text": "접근으로",
+                "style": {},
+                "id": 1184
+              },
+              {
+                "confidence": 0.979,
+                "start": 14.31,
+                "end": 14.64,
+                "text": "탈모",
+                "style": {},
+                "id": 1185
+              },
+              {
+                "confidence": 0.869,
+                "start": 14.64,
+                "end": 14.85,
+                "text": "치료",
+                "style": {},
+                "id": 1186
+              },
+              {
+                "confidence": 0.686,
+                "start": 14.85,
+                "end": 15.12,
+                "text": "기술의",
+                "style": {},
+                "id": 1187
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              },
+              "color": {
+                "r": 158,
+                "g": 25,
+                "b": 23,
+                "a": 1
+              },
+              "outline": 1,
+              "outlineColor": {
+                "r": 221,
+                "g": 220,
+                "b": 218,
+                "a": 1
+              },
+              "bold": false,
+              "underline": false,
+              "italic": false,
+              "font": 4,
+              "fontSize": 100
+            },
+            "id": 182
+          }
+        ],
+        "id": 1188
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.983,
+                "start": 15.124,
+                "end": 15.63,
+                "text": "개발되고",
+                "id": 1189
+              },
+              {
+                "confidence": 0.857,
+                "start": 15.63,
+                "end": 15.96,
+                "text": "있다며",
+                "id": 1190
+              },
+              {
+                "confidence": 1,
+                "start": 15.99,
+                "end": 16.89,
+                "text": "믿으시겠습니까",
+                "id": 1191
+              }
+            ],
+            "id": 183
+          }
+        ],
+        "id": 1192
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.899,
+                "start": 16.89,
+                "end": 17.46,
+                "text": "공학자들이",
+                "id": 1193
+              },
+              {
+                "confidence": 0.726,
+                "start": 17.46,
+                "end": 17.85,
+                "text": "뛰어들고",
+                "id": 1194
+              },
+              {
+                "confidence": 0.661,
+                "start": 17.85,
+                "end": 18.03,
+                "text": "있는",
+                "id": 1195
+              },
+              {
+                "confidence": 0.999,
+                "start": 18.03,
+                "end": 18.33,
+                "text": "최신",
+                "id": 1196
+              },
+              {
+                "confidence": 0.503,
+                "start": 18.33,
+                "end": 18.84,
+                "text": "탈모치료",
+                "id": 1197
+              },
+              {
+                "confidence": 0.634,
+                "start": 18.84,
+                "end": 19.349,
+                "text": "기술직은",
+                "id": 1198
+              },
+              {
+                "confidence": 0.85,
+                "start": 19.349,
+                "end": 19.83,
+                "text": "긴급히",
+                "id": 1199
+              }
+            ],
+            "id": 184
+          }
+        ],
+        "id": 1200
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.918,
+                "start": 19.831,
+                "end": 20.04,
+                "text": "전해",
+                "id": 1201
+              },
+              {
+                "confidence": 0.995,
+                "start": 20.04,
+                "end": 20.55,
+                "text": "드립니다",
+                "id": 1202
+              }
+            ],
+            "id": 185
+          }
+        ],
+        "id": 1203
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 1,
+                "start": 21.3,
+                "end": 21.63,
+                "text": "17",
+                "style": {},
+                "id": 1204
+              },
+              {
+                "confidence": 0.662,
+                "start": 21.63,
+                "end": 22.17,
+                "text": "세기엘로",
+                "style": {},
+                "id": 1205
+              },
+              {
+                "confidence": 0.778,
+                "start": 22.172,
+                "end": 22.59,
+                "text": "피셔로",
+                "style": {},
+                "id": 1206
+              },
+              {
+                "confidence": 0.986,
+                "start": 22.59,
+                "end": 22.89,
+                "text": "불려진",
+                "style": {},
+                "id": 1207
+              },
+              {
+                "confidence": 0.995,
+                "start": 22.89,
+                "end": 23.34,
+                "text": "탈모는",
+                "style": {},
+                "id": 1208
+              },
+              {
+                "confidence": 0.713,
+                "start": 23.37,
+                "end": 23.91,
+                "text": "미국에서만",
+                "style": {},
+                "id": 1209
+              },
+              {
+                "confidence": 0.943,
+                "start": 23.91,
+                "end": 24.24,
+                "text": "오천",
+                "style": {},
+                "id": 1210
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              },
+              "color": {
+                "r": 158,
+                "g": 25,
+                "b": 23,
+                "a": 1
+              },
+              "outline": 1,
+              "outlineColor": {
+                "r": 221,
+                "g": 220,
+                "b": 218,
+                "a": 1
+              },
+              "bold": false,
+              "underline": false,
+              "italic": false,
+              "font": 4,
+              "fontSize": 100
+            },
+            "id": 186
+          }
+        ],
+        "id": 1211
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.545,
+                "start": 24.274,
+                "end": 24.54,
+                "text": "명",
+                "style": {
+                  "outlineColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                  },
+                  "color": {
+                    "r": 191,
+                    "g": 222,
+                    "b": 255,
+                    "a": 1
+                  }
+                },
+                "id": 1212
+              },
+              {
+                "confidence": 0.766,
+                "start": 24.54,
+                "end": 24.809,
+                "text": "이상의",
+                "style": {
+                  "outlineColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                  },
+                  "color": {
+                    "r": 191,
+                    "g": 222,
+                    "b": 255,
+                    "a": 1
+                  }
+                },
+                "id": 1213
+              },
+              {
+                "confidence": 0.409,
+                "start": 24.81,
+                "end": 25.02,
+                "text": "측",
+                "style": {
+                  "outlineColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                  },
+                  "color": {
+                    "r": 191,
+                    "g": 222,
+                    "b": 255,
+                    "a": 1
+                  }
+                },
+                "id": 1214
+              },
+              {
+                "confidence": 1,
+                "start": 25.02,
+                "end": 25.5,
+                "text": "대한민국",
+                "style": {
+                  "outlineColor": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                  },
+                  "color": {
+                    "r": 206,
+                    "g": 56,
+                    "b": 38,
+                    "a": 1
+                  }
+                },
+                "id": 1215
+              },
+              {
+                "confidence": 0.991,
+                "start": 25.5,
+                "end": 26.4,
+                "text": "전체인구만큼이나",
+                "style": {
+                  "outlineColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                  },
+                  "color": {
+                    "r": 191,
+                    "g": 222,
+                    "b": 255,
+                    "a": 1
+                  }
+                },
+                "id": 1216
+              },
+              {
+                "confidence": 0.652,
+                "start": 26.4,
+                "end": 27.178,
+                "text": "고통받고있는",
+                "style": {
+                  "outlineColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                  },
+                  "color": {
+                    "r": 191,
+                    "g": 222,
+                    "b": 255,
+                    "a": 1
+                  }
+                },
+                "id": 1217
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 165,
+                "g": 174,
+                "b": 246,
+                "a": 0.5
+              },
+              "outline": 3,
+              "bold": true,
+              "underline": false,
+              "font": 4,
+              "fontSize": 95,
+              "italic": false
+            },
+            "id": 187
+          }
+        ],
+        "id": 1218
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.876,
+                "start": 27.18,
+                "end": 27.42,
+                "text": "매우",
+                "id": 1219
+              },
+              {
+                "confidence": 0.686,
+                "start": 27.422,
+                "end": 28.39,
+                "text": "보편적이면서도",
+                "id": 1220
+              },
+              {
+                "confidence": 0.785,
+                "start": 28.427,
+                "end": 28.86,
+                "text": "심리적인",
+                "id": 1221
+              },
+              {
+                "confidence": 0.983,
+                "start": 28.86,
+                "end": 29.25,
+                "text": "위축과",
+                "id": 1222
+              },
+              {
+                "confidence": 1,
+                "start": 29.25,
+                "end": 29.58,
+                "text": "낮은",
+                "id": 1223
+              },
+              {
+                "confidence": 0.999,
+                "start": 29.58,
+                "end": 30.03,
+                "text": "자존감을",
+                "id": 1224
+              }
+            ],
+            "id": 188
+          }
+        ],
+        "id": 1225
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.976,
+                "start": 30.03,
+                "end": 30.45,
+                "text": "가져오는",
+                "id": 1226
+              },
+              {
+                "confidence": 1,
+                "start": 30.48,
+                "end": 30.989,
+                "text": "반드시",
+                "id": 1227
+              },
+              {
+                "confidence": 0.788,
+                "start": 30.99,
+                "end": 31.71,
+                "text": "정복해야만",
+                "id": 1228
+              },
+              {
+                "confidence": 0.68,
+                "start": 31.71,
+                "end": 31.86,
+                "text": "하는",
+                "id": 1229
+              },
+              {
+                "confidence": 0.981,
+                "start": 31.86,
+                "end": 32.04,
+                "text": "그런",
+                "id": 1230
+              },
+              {
+                "confidence": 0.642,
+                "start": 32.04,
+                "end": 32.25,
+                "text": "아주",
+                "id": 1231
+              },
+              {
+                "confidence": 0.71,
+                "start": 32.26,
+                "end": 32.88,
+                "text": "고약한",
+                "id": 1232
+              },
+              {
+                "confidence": 0.532,
+                "start": 32.88,
+                "end": 33.09,
+                "text": "아직",
+                "id": 1233
+              }
+            ],
+            "id": 189
+          }
+        ],
+        "id": 1234
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.995,
+                "start": 33.09,
+                "end": 33.69,
+                "text": "못되고",
+                "id": 1235
+              },
+              {
+                "confidence": 0.975,
+                "start": 33.72,
+                "end": 34.29,
+                "text": "혼쭐이",
+                "id": 1236
+              },
+              {
+                "confidence": 0.725,
+                "start": 34.29,
+                "end": 34.8,
+                "text": "나여대는",
+                "id": 1237
+              },
+              {
+                "confidence": 1,
+                "start": 34.8,
+                "end": 35.04,
+                "text": "그런",
+                "id": 1238
+              },
+              {
+                "confidence": 1,
+                "start": 35.04,
+                "end": 35.76,
+                "text": "질환입니다",
+                "id": 1239
+              }
+            ],
+            "id": 190
+          }
+        ],
+        "id": 1240
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 1,
+                "start": 36.39,
+                "end": 36.78,
+                "text": "탈모가",
+                "id": 1241
+              },
+              {
+                "confidence": 1,
+                "start": 36.78,
+                "end": 36.99,
+                "text": "워낙",
+                "id": 1242
+              },
+              {
+                "confidence": 1,
+                "start": 36.99,
+                "end": 37.5,
+                "text": "정복하기",
+                "id": 1243
+              },
+              {
+                "confidence": 0.502,
+                "start": 37.5,
+                "end": 37.77,
+                "text": "어렵다",
+                "id": 1244
+              }
+            ],
+            "id": 191
+          }
+        ],
+        "id": 1245
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.502,
+                "start": 37.77,
+                "end": 38.01,
+                "text": "보니",
+                "style": {
+                  "color": {
+                    "r": 158,
+                    "g": 25,
+                    "b": 23,
+                    "a": 1
+                  },
+                  "outline": 1,
+                  "outlineColor": {
+                    "r": 221,
+                    "g": 220,
+                    "b": 218,
+                    "a": 1
+                  },
+                  "bold": false
+                },
+                "id": 1246
+              },
+              {
+                "confidence": 1,
+                "start": 38.01,
+                "end": 38.34,
+                "text": "그동안",
+                "style": {
+                  "color": {
+                    "r": 158,
+                    "g": 25,
+                    "b": 23,
+                    "a": 1
+                  },
+                  "outline": 1,
+                  "outlineColor": {
+                    "r": 221,
+                    "g": 220,
+                    "b": 218,
+                    "a": 1
+                  },
+                  "bold": false
+                },
+                "id": 1247
+              },
+              {
+                "confidence": 0.785,
+                "start": 38.34,
+                "end": 38.879,
+                "text": "탈모치료",
+                "style": {
+                  "color": {
+                    "r": 245,
+                    "g": 223,
+                    "b": 77,
+                    "a": 1
+                  },
+                  "outline": 3,
+                  "outlineColor": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0,
+                    "a": 1
+                  },
+                  "bold": true
+                },
+                "id": 1248
+              },
+              {
+                "confidence": 0.797,
+                "start": 38.88,
+                "end": 39.21,
+                "text": "접근한",
+                "style": {
+                  "color": {
+                    "r": 158,
+                    "g": 25,
+                    "b": 23,
+                    "a": 1
+                  },
+                  "outline": 1,
+                  "outlineColor": {
+                    "r": 221,
+                    "g": 220,
+                    "b": 218,
+                    "a": 1
+                  },
+                  "bold": false
+                },
+                "id": 1249
+              },
+              {
+                "confidence": 0.975,
+                "start": 39.215,
+                "end": 39.599,
+                "text": "샴푸",
+                "style": {
+                  "color": {
+                    "r": 158,
+                    "g": 25,
+                    "b": 23,
+                    "a": 1
+                  },
+                  "outline": 1,
+                  "outlineColor": {
+                    "r": 221,
+                    "g": 220,
+                    "b": 218,
+                    "a": 1
+                  },
+                  "bold": false
+                },
+                "id": 1250
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 1
+              },
+              "underline": false,
+              "italic": false,
+              "font": 4,
+              "fontSize": 100
+            },
+            "id": 192
+          }
+        ],
+        "id": 1251
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.898,
+                "start": 39.645,
+                "end": 40.41,
+                "text": "야마사지",
+                "id": 1252
+              },
+              {
+                "confidence": 0.942,
+                "start": 40.41,
+                "end": 40.77,
+                "text": "체조",
+                "id": 1253
+              },
+              {
+                "confidence": 0.99,
+                "start": 40.771,
+                "end": 41.28,
+                "text": "모발이식",
+                "id": 1254
+              },
+              {
+                "confidence": 0.986,
+                "start": 41.28,
+                "end": 41.4,
+                "text": "등",
+                "id": 1255
+              },
+              {
+                "confidence": 1,
+                "start": 41.43,
+                "end": 41.79,
+                "text": "수많은",
+                "id": 1256
+              },
+              {
+                "confidence": 0.882,
+                "start": 41.79,
+                "end": 42.24,
+                "text": "반복들이",
+                "id": 1257
+              },
+              {
+                "confidence": 1,
+                "start": 42.24,
+                "end": 42.96,
+                "text": "전방위적으로",
+                "id": 1258
+              }
+            ],
+            "id": 193
+          }
+        ],
+        "id": 1259
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.845,
+                "start": 42.96,
+                "end": 43.74,
+                "text": "동원되었습니다",
+                "style": {},
+                "id": 1260
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 255,
+                "g": 255,
+                "b": 153,
+                "a": 1
+              },
+              "outlineColor": {
+                "r": 175,
+                "g": 149,
+                "b": 224,
+                "a": 1
+              },
+              "outline": 3,
+              "color": {
+                "r": 27,
+                "g": 24,
+                "b": 24,
+                "a": 1
+              },
+              "bold": true,
+              "underline": false,
+              "font": 4,
+              "fontSize": 300,
+              "italic": false
+            },
+            "id": 194
+          }
+        ],
+        "id": 1261
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 1,
+                "start": 43.77,
+                "end": 44.13,
+                "text": "하지만",
+                "id": 1262
+              },
+              {
+                "confidence": 0.724,
+                "start": 44.13,
+                "end": 44.19,
+                "text": "이",
+                "id": 1263
+              },
+              {
+                "confidence": 0.976,
+                "start": 44.19,
+                "end": 44.49,
+                "text": "중에서",
+                "id": 1264
+              },
+              {
+                "confidence": 1,
+                "start": 44.49,
+                "end": 44.82,
+                "text": "미국",
+                "id": 1265
+              },
+              {
+                "confidence": 0.914,
+                "start": 44.82,
+                "end": 45.57,
+                "text": "FDA나",
+                "id": 1266
+              },
+              {
+                "confidence": 1,
+                "start": 45.57,
+                "end": 46.17,
+                "text": "식약처에서",
+                "id": 1267
+              },
+              {
+                "confidence": 0.682,
+                "start": 46.17,
+                "end": 46.77,
+                "text": "임정됨과",
+                "id": 1268
+              }
+            ],
+            "id": 195
+          }
+        ],
+        "id": 1269
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 1,
+                "start": 46.77,
+                "end": 47.13,
+                "text": "동시에",
+                "id": 1270
+              },
+              {
+                "confidence": 1,
+                "start": 47.13,
+                "end": 47.37,
+                "text": "가장",
+                "id": 1271
+              },
+              {
+                "confidence": 0.962,
+                "start": 47.37,
+                "end": 47.55,
+                "text": "많은",
+                "id": 1272
+              },
+              {
+                "confidence": 0.987,
+                "start": 47.55,
+                "end": 47.85,
+                "text": "사람이",
+                "id": 1273
+              },
+              {
+                "confidence": 0.975,
+                "start": 47.85,
+                "end": 48.63,
+                "text": "혜택받고있는",
+                "id": 1274
+              },
+              {
+                "confidence": 1,
+                "start": 48.63,
+                "end": 48.99,
+                "text": "방법이",
+                "id": 1275
+              },
+              {
+                "confidence": 1,
+                "start": 48.99,
+                "end": 49.32,
+                "text": "있다면",
+                "id": 1276
+              }
+            ],
+            "id": 196
+          }
+        ],
+        "id": 1277
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.824,
+                "start": 49.35,
+                "end": 49.65,
+                "text": "그것을",
+                "style": {},
+                "id": 1278
+              },
+              {
+                "confidence": 0.737,
+                "start": 49.657,
+                "end": 50.46,
+                "text": "미녹시딜이나",
+                "style": {},
+                "id": 1279
+              },
+              {
+                "confidence": 1,
+                "start": 50.466,
+                "end": 51.27,
+                "text": "피나스테라이드",
+                "style": {},
+                "id": 1280
+              },
+              {
+                "confidence": 1,
+                "start": 51.27,
+                "end": 51.57,
+                "text": "같은",
+                "style": {},
+                "id": 1281
+              },
+              {
+                "confidence": 0.801,
+                "start": 51.57,
+                "end": 51.9,
+                "text": "약을",
+                "style": {},
+                "id": 1282
+              },
+              {
+                "confidence": 0.992,
+                "start": 51.9,
+                "end": 52.2,
+                "text": "이용한",
+                "style": {},
+                "id": 1283
+              }
+            ],
+            "style": {
+              "background": {
+                "r": 255,
+                "g": 255,
+                "b": 153,
+                "a": 1
+              },
+              "outlineColor": {
+                "r": 175,
+                "g": 149,
+                "b": 224,
+                "a": 1
+              },
+              "outline": 3,
+              "color": {
+                "r": 27,
+                "g": 24,
+                "b": 24,
+                "a": 1
+              },
+              "bold": true,
+              "underline": false,
+              "font": 4,
+              "fontSize": 300,
+              "italic": false
+            },
+            "id": 197
+          }
+        ],
+        "id": 1284
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.523,
+                "start": 52.2,
+                "end": 52.98,
+                "text": "방법이었습니다",
+                "id": 1285
+              }
+            ],
+            "id": 198
+          }
+        ],
+        "id": 1286
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.977,
+                "start": 52.988,
+                "end": 53.25,
+                "text": "그러나",
+                "id": 1287
+              },
+              {
+                "confidence": 0.857,
+                "start": 53.25,
+                "end": 53.55,
+                "text": "모든",
+                "id": 1288
+              },
+              {
+                "confidence": 0.523,
+                "start": 53.55,
+                "end": 53.73,
+                "text": "형이",
+                "id": 1289
+              },
+              {
+                "confidence": 0.9,
+                "start": 53.73,
+                "end": 54.147,
+                "text": "그렇듯이",
+                "id": 1290
+              },
+              {
+                "confidence": 0.863,
+                "start": 54.147,
+                "end": 54.42,
+                "text": "약을",
+                "id": 1291
+              },
+              {
+                "confidence": 0.918,
+                "start": 54.42,
+                "end": 54.63,
+                "text": "통원",
+                "id": 1292
+              },
+              {
+                "confidence": 0.988,
+                "start": 54.63,
+                "end": 54.93,
+                "text": "치료는",
+                "id": 1293
+              },
+              {
+                "confidence": 1,
+                "start": 54.93,
+                "end": 55.41,
+                "text": "부작용에",
+                "id": 1294
+              }
+            ],
+            "id": 199
+          }
+        ],
+        "id": 1295
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 1,
+                "start": 55.41,
+                "end": 55.59,
+                "text": "대한",
+                "id": 1296
+              },
+              {
+                "confidence": 0.992,
+                "start": 55.59,
+                "end": 55.92,
+                "text": "문제를",
+                "id": 1297
+              },
+              {
+                "confidence": 0.992,
+                "start": 55.92,
+                "end": 56.19,
+                "text": "짚고",
+                "id": 1298
+              },
+              {
+                "confidence": 1,
+                "start": 56.19,
+                "end": 56.58,
+                "text": "넘어가지",
+                "id": 1299
+              },
+              {
+                "confidence": 0.978,
+                "start": 56.58,
+                "end": 56.82,
+                "text": "않을",
+                "id": 1300
+              },
+              {
+                "confidence": 0.687,
+                "start": 56.82,
+                "end": 57.025,
+                "text": "수가",
+                "id": 1301
+              },
+              {
+                "confidence": 0.974,
+                "start": 57.025,
+                "end": 57.54,
+                "text": "없었는데요",
+                "id": 1302
+              }
+            ],
+            "id": 200
+          }
+        ],
+        "id": 1303
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.95,
+                "start": 57.57,
+                "end": 57.84,
+                "text": "특히",
+                "id": 1304
+              },
+              {
+                "confidence": 0.399,
+                "start": 57.84,
+                "end": 58.165,
+                "text": "먹는",
+                "id": 1305
+              },
+              {
+                "confidence": 0.521,
+                "start": 58.17,
+                "end": 58.38,
+                "text": "약인",
+                "id": 1306
+              },
+              {
+                "confidence": 0.373,
+                "start": 58.38,
+                "end": 58.59,
+                "text": "피나",
+                "id": 1307
+              },
+              {
+                "confidence": 0.293,
+                "start": 59.03,
+                "end": 59.21,
+                "text": "4일",
+                "id": 1308
+              },
+              {
+                "confidence": 0.901,
+                "start": 59.215,
+                "end": 59.45,
+                "text": "경우",
+                "id": 1309
+              },
+              {
+                "confidence": 0.853,
+                "start": 59.48,
+                "end": 59.96,
+                "text": "성기능",
+                "id": 1310
+              },
+              {
+                "confidence": 0.855,
+                "start": 59.96,
+                "end": 60.23,
+                "text": "장애",
+                "id": 1311
+              }
+            ],
+            "id": 201
+          }
+        ],
+        "id": 1312
+      }
+    ]
+  },
+  "popup": {},
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 25,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 206,
+        "g": 56,
+        "b": 38,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    },
+    "projectName": "절대그대로",
+    "videoPath": "file://C:\\Users\\a\\Desktop\\영상\\1분영상.mp4",
+    "videoMeta": {
+      "width": 1568,
+      "height": 644
+    },
+    "totalTranslateTaskLength": 12,
+    "nowTranslateTaskLength": 12
+  },
+  "projectCotrol": {},
+  "translatedCaption": {
+    "captions": [
+      {
+        "id": 2,
+        "origin": "인사 시간도 없습니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 2.91,
+                    "end": 3.044,
+                    "text": "no",
+                    "id": 33
+                  },
+                  {
+                    "start": 3.044,
+                    "end": 3.266,
+                    "text": "time",
+                    "id": 34
+                  },
+                  {
+                    "start": 3.266,
+                    "end": 3.4,
+                    "text": "to",
+                    "id": 35
+                  },
+                  {
+                    "start": 3.4,
+                    "end": 3.578,
+                    "text": "say",
+                    "id": 36
+                  },
+                  {
+                    "start": 3.578,
+                    "end": 3.934,
+                    "text": "goodbye",
+                    "id": 37
+                  }
+                ],
+                "id": 7
+              }
+            ],
+            "id": 1315
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "작별인사를 할 시간이 없다"
+      },
+      {
+        "id": 3,
+        "origin": "안될 거하게 레알 짧은 과긴급각의 공진입니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 3.934,
+                    "end": 4.159,
+                    "text": "It's",
+                    "id": 75
+                  },
+                  {
+                    "start": 4.159,
+                    "end": 4.249,
+                    "text": "a",
+                    "id": 76
+                  },
+                  {
+                    "start": 4.249,
+                    "end": 4.653,
+                    "text": "resonant",
+                    "id": 77
+                  },
+                  {
+                    "start": 4.653,
+                    "end": 4.788,
+                    "text": "of",
+                    "id": 78
+                  },
+                  {
+                    "start": 4.788,
+                    "end": 4.923,
+                    "text": "an",
+                    "id": 79
+                  },
+                  {
+                    "start": 4.923,
+                    "end": 5.417,
+                    "text": "incredibly",
+                    "id": 80
+                  },
+                  {
+                    "start": 5.417,
+                    "end": 5.686,
+                    "text": "short",
+                    "id": 81
+                  },
+                  {
+                    "start": 5.686,
+                    "end": 6.315,
+                    "text": "hyper-urgency",
+                    "id": 82
+                  }
+                ],
+                "id": 13
+              }
+            ],
+            "id": 1321
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 6.315,
+                    "end": 6.63,
+                    "text": "angle.",
+                    "id": 83
+                  }
+                ],
+                "id": 14
+              }
+            ],
+            "id": 1322
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "그것은 믿을 수 없을 정도로 짧은 초긴급 각도의 공명입니다."
+      },
+      {
+        "id": 4,
+        "origin": "오늘은 현대인들에게 매우 두려운 존재 탈모 고통은 방대한 아는 지금의 아카데미 약한 탈모치료의 세계 그런데",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 6.66,
+                    "end": 6.887,
+                    "text": "Today",
+                    "id": 84
+                  },
+                  {
+                    "start": 6.887,
+                    "end": 7,
+                    "text": "is",
+                    "id": 85
+                  },
+                  {
+                    "start": 7,
+                    "end": 7.076,
+                    "text": "a",
+                    "id": 86
+                  },
+                  {
+                    "start": 7.076,
+                    "end": 7.265,
+                    "text": "very",
+                    "id": 87
+                  },
+                  {
+                    "start": 7.265,
+                    "end": 7.718,
+                    "text": "frightening",
+                    "id": 88
+                  },
+                  {
+                    "start": 7.718,
+                    "end": 8.096,
+                    "text": "existence",
+                    "id": 89
+                  },
+                  {
+                    "start": 8.096,
+                    "end": 8.247,
+                    "text": "for",
+                    "id": 90
+                  },
+                  {
+                    "start": 8.247,
+                    "end": 8.512,
+                    "text": "modern",
+                    "id": 91
+                  }
+                ],
+                "id": 15
+              }
+            ],
+            "id": 1323
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 8.512,
+                    "end": 8.776,
+                    "text": "people",
+                    "id": 92
+                  },
+                  {
+                    "start": 8.776,
+                    "end": 8.928,
+                    "text": "The",
+                    "id": 93
+                  },
+                  {
+                    "start": 8.928,
+                    "end": 9.116,
+                    "text": "pain",
+                    "id": 94
+                  },
+                  {
+                    "start": 9.116,
+                    "end": 9.23,
+                    "text": "of",
+                    "id": 95
+                  },
+                  {
+                    "start": 9.23,
+                    "end": 9.419,
+                    "text": "hair",
+                    "id": 96
+                  },
+                  {
+                    "start": 9.419,
+                    "end": 9.608,
+                    "text": "loss",
+                    "id": 97
+                  },
+                  {
+                    "start": 9.608,
+                    "end": 9.721,
+                    "text": "is",
+                    "id": 98
+                  },
+                  {
+                    "start": 9.721,
+                    "end": 9.91,
+                    "text": "vast",
+                    "id": 99
+                  },
+                  {
+                    "start": 9.91,
+                    "end": 10.061,
+                    "text": "The",
+                    "id": 100
+                  },
+                  {
+                    "start": 10.061,
+                    "end": 10.364,
+                    "text": "current",
+                    "id": 101
+                  },
+                  {
+                    "start": 10.364,
+                    "end": 10.666,
+                    "text": "academy",
+                    "id": 102
+                  }
+                ],
+                "id": 16
+              }
+            ],
+            "id": 1324
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 10.666,
+                    "end": 10.893,
+                    "text": "knows",
+                    "id": 103
+                  },
+                  {
+                    "start": 10.893,
+                    "end": 11.044,
+                    "text": "the",
+                    "id": 104
+                  },
+                  {
+                    "start": 11.044,
+                    "end": 11.271,
+                    "text": "world",
+                    "id": 105
+                  },
+                  {
+                    "start": 11.271,
+                    "end": 11.384,
+                    "text": "of",
+                    "id": 106
+                  },
+                  {
+                    "start": 11.384,
+                    "end": 11.573,
+                    "text": "weak",
+                    "id": 107
+                  },
+                  {
+                    "start": 11.573,
+                    "end": 11.762,
+                    "text": "hair",
+                    "id": 108
+                  },
+                  {
+                    "start": 11.762,
+                    "end": 11.951,
+                    "text": "loss",
+                    "id": 109
+                  },
+                  {
+                    "start": 11.951,
+                    "end": 12.329,
+                    "text": "treatment",
+                    "id": 110
+                  },
+                  {
+                    "start": 12.329,
+                    "end": 12.48,
+                    "text": "But",
+                    "id": 111
+                  }
+                ],
+                "id": 17
+              }
+            ],
+            "id": 1325
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "오늘날 현대인에게 너무나 무서운 존재인 탈모의 고통은 엄청나다 현재의 아카데미는 약한 탈모치료의 세계를 알고 있지만"
+      },
+      {
+        "id": 5,
+        "origin": "약물치료가 아니라 공학적인 접근으로 탈모 치료 기술의 개발되고 있다며 믿으시겠습니까",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 12.48,
+                    "end": 12.684,
+                    "text": "Would",
+                    "id": 131
+                  },
+                  {
+                    "start": 12.684,
+                    "end": 12.819,
+                    "text": "you",
+                    "id": 132
+                  },
+                  {
+                    "start": 12.819,
+                    "end": 13.091,
+                    "text": "believe",
+                    "id": 133
+                  },
+                  {
+                    "start": 13.091,
+                    "end": 13.26,
+                    "text": "that",
+                    "id": 134
+                  },
+                  {
+                    "start": 13.26,
+                    "end": 13.43,
+                    "text": "hair",
+                    "id": 135
+                  },
+                  {
+                    "start": 13.43,
+                    "end": 13.599,
+                    "text": "loss",
+                    "id": 136
+                  },
+                  {
+                    "start": 13.599,
+                    "end": 13.939,
+                    "text": "treatment",
+                    "id": 137
+                  },
+                  {
+                    "start": 13.939,
+                    "end": 14.312,
+                    "text": "technology",
+                    "id": 138
+                  }
+                ],
+                "id": 21
+              }
+            ],
+            "id": 1329
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 14.312,
+                    "end": 14.414,
+                    "text": "is",
+                    "id": 139
+                  },
+                  {
+                    "start": 14.414,
+                    "end": 14.617,
+                    "text": "being",
+                    "id": 140
+                  },
+                  {
+                    "start": 14.617,
+                    "end": 14.956,
+                    "text": "developed",
+                    "id": 141
+                  },
+                  {
+                    "start": 14.956,
+                    "end": 15.126,
+                    "text": "with",
+                    "id": 142
+                  },
+                  {
+                    "start": 15.126,
+                    "end": 15.228,
+                    "text": "an",
+                    "id": 143
+                  },
+                  {
+                    "start": 15.228,
+                    "end": 15.635,
+                    "text": "engineering",
+                    "id": 144
+                  },
+                  {
+                    "start": 15.635,
+                    "end": 15.94,
+                    "text": "approach",
+                    "id": 145
+                  }
+                ],
+                "id": 22
+              }
+            ],
+            "id": 1330
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 15.94,
+                    "end": 16.178,
+                    "text": "rather",
+                    "id": 146
+                  },
+                  {
+                    "start": 16.178,
+                    "end": 16.347,
+                    "text": "than",
+                    "id": 147
+                  },
+                  {
+                    "start": 16.347,
+                    "end": 16.517,
+                    "text": "drug",
+                    "id": 148
+                  },
+                  {
+                    "start": 16.517,
+                    "end": 16.89,
+                    "text": "treatment?",
+                    "id": 149
+                  }
+                ],
+                "id": 23
+              }
+            ],
+            "id": 1331
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "탈모치료기술이 약물치료가 아닌 공학적 접근으로 발전하고 있다는 사실이 믿어지시나요?"
+      },
+      {
+        "id": 6,
+        "origin": "공학자들이 뛰어들고 있는 최신 탈모치료 기술직은 긴급히 전해 드립니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 16.89,
+                    "end": 17.028,
+                    "text": "The",
+                    "id": 166
+                  },
+                  {
+                    "start": 17.028,
+                    "end": 17.27,
+                    "text": "latest",
+                    "id": 167
+                  },
+                  {
+                    "start": 17.27,
+                    "end": 17.442,
+                    "text": "hair",
+                    "id": 168
+                  },
+                  {
+                    "start": 17.442,
+                    "end": 17.615,
+                    "text": "loss",
+                    "id": 169
+                  },
+                  {
+                    "start": 17.615,
+                    "end": 17.96,
+                    "text": "treatment",
+                    "id": 170
+                  },
+                  {
+                    "start": 17.96,
+                    "end": 18.34,
+                    "text": "technology",
+                    "id": 171
+                  },
+                  {
+                    "start": 18.34,
+                    "end": 18.513,
+                    "text": "jobs",
+                    "id": 172
+                  },
+                  {
+                    "start": 18.513,
+                    "end": 18.685,
+                    "text": "that",
+                    "id": 173
+                  }
+                ],
+                "id": 26
+              }
+            ],
+            "id": 1334
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 18.685,
+                    "end": 19.031,
+                    "text": "engineers",
+                    "id": 174
+                  },
+                  {
+                    "start": 19.031,
+                    "end": 19.169,
+                    "text": "are",
+                    "id": 175
+                  },
+                  {
+                    "start": 19.169,
+                    "end": 19.445,
+                    "text": "jumping",
+                    "id": 176
+                  },
+                  {
+                    "start": 19.445,
+                    "end": 19.618,
+                    "text": "into",
+                    "id": 177
+                  },
+                  {
+                    "start": 19.618,
+                    "end": 19.79,
+                    "text": "will",
+                    "id": 178
+                  },
+                  {
+                    "start": 19.79,
+                    "end": 19.894,
+                    "text": "be",
+                    "id": 179
+                  },
+                  {
+                    "start": 19.894,
+                    "end": 20.239,
+                    "text": "delivered",
+                    "id": 180
+                  },
+                  {
+                    "start": 20.239,
+                    "end": 20.55,
+                    "text": "urgently",
+                    "id": 181
+                  }
+                ],
+                "id": 27
+              }
+            ],
+            "id": 1335
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "엔지니어들이 뛰어드는 최신 탈모치료기술 채용공고가 시급합니다."
+      },
+      {
+        "id": 7,
+        "origin": "17 세기엘로 피셔로 불려진 탈모는 미국에서만 오천 명 이상의 측 대한민국 전체인구만큼이나 고통받고있는 매우 보편적이면서도 심리적인 위축과 낮은 자존감을 가져오는 반드시 정복해야만 하는 그런 아주 고약한 아직 못되고 혼쭐이 나여대는 그런 질환입니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 21.3,
+                    "end": 21.539,
+                    "text": "Hair",
+                    "id": 235
+                  },
+                  {
+                    "start": 21.539,
+                    "end": 21.825,
+                    "text": "loss,",
+                    "id": 236
+                  },
+                  {
+                    "start": 21.825,
+                    "end": 22.159,
+                    "text": "called",
+                    "id": 237
+                  },
+                  {
+                    "start": 22.159,
+                    "end": 22.35,
+                    "text": "Elo",
+                    "id": 238
+                  },
+                  {
+                    "start": 22.35,
+                    "end": 22.684,
+                    "text": "Fisher",
+                    "id": 239
+                  },
+                  {
+                    "start": 22.684,
+                    "end": 22.827,
+                    "text": "in",
+                    "id": 240
+                  },
+                  {
+                    "start": 22.827,
+                    "end": 23.018,
+                    "text": "the",
+                    "id": 241
+                  },
+                  {
+                    "start": 23.018,
+                    "end": 23.257,
+                    "text": "17th",
+                    "id": 242
+                  },
+                  {
+                    "start": 23.257,
+                    "end": 23.686,
+                    "text": "century,",
+                    "id": 243
+                  }
+                ],
+                "id": 34
+              }
+            ],
+            "id": 1342
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 23.686,
+                    "end": 23.829,
+                    "text": "is",
+                    "id": 244
+                  },
+                  {
+                    "start": 23.829,
+                    "end": 23.925,
+                    "text": "a",
+                    "id": 245
+                  },
+                  {
+                    "start": 23.925,
+                    "end": 24.163,
+                    "text": "very",
+                    "id": 246
+                  },
+                  {
+                    "start": 24.163,
+                    "end": 24.497,
+                    "text": "common",
+                    "id": 247
+                  },
+                  {
+                    "start": 24.497,
+                    "end": 24.879,
+                    "text": "disease",
+                    "id": 248
+                  },
+                  {
+                    "start": 24.879,
+                    "end": 25.118,
+                    "text": "that",
+                    "id": 249
+                  },
+                  {
+                    "start": 25.118,
+                    "end": 25.5,
+                    "text": "suffers",
+                    "id": 250
+                  },
+                  {
+                    "start": 25.5,
+                    "end": 25.643,
+                    "text": "as",
+                    "id": 251
+                  },
+                  {
+                    "start": 25.643,
+                    "end": 25.881,
+                    "text": "much",
+                    "id": 252
+                  },
+                  {
+                    "start": 25.881,
+                    "end": 26.025,
+                    "text": "as",
+                    "id": 253
+                  },
+                  {
+                    "start": 26.025,
+                    "end": 26.215,
+                    "text": "the",
+                    "id": 254
+                  }
+                ],
+                "id": 35
+              }
+            ],
+            "id": 1343
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 26.215,
+                    "end": 26.55,
+                    "text": "entire",
+                    "id": 255
+                  },
+                  {
+                    "start": 26.55,
+                    "end": 27.074,
+                    "text": "population",
+                    "id": 256
+                  },
+                  {
+                    "start": 27.074,
+                    "end": 27.218,
+                    "text": "of",
+                    "id": 257
+                  },
+                  {
+                    "start": 27.218,
+                    "end": 27.504,
+                    "text": "Korea",
+                    "id": 258
+                  },
+                  {
+                    "start": 27.504,
+                    "end": 27.743,
+                    "text": "with",
+                    "id": 259
+                  },
+                  {
+                    "start": 27.743,
+                    "end": 27.981,
+                    "text": "more",
+                    "id": 260
+                  },
+                  {
+                    "start": 27.981,
+                    "end": 28.22,
+                    "text": "than",
+                    "id": 261
+                  },
+                  {
+                    "start": 28.22,
+                    "end": 28.506,
+                    "text": "5,000",
+                    "id": 262
+                  },
+                  {
+                    "start": 28.506,
+                    "end": 28.84,
+                    "text": "people",
+                    "id": 263
+                  }
+                ],
+                "id": 36
+              }
+            ],
+            "id": 1344
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 28.84,
+                    "end": 28.983,
+                    "text": "in",
+                    "id": 264
+                  },
+                  {
+                    "start": 28.983,
+                    "end": 29.174,
+                    "text": "the",
+                    "id": 265
+                  },
+                  {
+                    "start": 29.174,
+                    "end": 29.508,
+                    "text": "United",
+                    "id": 266
+                  },
+                  {
+                    "start": 29.508,
+                    "end": 29.842,
+                    "text": "States",
+                    "id": 267
+                  },
+                  {
+                    "start": 29.842,
+                    "end": 30.176,
+                    "text": "alone,",
+                    "id": 268
+                  },
+                  {
+                    "start": 30.176,
+                    "end": 30.367,
+                    "text": "but",
+                    "id": 269
+                  },
+                  {
+                    "start": 30.367,
+                    "end": 30.51,
+                    "text": "it",
+                    "id": 270
+                  },
+                  {
+                    "start": 30.51,
+                    "end": 30.654,
+                    "text": "is",
+                    "id": 271
+                  },
+                  {
+                    "start": 30.654,
+                    "end": 30.749,
+                    "text": "a",
+                    "id": 272
+                  },
+                  {
+                    "start": 30.749,
+                    "end": 30.988,
+                    "text": "very",
+                    "id": 273
+                  },
+                  {
+                    "start": 30.988,
+                    "end": 31.274,
+                    "text": "nasty",
+                    "id": 274
+                  },
+                  {
+                    "start": 31.274,
+                    "end": 31.656,
+                    "text": "disease",
+                    "id": 275
+                  }
+                ],
+                "id": 37
+              }
+            ],
+            "id": 1345
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 31.656,
+                    "end": 31.894,
+                    "text": "that",
+                    "id": 276
+                  },
+                  {
+                    "start": 31.894,
+                    "end": 32.133,
+                    "text": "must",
+                    "id": 277
+                  },
+                  {
+                    "start": 32.133,
+                    "end": 32.276,
+                    "text": "be",
+                    "id": 278
+                  },
+                  {
+                    "start": 32.276,
+                    "end": 32.801,
+                    "text": "conquered,",
+                    "id": 279
+                  },
+                  {
+                    "start": 32.801,
+                    "end": 33.088,
+                    "text": "which",
+                    "id": 280
+                  },
+                  {
+                    "start": 33.088,
+                    "end": 33.422,
+                    "text": "brings",
+                    "id": 281
+                  },
+                  {
+                    "start": 33.422,
+                    "end": 33.708,
+                    "text": "about",
+                    "id": 282
+                  },
+                  {
+                    "start": 33.708,
+                    "end": 34.376,
+                    "text": "psychological",
+                    "id": 283
+                  }
+                ],
+                "id": 38
+              }
+            ],
+            "id": 1346
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 34.376,
+                    "end": 34.758,
+                    "text": "atrophy",
+                    "id": 284
+                  },
+                  {
+                    "start": 34.758,
+                    "end": 34.949,
+                    "text": "and",
+                    "id": 285
+                  },
+                  {
+                    "start": 34.949,
+                    "end": 35.14,
+                    "text": "low",
+                    "id": 286
+                  },
+                  {
+                    "start": 35.14,
+                    "end": 35.76,
+                    "text": "self-esteem.",
+                    "id": 287
+                  }
+                ],
+                "id": 39
+              }
+            ],
+            "id": 1347
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "17세기에 엘로피셔(Elo Fisher)라고 불리는 탈모는 미국만 해도 5,000명이 넘는 인구로 한국 전체 인구만큼 고통받는 매우 흔한 질병이지만 반드시 정복해야 하는 매우 고약한 질병이며, 심리적 위축과 낮은 자존감을 유발한다."
+      },
+      {
+        "id": 8,
+        "origin": "탈모가 워낙 정복하기 어렵다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 36.39,
+                    "end": 36.606,
+                    "text": "Hair",
+                    "id": 295
+                  },
+                  {
+                    "start": 36.606,
+                    "end": 36.821,
+                    "text": "loss",
+                    "id": 296
+                  },
+                  {
+                    "start": 36.821,
+                    "end": 36.951,
+                    "text": "is",
+                    "id": 297
+                  },
+                  {
+                    "start": 36.951,
+                    "end": 37.08,
+                    "text": "so",
+                    "id": 298
+                  },
+                  {
+                    "start": 37.08,
+                    "end": 37.296,
+                    "text": "hard",
+                    "id": 299
+                  },
+                  {
+                    "start": 37.296,
+                    "end": 37.425,
+                    "text": "to",
+                    "id": 300
+                  },
+                  {
+                    "start": 37.425,
+                    "end": 37.77,
+                    "text": "conquer",
+                    "id": 301
+                  }
+                ],
+                "id": 41
+              }
+            ],
+            "id": 1349
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "탈모는 극복하기가 너무 어렵습니다"
+      },
+      {
+        "id": 9,
+        "origin": "보니 그동안 탈모치료 접근한 샴푸",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 37.77,
+                    "end": 38.031,
+                    "text": "Bonnie,",
+                    "id": 310
+                  },
+                  {
+                    "start": 38.031,
+                    "end": 38.293,
+                    "text": "shampoo",
+                    "id": 311
+                  },
+                  {
+                    "start": 38.293,
+                    "end": 38.456,
+                    "text": "that",
+                    "id": 312
+                  },
+                  {
+                    "start": 38.456,
+                    "end": 38.587,
+                    "text": "has",
+                    "id": 313
+                  },
+                  {
+                    "start": 38.587,
+                    "end": 38.946,
+                    "text": "approached",
+                    "id": 314
+                  },
+                  {
+                    "start": 38.946,
+                    "end": 39.109,
+                    "text": "hair",
+                    "id": 315
+                  },
+                  {
+                    "start": 39.109,
+                    "end": 39.272,
+                    "text": "loss",
+                    "id": 316
+                  },
+                  {
+                    "start": 39.272,
+                    "end": 39.599,
+                    "text": "treatment",
+                    "id": 317
+                  }
+                ],
+                "id": 43
+              }
+            ],
+            "id": 1351
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "보니, 탈모치료에 다가온 샴푸"
+      },
+      {
+        "id": 10,
+        "origin": "야마사지 체조 모발이식 등 수많은 반복들이 전방위적으로 동원되었습니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 39.645,
+                    "end": 39.968,
+                    "text": "Numerous",
+                    "id": 333
+                  },
+                  {
+                    "start": 39.968,
+                    "end": 40.399,
+                    "text": "repetitions",
+                    "id": 334
+                  },
+                  {
+                    "start": 40.399,
+                    "end": 40.579,
+                    "text": "such",
+                    "id": 335
+                  },
+                  {
+                    "start": 40.579,
+                    "end": 40.687,
+                    "text": "as",
+                    "id": 336
+                  },
+                  {
+                    "start": 40.687,
+                    "end": 40.902,
+                    "text": "night",
+                    "id": 337
+                  },
+                  {
+                    "start": 40.902,
+                    "end": 41.226,
+                    "text": "massage,",
+                    "id": 338
+                  },
+                  {
+                    "start": 41.226,
+                    "end": 41.621,
+                    "text": "gymnastics",
+                    "id": 339
+                  }
+                ],
+                "id": 46
+              }
+            ],
+            "id": 1354
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 41.621,
+                    "end": 41.764,
+                    "text": "and",
+                    "id": 340
+                  },
+                  {
+                    "start": 41.764,
+                    "end": 41.944,
+                    "text": "hair",
+                    "id": 341
+                  },
+                  {
+                    "start": 41.944,
+                    "end": 42.519,
+                    "text": "transplantation",
+                    "id": 342
+                  },
+                  {
+                    "start": 42.519,
+                    "end": 42.698,
+                    "text": "were",
+                    "id": 343
+                  },
+                  {
+                    "start": 42.698,
+                    "end": 43.058,
+                    "text": "mobilized",
+                    "id": 344
+                  },
+                  {
+                    "start": 43.058,
+                    "end": 43.165,
+                    "text": "in",
+                    "id": 345
+                  },
+                  {
+                    "start": 43.165,
+                    "end": 43.309,
+                    "text": "all",
+                    "id": 346
+                  },
+                  {
+                    "start": 43.309,
+                    "end": 43.74,
+                    "text": "directions.",
+                    "id": 347
+                  }
+                ],
+                "id": 47
+              }
+            ],
+            "id": 1355
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "야간 마사지, 체조, 모발이식 등의 수차례 반복이 사방에서 동원됐다."
+      },
+      {
+        "id": 11,
+        "origin": "하지만 이 중에서 미국 FDA나 식약처에서 임정됨과 동시에 가장 많은 사람이 혜택받고있는 방법이 있다면 그것을 미녹시딜이나 피나스테라이드 같은 약을 이용한 방법이었습니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 43.77,
+                    "end": 44.145,
+                    "text": "However,",
+                    "id": 391
+                  },
+                  {
+                    "start": 44.145,
+                    "end": 44.27,
+                    "text": "if",
+                    "id": 392
+                  },
+                  {
+                    "start": 44.27,
+                    "end": 44.52,
+                    "text": "there",
+                    "id": 393
+                  },
+                  {
+                    "start": 44.52,
+                    "end": 44.645,
+                    "text": "is",
+                    "id": 394
+                  },
+                  {
+                    "start": 44.645,
+                    "end": 44.729,
+                    "text": "a",
+                    "id": 395
+                  },
+                  {
+                    "start": 44.729,
+                    "end": 45.02,
+                    "text": "method",
+                    "id": 396
+                  },
+                  {
+                    "start": 45.02,
+                    "end": 45.229,
+                    "text": "that",
+                    "id": 397
+                  },
+                  {
+                    "start": 45.229,
+                    "end": 45.395,
+                    "text": "has",
+                    "id": 398
+                  },
+                  {
+                    "start": 45.395,
+                    "end": 45.604,
+                    "text": "been",
+                    "id": 399
+                  },
+                  {
+                    "start": 45.604,
+                    "end": 45.979,
+                    "text": "approved",
+                    "id": 400
+                  }
+                ],
+                "id": 52
+              }
+            ],
+            "id": 1360
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 45.979,
+                    "end": 46.104,
+                    "text": "by",
+                    "id": 401
+                  },
+                  {
+                    "start": 46.104,
+                    "end": 46.27,
+                    "text": "the",
+                    "id": 402
+                  },
+                  {
+                    "start": 46.27,
+                    "end": 46.395,
+                    "text": "US",
+                    "id": 403
+                  },
+                  {
+                    "start": 46.395,
+                    "end": 46.562,
+                    "text": "FDA",
+                    "id": 404
+                  },
+                  {
+                    "start": 46.562,
+                    "end": 46.687,
+                    "text": "or",
+                    "id": 405
+                  },
+                  {
+                    "start": 46.687,
+                    "end": 46.854,
+                    "text": "the",
+                    "id": 406
+                  },
+                  {
+                    "start": 46.854,
+                    "end": 47.229,
+                    "text": "Ministry",
+                    "id": 407
+                  },
+                  {
+                    "start": 47.229,
+                    "end": 47.354,
+                    "text": "of",
+                    "id": 408
+                  },
+                  {
+                    "start": 47.354,
+                    "end": 47.562,
+                    "text": "Food",
+                    "id": 409
+                  },
+                  {
+                    "start": 47.562,
+                    "end": 47.729,
+                    "text": "and",
+                    "id": 410
+                  },
+                  {
+                    "start": 47.729,
+                    "end": 47.937,
+                    "text": "Drug",
+                    "id": 411
+                  },
+                  {
+                    "start": 47.937,
+                    "end": 48.229,
+                    "text": "Safety",
+                    "id": 412
+                  }
+                ],
+                "id": 53
+              }
+            ],
+            "id": 1361
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 48.229,
+                    "end": 48.396,
+                    "text": "and",
+                    "id": 413
+                  },
+                  {
+                    "start": 48.396,
+                    "end": 48.521,
+                    "text": "is",
+                    "id": 414
+                  },
+                  {
+                    "start": 48.521,
+                    "end": 48.938,
+                    "text": "receiving",
+                    "id": 415
+                  },
+                  {
+                    "start": 48.938,
+                    "end": 49.104,
+                    "text": "the",
+                    "id": 416
+                  },
+                  {
+                    "start": 49.104,
+                    "end": 49.313,
+                    "text": "most",
+                    "id": 417
+                  },
+                  {
+                    "start": 49.313,
+                    "end": 49.688,
+                    "text": "benefits",
+                    "id": 418
+                  },
+                  {
+                    "start": 49.688,
+                    "end": 49.813,
+                    "text": "at",
+                    "id": 419
+                  },
+                  {
+                    "start": 49.813,
+                    "end": 49.979,
+                    "text": "the",
+                    "id": 420
+                  },
+                  {
+                    "start": 49.979,
+                    "end": 50.188,
+                    "text": "same",
+                    "id": 421
+                  },
+                  {
+                    "start": 50.188,
+                    "end": 50.438,
+                    "text": "time,",
+                    "id": 422
+                  }
+                ],
+                "id": 54
+              }
+            ],
+            "id": 1362
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 50.438,
+                    "end": 50.563,
+                    "text": "it",
+                    "id": 423
+                  },
+                  {
+                    "start": 50.563,
+                    "end": 50.688,
+                    "text": "is",
+                    "id": 424
+                  },
+                  {
+                    "start": 50.688,
+                    "end": 50.771,
+                    "text": "a",
+                    "id": 425
+                  },
+                  {
+                    "start": 50.771,
+                    "end": 51.063,
+                    "text": "method",
+                    "id": 426
+                  },
+                  {
+                    "start": 51.063,
+                    "end": 51.313,
+                    "text": "using",
+                    "id": 427
+                  },
+                  {
+                    "start": 51.313,
+                    "end": 51.563,
+                    "text": "drugs",
+                    "id": 428
+                  },
+                  {
+                    "start": 51.563,
+                    "end": 51.771,
+                    "text": "such",
+                    "id": 429
+                  },
+                  {
+                    "start": 51.771,
+                    "end": 51.896,
+                    "text": "as",
+                    "id": 430
+                  },
+                  {
+                    "start": 51.896,
+                    "end": 52.313,
+                    "text": "minoxidil",
+                    "id": 431
+                  },
+                  {
+                    "start": 52.313,
+                    "end": 52.438,
+                    "text": "or",
+                    "id": 432
+                  },
+                  {
+                    "start": 52.438,
+                    "end": 52.98,
+                    "text": "finasteride.",
+                    "id": 433
+                  }
+                ],
+                "id": 55
+              }
+            ],
+            "id": 1363
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "다만, 미국 FDA나 식품의약품안전처의 승인을 받아 동시에 가장 많은 효과를 보고 있는 방법이 있다면 미녹시딜이나 피나스테리드 등의 약물을 이용한 방법이다."
+      },
+      {
+        "id": 12,
+        "origin": "그러나 모든 형이 그렇듯이 약을 통원 치료는 부작용에 대한 문제를 짚고 넘어가지 않을 수가 없었는데요",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 52.988,
+                    "end": 53.382,
+                    "text": "However,",
+                    "id": 451
+                  },
+                  {
+                    "start": 53.382,
+                    "end": 53.601,
+                    "text": "like",
+                    "id": 452
+                  },
+                  {
+                    "start": 53.601,
+                    "end": 53.776,
+                    "text": "all",
+                    "id": 453
+                  },
+                  {
+                    "start": 53.776,
+                    "end": 54.038,
+                    "text": "older",
+                    "id": 454
+                  },
+                  {
+                    "start": 54.038,
+                    "end": 54.476,
+                    "text": "brothers,",
+                    "id": 455
+                  },
+                  {
+                    "start": 54.476,
+                    "end": 54.564,
+                    "text": "I",
+                    "id": 456
+                  },
+                  {
+                    "start": 54.564,
+                    "end": 54.739,
+                    "text": "had",
+                    "id": 457
+                  },
+                  {
+                    "start": 54.739,
+                    "end": 54.87,
+                    "text": "to",
+                    "id": 458
+                  },
+                  {
+                    "start": 54.87,
+                    "end": 55.22,
+                    "text": "address",
+                    "id": 459
+                  }
+                ],
+                "id": 58
+              }
+            ],
+            "id": 1366
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 55.22,
+                    "end": 55.395,
+                    "text": "the",
+                    "id": 460
+                  },
+                  {
+                    "start": 55.395,
+                    "end": 55.745,
+                    "text": "problem",
+                    "id": 461
+                  },
+                  {
+                    "start": 55.745,
+                    "end": 55.877,
+                    "text": "of",
+                    "id": 462
+                  },
+                  {
+                    "start": 55.877,
+                    "end": 56.096,
+                    "text": "side",
+                    "id": 463
+                  },
+                  {
+                    "start": 56.096,
+                    "end": 56.446,
+                    "text": "effects",
+                    "id": 464
+                  },
+                  {
+                    "start": 56.446,
+                    "end": 56.577,
+                    "text": "of",
+                    "id": 465
+                  },
+                  {
+                    "start": 56.577,
+                    "end": 57.059,
+                    "text": "outpatient",
+                    "id": 466
+                  },
+                  {
+                    "start": 57.059,
+                    "end": 57.54,
+                    "text": "treatment.",
+                    "id": 467
+                  }
+                ],
+                "id": 59
+              }
+            ],
+            "id": 1367
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "하지만 다른 모든 형들처럼 나도 외래 진료 부작용 문제를 해결해야 했다."
+      },
+      {
+        "id": 13,
+        "origin": "특히 먹는 약인 피나 4일 경우 성기능 장애",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 57.57,
+                    "end": 57.682,
+                    "text": "In",
+                    "id": 481
+                  },
+                  {
+                    "start": 57.682,
+                    "end": 58.132,
+                    "text": "particular,",
+                    "id": 482
+                  },
+                  {
+                    "start": 58.132,
+                    "end": 58.244,
+                    "text": "in",
+                    "id": 483
+                  },
+                  {
+                    "start": 58.244,
+                    "end": 58.394,
+                    "text": "the",
+                    "id": 484
+                  },
+                  {
+                    "start": 58.394,
+                    "end": 58.582,
+                    "text": "case",
+                    "id": 485
+                  },
+                  {
+                    "start": 58.582,
+                    "end": 58.694,
+                    "text": "of",
+                    "id": 486
+                  },
+                  {
+                    "start": 58.694,
+                    "end": 58.881,
+                    "text": "Pina",
+                    "id": 487
+                  },
+                  {
+                    "start": 58.881,
+                    "end": 58.994,
+                    "text": "4,",
+                    "id": 488
+                  },
+                  {
+                    "start": 58.994,
+                    "end": 59.106,
+                    "text": "an",
+                    "id": 489
+                  },
+                  {
+                    "start": 59.106,
+                    "end": 59.293,
+                    "text": "oral",
+                    "id": 490
+                  },
+                  {
+                    "start": 59.293,
+                    "end": 59.518,
+                    "text": "drug,",
+                    "id": 491
+                  }
+                ],
+                "id": 62
+              }
+            ],
+            "id": 1370
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 59.518,
+                    "end": 59.78,
+                    "text": "sexual",
+                    "id": 492
+                  },
+                  {
+                    "start": 59.78,
+                    "end": 60.23,
+                    "text": "dysfunction",
+                    "id": 493
+                  }
+                ],
+                "id": 63
+              }
+            ],
+            "id": 1371
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "특히 경구용 약물인 피나4의 경우 성기능 장애"
+      }
+    ]
+  },
+  "translatedMultiline": {
+    "checkpoint": 1313
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

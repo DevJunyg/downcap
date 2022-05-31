@@ -1,0 +1,162 @@
+{
+  "appSetting": {
+      "realTimeTranslationFlag": false
+  },
+  "popup": {},
+  "project": {
+      "selectedEditType": "translated",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+          "origin": 20,
+          "translated": 40
+      },
+      "sequence": [
+          "origin",
+          "translated"
+      ],
+      "translateGuideOpen": false,
+      "projectDefaultStyle": {
+          "background": {
+              "r": 253,
+              "g": 153,
+              "b": 172,
+              "a": 1
+          },
+          "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+          },
+          "outline": 3,
+          "outlineColor": {
+              "r": 75,
+              "g": 24,
+              "b": 24,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "projectName": "무한도전 무야호_360pE",
+      "videoPath": "file://C:\\Users\\hogeu\\Desktop\\테스트 짧은 영상\\무한도전 무야호_360p.mp4",
+      "totalTranslateTaskLength": 1,
+      "nowTranslateTaskLength": 1,
+      "videoMeta": {
+          "width": 640,
+          "height": 360
+      }
+  },
+  "projectCotrol": {},
+  "translatedMultiline": {
+      "captions": [
+          {
+              "id": 10,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 10,
+                              "start": 11.1,
+                              "end": 16.834,
+                              "text": "This is the newly created line."
+                          }
+                      ],
+                      "id": 0,
+                      "style": {
+                          "outlineColor": {
+                              "r": 118,
+                              "g": 185,
+                              "b": 241,
+                              "a": 1
+                          },
+                          "outline": 4,
+                          "color": {
+                              "r": 200,
+                              "g": 243,
+                              "b": 250,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "underline": false,
+                          "background": {
+                              "r": 159,
+                              "g": 179,
+                              "b": 246,
+                              "a": 1
+                          },
+                          "font": 4,
+                          "fontSize": 300,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.02,
+              "meta": {
+                  "sourceId": 14,
+                  "status": "Successed",
+                  "sourceText": "새로 만든 줄입니다.",
+                  "translatedText": "This is the newly created line."
+              }
+          },
+          {
+              "id": 8,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 8,
+                              "start": 11.1,
+                              "end": 16.834,
+                              "text": "This is the newly created line."
+                          }
+                      ],
+                      "id": 1,
+                      "style": {
+                          "outlineColor": {
+                              "r": 118,
+                              "g": 185,
+                              "b": 241,
+                              "a": 1
+                          },
+                          "outline": 4,
+                          "color": {
+                              "r": 200,
+                              "g": 243,
+                              "b": 250,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "underline": false,
+                          "background": {
+                              "r": 159,
+                              "g": 179,
+                              "b": 246,
+                              "a": 1
+                          },
+                          "font": 4,
+                          "fontSize": 300,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.02,
+              "meta": {
+                  "sourceId": 12,
+                  "status": "Successed",
+                  "sourceText": "새로 만든 줄입니다.",
+                  "translatedText": "This is the newly created line."
+              }
+          }
+      ],
+      "checkpoint": 7
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

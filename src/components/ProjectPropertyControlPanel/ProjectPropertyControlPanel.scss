@@ -1,0 +1,79 @@
+@import "styles/_colors.scss";
+
+.left-bottom-container {
+  margin: 1rem 0;
+  .left-bottom {
+    .tab-menu{
+      overflow: hidden;
+      .tab {
+        color: white;
+        height: 29px;
+        line-height: 29px;
+        font-size: 1rem;
+        text-align: center;
+        align-items: center;
+        margin-right: 1.5rem;
+      }
+      .tab div {
+        width: 6vw;
+        max-width: 5rem;
+      }
+
+      .tab-item {
+        height: 0px;
+        border-bottom: 30px solid darkgray;
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+      }
+
+      .active {
+        border-left: 10px solid transparent;
+        border-right: 10px solid transparent;
+        border-bottom: 30px solid white;
+        color: $color-violet;
+        font-weight: bold;
+      }
+
+      .focused {
+        border-bottom: 27px solid white;
+        color: $color-violet;
+      }
+
+      .left-bottom-tab-toggle {
+        div {
+          font-size: 0.8rem;
+          height: 1rem;
+          overflow: hidden;
+          line-height: 1rem;
+          color: $color-deep-gray;
+          
+          span {
+            text-transform: uppercase;
+            color: $color-real-red;
+            font-weight: bold;
+            margin: 0 0.1rem;
+          }
+        }
+        .toggle-group{
+          margin: 0 0.2rem 0.1rem 0.5rem;
+          overflow: visible;
+          color: white;
+          button {
+            height: 100%;
+            padding: 0.3rem;
+            width: 2rem;
+            svg{
+              fill: #A9A9A9;
+            }
+            &:hover {
+              cursor: pointer;
+              svg {
+                fill: white;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

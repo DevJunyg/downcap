@@ -1,0 +1,41 @@
+@import "styles/_colors.scss";
+
+.upload-success-contents {
+  flex-direction: column;
+
+  .upload-success-message {
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    padding: 2rem 0;
+    margin: 0 1rem;
+  }
+
+  .video-upload-added-info {
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    margin: 0 1rem;
+    border-top: solid 1px $color-gray80;
+
+    img {
+      width: 5rem;
+      height: 5rem;
+      margin: 0.5rem;
+    }
+
+    .added-info-message {
+      width: 20rem;
+      display: block;
+      border: none;
+
+      label {
+        margin-right: 0.5rem;
+        margin-left: 0.5rem;
+        cursor: inherit;
+        align-items: center;
+        display: flex;
+      }
+    }
+  }
+}

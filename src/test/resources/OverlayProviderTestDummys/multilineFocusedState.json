@@ -1,0 +1,284 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 0,
+                "text": "새로 생성한 줄입니다1",
+                "id": 0
+              }
+            ],
+            "id": 0
+          }
+        ],
+        "id": 232
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 10,
+                "start": 0,
+                "text": "새로 생성한 줄입니다2",
+                "id": 2
+              }
+            ],
+            "id": 2
+          }
+        ],
+        "id": 234
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 10,
+                "text": "새로 생성한 줄입니다3",
+                "id": 1
+              }
+            ],
+            "id": 1
+          }
+        ],
+        "id": 233
+      }
+    ]
+  },
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 0.72,
+                "end": 1.406,
+                "text": "저는",
+                "id": 0
+              },
+              {
+                "start": 1.406,
+                "end": 2.779,
+                "text": "개인적으로",
+                "id": 1
+              },
+              {
+                "start": 2.779,
+                "end": 3.236,
+                "text": "아",
+                "id": 2
+              },
+              {
+                "start": 3.236,
+                "end": 3.694,
+                "text": "이",
+                "id": 3
+              },
+              {
+                "start": 3.694,
+                "end": 4.151,
+                "text": "절",
+                "id": 4
+              },
+              {
+                "start": 4.151,
+                "end": 4.837,
+                "text": "후렴",
+                "id": 5
+              },
+              {
+                "start": 4.837,
+                "end": 5.752,
+                "text": "마지막",
+                "id": 6
+              },
+              {
+                "start": 5.752,
+                "end": 6.667,
+                "text": "부분을",
+                "id": 7
+              },
+              {
+                "start": 6.667,
+                "end": 8.04,
+                "text": "좋아하구요",
+                "id": 8
+              }
+            ],
+            "id": 0
+          }
+        ],
+        "id": 9
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 9.63,
+                "end": 10.14,
+                "text": "그리고",
+                "id": 10
+              }
+            ],
+            "id": 1
+          }
+        ],
+        "id": 11
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 11.64,
+                "end": 12.452,
+                "text": "코러스와",
+                "id": 12
+              },
+              {
+                "start": 12.452,
+                "end": 12.939,
+                "text": "함께",
+                "id": 13
+              },
+              {
+                "start": 12.939,
+                "end": 13.589,
+                "text": "나오는",
+                "id": 14
+              },
+              {
+                "start": 13.589,
+                "end": 13.914,
+                "text": "아",
+                "id": 15
+              }
+            ],
+            "id": 2
+          }
+        ],
+        "id": 16
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "start": 15.302,
+                "end": 15.477,
+                "text": "아",
+                "id": 17
+              },
+              {
+                "start": 15.477,
+                "end": 15.651,
+                "text": "아",
+                "id": 18
+              },
+              {
+                "start": 15.651,
+                "end": 16,
+                "text": "여러분",
+                "id": 19
+              },
+              {
+                "start": 16,
+                "end": 16.262,
+                "text": "아직",
+                "id": 20
+              },
+              {
+                "start": 16.262,
+                "end": 16.524,
+                "text": "눈을",
+                "id": 21
+              },
+              {
+                "start": 16.524,
+                "end": 16.699,
+                "text": "못",
+                "id": 22
+              },
+              {
+                "start": 16.699,
+                "end": 17.31,
+                "text": "들어가셨구나",
+                "id": 23
+              }
+            ],
+            "id": 3
+          }
+        ],
+        "id": 24
+      }
+    ]
+  },
+  "popup": {},
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 255,
+        "g": 254,
+        "b": 0,
+        "a": 1
+      },
+      "outline": 1,
+      "outlineColor": {
+        "r": 155,
+        "g": 84,
+        "b": 25,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": true,
+      "font": 4,
+      "fontSize": 100
+    }
+  },
+  "projectCotrol": {
+    "selectedStyleEditType": "line",
+    "focusParagraphMetas": [
+      {
+        "path": {
+          "lineIndex": 0,
+          "paragraphIndex": 2
+        },
+        "source": "list",
+        "type": "multiline"
+      }
+    ]
+  },
+  "translatedCaption": {},
+  "translatedMultiline": {},
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

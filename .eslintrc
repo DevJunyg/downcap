@@ -1,0 +1,10 @@
+{
+  "parser": "@babel/eslint-parser",
+  "plugins":[
+    "flowtype",
+    "import",
+    "jsx-a11y",
+    "react",
+    "react-hooks"
+  ]
+}

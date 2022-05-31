@@ -1,0 +1,46 @@
+@import "styles/_colors.scss";
+
+.letter-check {
+  margin: 1rem;
+  
+  .letter-check-contents {
+    color: #4d4d4d;
+    flex-direction: column;
+    margin: 1rem 0 1rem 0;
+
+    .letter-check-icon {
+      width: 30%;
+    }
+  }
+
+  .letter-check-popup-message {
+    color: #7d1ed8;
+    font-size: 1.2rem;
+    font-weight: 800;
+    display: flow-root;
+
+    div {
+      text-align: center;
+
+      .letter-check-unit-content {
+        display: flex;
+        justify-content: center;
+
+        .letter-check-letter {
+          color: $color-summer-sky;
+          margin: 0 0.5rem 0 0.5rem;
+        }
+      }
+    }
+  }
+
+  .letter-check-close-btn {
+    margin-top: 1rem;
+    border: $color-whisper solid 1px;
+    
+    &:hover {
+      color: $color-white;
+      background-color: $color-violet;
+    }
+  }
+}

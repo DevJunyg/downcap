@@ -1,0 +1,765 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {},
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.862,
+                "start": 2.91,
+                "end": 2.91,
+                "text": "인사",
+                "id": 1153
+              },
+              {
+                "confidence": 1,
+                "start": 2.91,
+                "end": 2.91,
+                "text": "시간도",
+                "id": 1154
+              },
+              {
+                "confidence": 0.918,
+                "start": 2.91,
+                "end": 2.91,
+                "text": "없습니다",
+                "id": 1155
+              }
+            ],
+            "id": 178
+          }
+        ],
+        "id": 1156,
+        "horizontal": 0.47,
+        "vertical": 0.68
+      },
+      {
+        "id": 1172,
+        "lines": [
+          {
+            "id": 180,
+            "words": [
+              {
+                "confidence": 0.892,
+                "start": 6,
+                "end": 6.923,
+                "text": "오늘은",
+                "id": 1164
+              },
+              {
+                "confidence": 1,
+                "start": 6.923,
+                "end": 8.538,
+                "text": "현대인들에게",
+                "id": 1165
+              },
+              {
+                "id": 1166,
+                "start": 8.538,
+                "end": 9,
+                "text": "매",
+                "confidence": 0.853,
+                "style": {}
+              }
+            ],
+            "style": {}
+          }
+        ]
+      },
+      {
+        "lines": [
+          {
+            "style": {},
+            "words": [
+              {
+                "start": 9,
+                "end": 9,
+                "text": "우",
+                "confidence": 0.853,
+                "style": {},
+                "id": 1383
+              },
+              {
+                "confidence": 1,
+                "start": 9,
+                "end": 9,
+                "text": "두려운",
+                "id": 1167
+              },
+              {
+                "confidence": 1,
+                "start": 9,
+                "end": 9,
+                "text": "존재",
+                "id": 1168
+              },
+              {
+                "confidence": 0.993,
+                "start": 9,
+                "end": 9,
+                "text": "탈모",
+                "id": 1169
+              },
+              {
+                "confidence": 0.8,
+                "start": 9,
+                "end": 9,
+                "text": "고통은",
+                "id": 1170
+              },
+              {
+                "confidence": 0.659,
+                "start": 9,
+                "end": 9,
+                "text": "방대한",
+                "id": 1171
+              }
+            ],
+            "id": 206
+          }
+        ],
+        "id": 1384
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.977,
+                "start": 32.988,
+                "end": 33.791,
+                "text": "그러나",
+                "id": 1287
+              },
+              {
+                "confidence": 0.857,
+                "start": 33.791,
+                "end": 34.71,
+                "text": "모든",
+                "id": 1288
+              },
+              {
+                "confidence": 0.523,
+                "start": 34.71,
+                "end": 35.262,
+                "text": "형이",
+                "id": 1289
+              },
+              {
+                "confidence": 0.9,
+                "start": 35.262,
+                "end": 36.54,
+                "text": "그렇듯이",
+                "id": 1290
+              },
+              {
+                "confidence": 0.863,
+                "start": 36.54,
+                "end": 37.376,
+                "text": "약을",
+                "id": 1291
+              },
+              {
+                "confidence": 0.918,
+                "start": 37.376,
+                "end": 38.02,
+                "text": "통원",
+                "id": 1292
+              },
+              {
+                "confidence": 0.988,
+                "start": 38.02,
+                "end": 38.939,
+                "text": "치료는",
+                "id": 1293
+              },
+              {
+                "confidence": 1,
+                "start": 38.939,
+                "end": 40.41,
+                "text": "부작용에",
+                "id": 1294
+              }
+            ],
+            "id": 199
+          }
+        ],
+        "id": 1295
+      },
+      {
+        "id": 1303,
+        "lines": [
+          {
+            "id": 200,
+            "words": [
+              {
+                "confidence": 1,
+                "start": 40.41,
+                "end": 40.41,
+                "text": "대한",
+                "id": 1296
+              },
+              {
+                "confidence": 0.992,
+                "start": 40.41,
+                "end": 40.41,
+                "text": "문제를",
+                "id": 1297
+              },
+              {
+                "confidence": 0.992,
+                "start": 40.41,
+                "end": 40.41,
+                "text": "짚고",
+                "id": 1298
+              },
+              {
+                "confidence": 1,
+                "start": 40.41,
+                "end": 40.41,
+                "text": "넘어가지",
+                "id": 1299
+              },
+              {
+                "confidence": 0.978,
+                "start": 40.41,
+                "end": 40.41,
+                "text": "않을",
+                "id": 1300
+              },
+              {
+                "confidence": 0.687,
+                "start": 40.41,
+                "end": 40.41,
+                "text": "수가",
+                "id": 1301
+              }
+            ],
+            "style": {}
+          }
+        ]
+      },
+      {
+        "id": 1373,
+        "lines": [
+          {
+            "id": 202,
+            "words": [
+              {
+                "id": 1302,
+                "start": 53.41,
+                "end": 55.41,
+                "text": "없었는",
+                "confidence": 0.974,
+                "style": {}
+              }
+            ],
+            "style": {}
+          }
+        ]
+      },
+      {
+        "lines": [
+          {
+            "style": {},
+            "words": [
+              {
+                "start": 55.41,
+                "end": 55.41,
+                "text": "데요",
+                "confidence": 0.974,
+                "style": {},
+                "id": 1374
+              }
+            ],
+            "id": 203
+          }
+        ],
+        "id": 1375
+      }
+    ]
+  },
+  "popup": {},
+  "project": {
+    "selectedEditType": "translated",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 206,
+        "g": 56,
+        "b": 38,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    },
+    "projectName": "en_test_code",
+    "videoPath": "file://C:\\Users\\a\\Desktop\\영상\\1분영상.mp4",
+    "videoMeta": {
+      "width": 1568,
+      "height": 644
+    },
+    "totalTranslateTaskLength": 12,
+    "nowTranslateTaskLength": 12
+  },
+  "projectCotrol": {
+    "selectedStyleEditType": "word",
+    "focusParagraphMetas": [
+      {
+        "path": {
+          "selection": {
+            "start": 3,
+            "end": 3
+          },
+          "captionIndex": 2,
+          "paragraphIndex": 0,
+          "lineIndex": 0,
+          "wordIndex": 4
+        },
+        "source": "overlay",
+        "type": "translatedCaption"
+      }
+    ]
+  },
+  "translatedCaption": {
+    "captions": [
+      {
+        "id": 2,
+        "origin": "인사 시간도 없습니다",
+        "paragraphs": [
+          {
+            "id": 1315,
+            "horizontal": 0.47,
+            "vertical": 0.52,
+            "lines": [
+              {
+                "id": 7,
+                "words": [
+                  {
+                    "start": 2,
+                    "end": 2.2,
+                    "text": "no",
+                    "id": 33
+                  },
+                  {
+                    "start": 2.2,
+                    "end": 2.534,
+                    "text": "time",
+                    "id": 34
+                  },
+                  {
+                    "start": 2.534,
+                    "end": 2.733,
+                    "text": "to",
+                    "id": 35
+                  },
+                  {
+                    "start": 2.733,
+                    "end": 3,
+                    "text": "say",
+                    "id": 36
+                  }
+                ],
+                "style": {}
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "작별인사를 할 시간이 없다"
+      },
+      {
+        "id": 3,
+        "origin": "안될 거하게 레알 짧은 과긴급각의 공진입니다",
+        "paragraphs": [
+          {
+            "id": 1318,
+            "lines": [
+              {
+                "id": 10,
+                "words": [
+                  {
+                    "start": 5,
+                    "end": 5.167,
+                    "text": "It's",
+                    "id": 47
+                  },
+                  {
+                    "start": 5.167,
+                    "end": 5.233,
+                    "text": "a",
+                    "id": 48
+                  },
+                  {
+                    "start": 5.233,
+                    "end": 5.533,
+                    "text": "resonant",
+                    "id": 49
+                  },
+                  {
+                    "start": 5.533,
+                    "end": 5.633,
+                    "text": "of",
+                    "id": 50
+                  },
+                  {
+                    "start": 5.633,
+                    "end": 5.733,
+                    "text": "an",
+                    "id": 51
+                  },
+                  {
+                    "id": 52,
+                    "start": 5.733,
+                    "end": 6,
+                    "text": "incredi",
+                    "style": {}
+                  }
+                ],
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": 1381,
+            "lines": [
+              {
+                "id": 67,
+                "words": [
+                  {
+                    "start": 7,
+                    "end": 7.25,
+                    "text": "bly",
+                    "style": {},
+                    "id": 496
+                  },
+                  {
+                    "start": 7.25,
+                    "end": 7.625,
+                    "text": "short",
+                    "id": 53
+                  },
+                  {
+                    "id": 54,
+                    "start": 7.625,
+                    "end": 8,
+                    "text": "hyper",
+                    "style": {}
+                  }
+                ],
+                "style": {}
+              }
+            ]
+          },
+          {
+            "id": 1386,
+            "lines": [
+              {
+                "id": 69,
+                "style": {},
+                "words": [
+                  {
+                    "id": 498,
+                    "start": 9,
+                    "end": 9.4,
+                    "text": "urg",
+                    "style": {}
+                  },
+                  {
+                    "id": 499,
+                    "start": 9.4,
+                    "end": 9.7,
+                    "text": "en",
+                    "style": {}
+                  },
+                  {
+                    "start": 9.7,
+                    "end": 10,
+                    "text": "cy",
+                    "style": {},
+                    "id": 500
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "그것은 믿을 수 없을 정도로 짧은 초긴급 각도의 공명입니다."
+      },
+      {
+        "id": 6,
+        "origin": "공학자들이 뛰어들고 있는 최신 탈모치료 기술직은 긴급히 전해 드립니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 15,
+                    "end": 15.077,
+                    "text": "The",
+                    "id": 166
+                  },
+                  {
+                    "start": 15.077,
+                    "end": 15.212,
+                    "text": "latest",
+                    "id": 167
+                  },
+                  {
+                    "start": 15.212,
+                    "end": 15.308,
+                    "text": "hair",
+                    "id": 168
+                  },
+                  {
+                    "start": 15.308,
+                    "end": 15.404,
+                    "text": "loss",
+                    "id": 169
+                  },
+                  {
+                    "start": 15.404,
+                    "end": 15.596,
+                    "text": "treatment",
+                    "id": 170
+                  },
+                  {
+                    "start": 15.596,
+                    "end": 15.808,
+                    "text": "technology",
+                    "id": 171
+                  },
+                  {
+                    "start": 15.808,
+                    "end": 15.904,
+                    "text": "jobs",
+                    "id": 172
+                  },
+                  {
+                    "start": 15.904,
+                    "end": 16,
+                    "text": "that",
+                    "id": 173
+                  }
+                ],
+                "id": 26
+              }
+            ],
+            "id": 1334
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "엔지니어들이 뛰어드는 최신 탈모치료기술 채용공고를 긴급발송합니다."
+      },
+      {
+        "id": 8,
+        "origin": "탈모가 워낙 정복하기 어렵다",
+        "paragraphs": [
+          {
+            "id": 1349,
+            "lines": [
+              {
+                "id": 41,
+                "words": [
+                  {
+                    "start": 17,
+                    "end": 17.385,
+                    "text": "Hair",
+                    "id": 295
+                  },
+                  {
+                    "start": 17.385,
+                    "end": 17.769,
+                    "text": "loss",
+                    "id": 296
+                  },
+                  {
+                    "start": 17.769,
+                    "end": 18,
+                    "text": "is",
+                    "id": 297
+                  }
+                ],
+                "style": {}
+              }
+            ]
+          },
+          {
+            "lines": [
+              {
+                "style": {},
+                "words": [
+                  {
+                    "start": 19,
+                    "end": 19.231,
+                    "text": "so",
+                    "id": 298
+                  },
+                  {
+                    "start": 19.231,
+                    "end": 19.615,
+                    "text": "hard",
+                    "id": 299
+                  },
+                  {
+                    "start": 19.615,
+                    "end": 19.846,
+                    "text": "to",
+                    "id": 300
+                  },
+                  {
+                    "id": 301,
+                    "start": 19.846,
+                    "end": 20,
+                    "text": "c",
+                    "style": {}
+                  }
+                ],
+                "id": 72
+              }
+            ],
+            "id": 1389
+          },
+          {
+            "lines": [
+              {
+                "style": {},
+                "words": [
+                  {
+                    "start": 21,
+                    "end": 22,
+                    "text": "onquer",
+                    "style": {},
+                    "id": 495
+                  }
+                ],
+                "id": 66
+              }
+            ],
+            "id": 1380
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "탈모는 극복하기가 너무 어렵습니다"
+      },
+      {
+        "id": 9,
+        "origin": "보니 그동안 탈모치료 접근한 샴푸",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 25,
+                    "end": 25.143,
+                    "text": "Bonnie,",
+                    "id": 310
+                  },
+                  {
+                    "start": 25.143,
+                    "end": 25.286,
+                    "text": "shampoo",
+                    "id": 311
+                  },
+                  {
+                    "start": 25.286,
+                    "end": 25.375,
+                    "text": "that",
+                    "id": 312
+                  },
+                  {
+                    "start": 25.375,
+                    "end": 25.447,
+                    "text": "has",
+                    "id": 313
+                  },
+                  {
+                    "start": 25.447,
+                    "end": 25.643,
+                    "text": "approached",
+                    "id": 314
+                  },
+                  {
+                    "start": 25.643,
+                    "end": 25.732,
+                    "text": "hair",
+                    "id": 315
+                  },
+                  {
+                    "start": 25.732,
+                    "end": 25.821,
+                    "text": "loss",
+                    "id": 316
+                  },
+                  {
+                    "start": 25.821,
+                    "end": 26,
+                    "text": "treatment",
+                    "id": 317
+                  }
+                ],
+                "id": 43
+              }
+            ],
+            "id": 1351
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "보니, 탈모치료에 다가온 샴푸"
+      }
+    ]
+  },
+  "translatedMultiline": {
+    "checkpoint": 1390
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

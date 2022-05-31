@@ -1,0 +1,30 @@
+{
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.981,
+                "text": "내가",
+                "start": 0.27,
+                "end": 0.51,
+                "id": 2148
+              },
+              {
+                "confidence": 0.478,
+                "text": "안녕하세요",
+                "start": 0.51,
+                "end": 1.44,
+                "id": 2149
+              }
+            ],
+            "id": 397
+          }
+        ],
+        "id": 2150
+      }
+    ]
+  }
+} 

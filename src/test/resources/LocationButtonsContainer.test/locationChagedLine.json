@@ -1,0 +1,1025 @@
+{
+  "appSetting": {
+      "realTimeTranslationFlag": false
+  },
+  "multiline": {},
+  "originCaption": {
+      "captions": [
+          {
+              "id": 1,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 1,
+                              "end": 0.51,
+                              "start": 0.27,
+                              "text": "내가",
+                              "confidence": 0.979,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 2,
+                              "end": 1.44,
+                              "start": 0.51,
+                              "text": "안녕하세요",
+                              "confidence": 0.463,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 1,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 2,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 3,
+                              "end": 2.43,
+                              "start": 1.77,
+                              "text": "힘내세요",
+                              "confidence": 0.549,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 4,
+                              "end": 2.906,
+                              "start": 2.58,
+                              "text": "다름이",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 5,
+                              "end": 3.091,
+                              "start": 2.906,
+                              "text": "아니고",
+                              "confidence": 0.358,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 6,
+                              "end": 3.421,
+                              "start": 3.096,
+                              "text": "저희가",
+                              "confidence": 0.343,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 7,
+                              "end": 3.75,
+                              "start": 3.421,
+                              "text": "그",
+                              "confidence": 0.308,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 8,
+                              "end": 4.32,
+                              "start": 3.759,
+                              "text": "무한도전",
+                              "confidence": 0.998,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 9,
+                              "end": 4.68,
+                              "start": 4.32,
+                              "text": "혹시",
+                              "confidence": 0.954,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 2,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 3,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 10,
+                              "end": 4.95,
+                              "start": 4.68,
+                              "text": "보신",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 11,
+                              "end": 5.04,
+                              "start": 4.95,
+                              "text": "적",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 12,
+                              "end": 5.576,
+                              "start": 5.04,
+                              "text": "있으십니까",
+                              "confidence": 0.988,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 3,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 4,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 13,
+                              "end": 6.24,
+                              "start": 6.04,
+                              "text": "잘",
+                              "confidence": 0.998,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 14,
+                              "end": 6.69,
+                              "start": 6.24,
+                              "text": "몰라요",
+                              "confidence": 0.997,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 4,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 5,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 15,
+                              "end": 7.889,
+                              "start": 7.171,
+                              "text": "세글자를",
+                              "confidence": 0.354,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 16,
+                              "end": 8.25,
+                              "start": 7.89,
+                              "text": "조금",
+                              "confidence": 0.282,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 17,
+                              "end": 8.4,
+                              "start": 8.252,
+                              "text": "아",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 18,
+                              "end": 8.58,
+                              "start": 8.4,
+                              "text": "저희가",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 19,
+                              "end": 9.409,
+                              "start": 8.587,
+                              "text": "많이보죠",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 20,
+                              "end": 9.767,
+                              "start": 9.469,
+                              "text": "아",
+                              "confidence": 0.764,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 21,
+                              "end": 10.134,
+                              "start": 9.87,
+                              "text": "예",
+                              "confidence": 0.633,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 22,
+                              "end": 10.47,
+                              "start": 10.14,
+                              "text": "3",
+                              "confidence": 0.794,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 23,
+                              "end": 11.1,
+                              "start": 10.553,
+                              "text": "보셨습니까",
+                              "confidence": 0.873,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 5,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 6,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 24,
+                              "end": 11.579,
+                              "start": 11.1,
+                              "text": "CIA",
+                              "confidence": 0.827,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 25,
+                              "end": 12.03,
+                              "start": 11.67,
+                              "text": "사실",
+                              "confidence": 0.131,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 26,
+                              "end": 12.36,
+                              "start": 12.051,
+                              "text": "액션이",
+                              "confidence": 0.912,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 27,
+                              "end": 12.75,
+                              "start": 12.36,
+                              "text": "어딨는지",
+                              "confidence": 0.942,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 28,
+                              "end": 13.05,
+                              "start": 12.75,
+                              "text": "않으려",
+                              "confidence": 0.567,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 29,
+                              "end": 16.055,
+                              "start": 13.05,
+                              "text": "무한하",
+                              "confidence": 0.626,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 6,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          }
+      ],
+      "defaultStyle": {
+          "outlineColor": {
+              "r": 34,
+              "g": 34,
+              "b": 34,
+              "a": 1
+          },
+          "outline": 0,
+          "captionsLocation": "center",
+          "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+          },
+          "bold": true,
+          "align": "center",
+          "underline": false,
+          "font": 4,
+          "fontSize": 100,
+          "italic": false
+      },
+      "defaultLocation": {
+          "horizontal": 0.5,
+          "vertical": 0.05
+      }
+  },
+  "popup": {},
+  "project": {
+      "selectedEditType": "origin",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+          "origin": 20,
+          "translated": 40
+      },
+      "sequence": [
+          "origin",
+          "translated"
+      ],
+      "projectDefaultStyle": {
+          "background": {
+              "r": 30,
+              "g": 121,
+              "b": 1,
+              "a": 1
+          },
+          "color": {
+              "r": 255,
+              "g": 230,
+              "b": 34,
+              "a": 1
+          },
+          "outline": 0,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "projectName": "무한도전 무야호_360p",
+      "videoPath": "file://C:\\Users\\hogeu\\Desktop\\테스트 짧은 영상\\무한도전 무야호_360p.mp4",
+      "videoMeta": {
+          "width": 640,
+          "height": 360
+      }
+  },
+  "projectCotrol": {
+      "selectedStyleEditType": "line",
+      "focusParagraphMetas": [
+          {
+              "path": {
+                  "lineIndex": 0,
+                  "paragraphIndex": 0
+              },
+              "source": "list",
+              "type": "originCaption"
+          }
+      ]
+  },
+  "translatedCaption": {
+      "defaultStyle": {
+          "outlineColor": {
+              "r": 34,
+              "g": 34,
+              "b": 34,
+              "a": 1
+          },
+          "outline": 0,
+          "captionsLocation": "center",
+          "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 1
+          },
+          "bold": true,
+          "align": "center",
+          "underline": false,
+          "font": 4,
+          "fontSize": 100,
+          "italic": false
+      },
+      "captions": [
+          {
+              "id": 1,
+              "origin": "내가 안녕하세요",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 0.27,
+                                      "end": 1.148,
+                                      "text": "hello",
+                                      "id": 3
+                                  },
+                                  {
+                                      "start": 1.148,
+                                      "end": 1.44,
+                                      "text": "i",
+                                      "id": 4
+                                  }
+                              ],
+                              "id": 2
+                          }
+                      ],
+                      "id": 9
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "안녕하세요"
+          },
+          {
+              "id": 2,
+              "origin": "힘내세요 다름이 아니고 저희가 그 무한도전 혹시 보신 적 있으십니까",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 1.77,
+                                      "end": 1.981,
+                                      "text": "Be",
+                                      "id": 18
+                                  },
+                                  {
+                                      "start": 1.981,
+                                      "end": 2.545,
+                                      "text": "strong.",
+                                      "id": 19
+                                  },
+                                  {
+                                      "start": 2.545,
+                                      "end": 2.898,
+                                      "text": "Have",
+                                      "id": 20
+                                  },
+                                  {
+                                      "start": 2.898,
+                                      "end": 3.18,
+                                      "text": "you",
+                                      "id": 21
+                                  },
+                                  {
+                                      "start": 3.18,
+                                      "end": 3.532,
+                                      "text": "ever",
+                                      "id": 22
+                                  },
+                                  {
+                                      "start": 3.532,
+                                      "end": 3.884,
+                                      "text": "seen",
+                                      "id": 23
+                                  },
+                                  {
+                                      "start": 3.884,
+                                      "end": 4.166,
+                                      "text": "our",
+                                      "id": 24
+                                  },
+                                  {
+                                      "start": 4.166,
+                                      "end": 4.801,
+                                      "text": "Infinite",
+                                      "id": 25
+                                  },
+                                  {
+                                      "start": 4.801,
+                                      "end": 5.576,
+                                      "text": "Challenge?",
+                                      "id": 26
+                                  }
+                              ],
+                              "id": 5
+                          }
+                      ],
+                      "id": 12
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "힘내세요. 저희 무한도전 보셨나요?"
+          }
+      ],
+      "defaultLocation": {
+          "horizontal": 0.5,
+          "vertical": 0.05
+      }
+  },
+  "translatedMultiline": {},
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

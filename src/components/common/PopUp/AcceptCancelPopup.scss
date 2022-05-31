@@ -1,0 +1,66 @@
+
+.ok-cancel-popup {
+  color: initial;
+  position: fixed;
+  display: flex;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  -webkit-user-select: initial;
+  -webkit-app-region: initial;
+
+  .ok-cancel-popup-content {
+    display: grid;
+    grid-template-rows: 33px auto 45px;
+    background: #ffffff;
+    border-radius: 5px;
+    min-height: 158px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+    .ok-cancel-popup-titlebar {
+      justify-content: space-between;
+      padding: 0 0.5rem;
+      height: 33px;
+      background-color: #7d1ed8;
+      border-radius: 5px 5px 0 0;
+
+      .ok-cancel-popup-title {
+        color: #ffffff;
+        font-weight: 500;
+        font-size: 1rem;
+        display: inline-block;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+    }
+  }
+
+  .ok-cancel-popup-dialog {
+    .popup-btn {
+      border: #e6e6e6 solid 1px;
+      border-radius: 8.5px;
+      margin: 0 0.5rem;
+      padding: 0.2rem 0.5rem;
+      font-weight: 500;
+      width: 5rem;
+    }
+
+    .cancel-btn {
+      &:hover {
+        background-color: #29abe2;
+        color: #ffffff;
+      }
+    }
+
+    .ok-btn {
+      &:hover {
+        background-color: #7d1ed8;
+        color: #ffffff;
+      }
+    }
+  }
+}

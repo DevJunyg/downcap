@@ -1,0 +1,42 @@
+@import 'styles/_colors.scss';
+
+$color_progressbar_background_defalt_color: $color-whisper;
+$color_progressbardefalt_color: #7d1ed8;
+
+.trans-progress-bar {
+  width: 160px;
+  border-radius: 50px;
+  height: 18px;
+  margin: auto 10px auto 10px;
+  color: #ffffff;
+  display: inline-block;
+  line-height: 18px;
+
+  .loading-bar {
+    background-color: $color_progressbardefalt_color;
+    margin: auto 0 auto 0;
+    text-overflow: ellipsis;
+    overflow-x: visible;
+    transform-origin: left;
+    -moz-transition: all 1s;
+    -webkit-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+    transition: all 1s;
+    height: 18px;
+
+    .loading-bar-text {
+      width: 160px;
+      font-size: 12px;
+      line-height: 18px;
+
+      span {
+        margin-left: 10px;
+      }
+    }
+  }
+}
+
+.background-bar {
+  background-color: $color_progressbar_background_defalt_color;
+}

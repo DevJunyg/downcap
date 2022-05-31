@@ -1,0 +1,38 @@
+.help-image {
+  position: fixed;
+  display: flex;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(255, 255, 255, 0.7);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  outline: none;
+}
+
+.ko-origin-help-image {
+  background-image: url("https://downcap.net/client/img/help/ko-ko.png");
+}
+
+.ko-translated-help-image {
+  background-image: url("https://downcap.net/client/img/help/ko-en.png");
+}
+
+.ko-dual-help-image {
+  background-image: url("https://downcap.net/client/img/help/ko-dual.png");
+}
+
+.en-origin-help-image {
+  background-image: url("https://downcap.net/client/img/help/en-ko.png");
+}
+
+.en-translated-help-image {
+  background-image: url("https://downcap.net/client/img/help/en-en.png");
+}
+
+.en-dual-help-image {
+  background-image: url("https://downcap.net/client/img/help/en-dual.png");
+}

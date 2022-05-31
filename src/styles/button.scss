@@ -1,0 +1,51 @@
+@import "_colors.scss";
+
+.btn {
+  &:not(:disabled):not(.disabled) {
+    cursor: pointer;
+  }
+
+  display: inline-block;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border: 1px solid transparent;
+  font-size: 1rem;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  border-radius: 8.5px;
+  padding: .2rem .5rem;
+  font-weight: 500;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+.btn-violet {
+  color: white;
+  background-color: $color-violet;
+  border-color: lighten($color-violet, 10);
+}
+
+.btn-black {
+  color: white;
+  background-color: $color-black;
+  border-color: lighten($color-black, 10);
+}
+
+.btn-violet {
+  color: white;
+  background-color: $color-violet;
+  border-color: $color-violet;
+}
+
+.btn-clear {
+  color: #3b3b3b;
+  background-color: white;
+  border-color: $color-violet;
+}

@@ -1,0 +1,1885 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {},
+  "originCaption": {},
+  "popup": {},
+  "project": {
+    "selectedEditType": "translated",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 206,
+        "g": 56,
+        "b": 38,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    },
+    "projectName": "절대그대로",
+    "videoPath": "file://C:\\Users\\a\\Desktop\\영상\\1분영상.mp4",
+    "videoMeta": {
+      "width": 1568,
+      "height": 644
+    },
+    "totalTranslateTaskLength": 12,
+    "nowTranslateTaskLength": 12
+  },
+  "projectCotrol": {},
+  "translatedCaption": {
+    "captions": [
+      {
+        "id": 2,
+        "origin": "인사 시간도 없습니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 2.91,
+                    "end": 3.044,
+                    "text": "no",
+                    "id": 33
+                  },
+                  {
+                    "start": 3.044,
+                    "end": 3.266,
+                    "text": "time",
+                    "id": 34
+                  },
+                  {
+                    "start": 3.266,
+                    "end": 3.4,
+                    "text": "to",
+                    "id": 35
+                  },
+                  {
+                    "start": 3.4,
+                    "end": 3.578,
+                    "text": "say",
+                    "id": 36
+                  },
+                  {
+                    "start": 3.578,
+                    "end": 3.934,
+                    "text": "goodbye",
+                    "id": 37
+                  }
+                ],
+                "id": 7
+              }
+            ],
+            "id": 1315
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "작별인사를 할 시간이 없다"
+      },
+      {
+        "id": 3,
+        "origin": "안될 거하게 레알 짧은 과긴급각의 공진입니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 3.934,
+                    "end": 4.159,
+                    "text": "It's",
+                    "id": 75
+                  },
+                  {
+                    "start": 4.159,
+                    "end": 4.249,
+                    "text": "a",
+                    "id": 76
+                  },
+                  {
+                    "start": 4.249,
+                    "end": 4.653,
+                    "text": "resonant",
+                    "id": 77
+                  },
+                  {
+                    "start": 4.653,
+                    "end": 4.788,
+                    "text": "of",
+                    "id": 78
+                  },
+                  {
+                    "start": 4.788,
+                    "end": 4.923,
+                    "text": "an",
+                    "id": 79
+                  },
+                  {
+                    "start": 4.923,
+                    "end": 5.417,
+                    "text": "incredibly",
+                    "id": 80
+                  },
+                  {
+                    "start": 5.417,
+                    "end": 5.686,
+                    "text": "short",
+                    "id": 81
+                  },
+                  {
+                    "start": 5.686,
+                    "end": 6.315,
+                    "text": "hyper-urgency",
+                    "id": 82
+                  }
+                ],
+                "id": 13
+              }
+            ],
+            "id": 1321
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 6.315,
+                    "end": 6.63,
+                    "text": "angle.",
+                    "id": 83
+                  }
+                ],
+                "id": 14
+              }
+            ],
+            "id": 1322
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "그것은 믿을 수 없을 정도로 짧은 초긴급 각도의 공명입니다."
+      },
+      {
+        "id": 4,
+        "origin": "오늘은 현대인들에게 매우 두려운 존재 탈모 고통은 방대한 아는 지금의 아카데미 약한 탈모치료의 세계 그런데",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 6.66,
+                    "end": 6.887,
+                    "text": "Today",
+                    "id": 84
+                  },
+                  {
+                    "start": 6.887,
+                    "end": 7,
+                    "text": "is",
+                    "id": 85
+                  },
+                  {
+                    "start": 7,
+                    "end": 7.076,
+                    "text": "a",
+                    "id": 86
+                  },
+                  {
+                    "start": 7.076,
+                    "end": 7.265,
+                    "text": "very",
+                    "id": 87
+                  },
+                  {
+                    "start": 7.265,
+                    "end": 7.718,
+                    "text": "frightening",
+                    "id": 88
+                  },
+                  {
+                    "start": 7.718,
+                    "end": 8.096,
+                    "text": "existence",
+                    "id": 89
+                  },
+                  {
+                    "start": 8.096,
+                    "end": 8.247,
+                    "text": "for",
+                    "id": 90
+                  },
+                  {
+                    "start": 8.247,
+                    "end": 8.512,
+                    "text": "modern",
+                    "id": 91
+                  }
+                ],
+                "id": 15
+              }
+            ],
+            "id": 1323
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 8.512,
+                    "end": 8.776,
+                    "text": "people",
+                    "id": 92
+                  },
+                  {
+                    "start": 8.776,
+                    "end": 8.928,
+                    "text": "The",
+                    "id": 93
+                  },
+                  {
+                    "start": 8.928,
+                    "end": 9.116,
+                    "text": "pain",
+                    "id": 94
+                  },
+                  {
+                    "start": 9.116,
+                    "end": 9.23,
+                    "text": "of",
+                    "id": 95
+                  },
+                  {
+                    "start": 9.23,
+                    "end": 9.419,
+                    "text": "hair",
+                    "id": 96
+                  },
+                  {
+                    "start": 9.419,
+                    "end": 9.608,
+                    "text": "loss",
+                    "id": 97
+                  },
+                  {
+                    "start": 9.608,
+                    "end": 9.721,
+                    "text": "is",
+                    "id": 98
+                  },
+                  {
+                    "start": 9.721,
+                    "end": 9.91,
+                    "text": "vast",
+                    "id": 99
+                  },
+                  {
+                    "start": 9.91,
+                    "end": 10.061,
+                    "text": "The",
+                    "id": 100
+                  },
+                  {
+                    "start": 10.061,
+                    "end": 10.364,
+                    "text": "current",
+                    "id": 101
+                  },
+                  {
+                    "start": 10.364,
+                    "end": 10.666,
+                    "text": "academy",
+                    "id": 102
+                  }
+                ],
+                "id": 16
+              }
+            ],
+            "id": 1324
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 10.666,
+                    "end": 10.893,
+                    "text": "knows",
+                    "id": 103
+                  },
+                  {
+                    "start": 10.893,
+                    "end": 11.044,
+                    "text": "the",
+                    "id": 104
+                  },
+                  {
+                    "start": 11.044,
+                    "end": 11.271,
+                    "text": "world",
+                    "id": 105
+                  },
+                  {
+                    "start": 11.271,
+                    "end": 11.384,
+                    "text": "of",
+                    "id": 106
+                  },
+                  {
+                    "start": 11.384,
+                    "end": 11.573,
+                    "text": "weak",
+                    "id": 107
+                  },
+                  {
+                    "start": 11.573,
+                    "end": 11.762,
+                    "text": "hair",
+                    "id": 108
+                  },
+                  {
+                    "start": 11.762,
+                    "end": 11.951,
+                    "text": "loss",
+                    "id": 109
+                  },
+                  {
+                    "start": 11.951,
+                    "end": 12.329,
+                    "text": "treatment",
+                    "id": 110
+                  },
+                  {
+                    "start": 12.329,
+                    "end": 12.48,
+                    "text": "But",
+                    "id": 111
+                  }
+                ],
+                "id": 17
+              }
+            ],
+            "id": 1325
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "오늘날 현대인에게 너무나 무서운 존재인 탈모의 고통은 엄청나다 현재의 아카데미는 약한 탈모치료의 세계를 알고 있지만"
+      },
+      {
+        "id": 5,
+        "origin": "약물치료가 아니라 공학적인 접근으로 탈모 치료 기술의 개발되고 있다며 믿으시겠습니까",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 12.48,
+                    "end": 12.684,
+                    "text": "Would",
+                    "id": 131
+                  },
+                  {
+                    "start": 12.684,
+                    "end": 12.819,
+                    "text": "you",
+                    "id": 132
+                  },
+                  {
+                    "start": 12.819,
+                    "end": 13.091,
+                    "text": "believe",
+                    "id": 133
+                  },
+                  {
+                    "start": 13.091,
+                    "end": 13.26,
+                    "text": "that",
+                    "id": 134
+                  },
+                  {
+                    "start": 13.26,
+                    "end": 13.43,
+                    "text": "hair",
+                    "id": 135
+                  },
+                  {
+                    "start": 13.43,
+                    "end": 13.599,
+                    "text": "loss",
+                    "id": 136
+                  },
+                  {
+                    "start": 13.599,
+                    "end": 13.939,
+                    "text": "treatment",
+                    "id": 137
+                  },
+                  {
+                    "start": 13.939,
+                    "end": 14.312,
+                    "text": "technology",
+                    "id": 138
+                  }
+                ],
+                "id": 21
+              }
+            ],
+            "id": 1329
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 14.312,
+                    "end": 14.414,
+                    "text": "is",
+                    "id": 139
+                  },
+                  {
+                    "start": 14.414,
+                    "end": 14.617,
+                    "text": "being",
+                    "id": 140
+                  },
+                  {
+                    "start": 14.617,
+                    "end": 14.956,
+                    "text": "developed",
+                    "id": 141
+                  },
+                  {
+                    "start": 14.956,
+                    "end": 15.126,
+                    "text": "with",
+                    "id": 142
+                  },
+                  {
+                    "start": 15.126,
+                    "end": 15.228,
+                    "text": "an",
+                    "id": 143
+                  },
+                  {
+                    "start": 15.228,
+                    "end": 15.635,
+                    "text": "engineering",
+                    "id": 144
+                  },
+                  {
+                    "start": 15.635,
+                    "end": 15.94,
+                    "text": "approach",
+                    "id": 145
+                  }
+                ],
+                "id": 22
+              }
+            ],
+            "id": 1330
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 15.94,
+                    "end": 16.178,
+                    "text": "rather",
+                    "id": 146
+                  },
+                  {
+                    "start": 16.178,
+                    "end": 16.347,
+                    "text": "than",
+                    "id": 147
+                  },
+                  {
+                    "start": 16.347,
+                    "end": 16.517,
+                    "text": "drug",
+                    "id": 148
+                  },
+                  {
+                    "start": 16.517,
+                    "end": 16.89,
+                    "text": "treatment?",
+                    "id": 149
+                  }
+                ],
+                "id": 23
+              }
+            ],
+            "id": 1331
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "탈모치료기술이 약물치료가 아닌 공학적 접근으로 발전하고 있다는 사실이 믿어지시나요?"
+      },
+      {
+        "id": 6,
+        "origin": "공학자들이 뛰어들고 있는 최신 탈모치료 기술직은 긴급히 전해 드립니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 16.89,
+                    "end": 17.028,
+                    "text": "The",
+                    "id": 166
+                  },
+                  {
+                    "start": 17.028,
+                    "end": 17.27,
+                    "text": "latest",
+                    "id": 167
+                  },
+                  {
+                    "start": 17.27,
+                    "end": 17.442,
+                    "text": "hair",
+                    "id": 168
+                  },
+                  {
+                    "start": 17.442,
+                    "end": 17.615,
+                    "text": "loss",
+                    "id": 169
+                  },
+                  {
+                    "start": 17.615,
+                    "end": 17.96,
+                    "text": "treatment",
+                    "id": 170
+                  },
+                  {
+                    "start": 17.96,
+                    "end": 18.34,
+                    "text": "technology",
+                    "id": 171
+                  },
+                  {
+                    "start": 18.34,
+                    "end": 18.513,
+                    "text": "jobs",
+                    "id": 172
+                  },
+                  {
+                    "start": 18.513,
+                    "end": 18.685,
+                    "text": "that",
+                    "id": 173
+                  }
+                ],
+                "id": 26
+              }
+            ],
+            "id": 1334
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 18.685,
+                    "end": 19.031,
+                    "text": "engineers",
+                    "id": 174
+                  },
+                  {
+                    "start": 19.031,
+                    "end": 19.169,
+                    "text": "are",
+                    "id": 175
+                  },
+                  {
+                    "start": 19.169,
+                    "end": 19.445,
+                    "text": "jumping",
+                    "id": 176
+                  },
+                  {
+                    "start": 19.445,
+                    "end": 19.618,
+                    "text": "into",
+                    "id": 177
+                  },
+                  {
+                    "start": 19.618,
+                    "end": 19.79,
+                    "text": "will",
+                    "id": 178
+                  },
+                  {
+                    "start": 19.79,
+                    "end": 19.894,
+                    "text": "be",
+                    "id": 179
+                  },
+                  {
+                    "start": 19.894,
+                    "end": 20.239,
+                    "text": "delivered",
+                    "id": 180
+                  },
+                  {
+                    "start": 20.239,
+                    "end": 20.55,
+                    "text": "urgently",
+                    "id": 181
+                  }
+                ],
+                "id": 27
+              }
+            ],
+            "id": 1335
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "엔지니어들이 뛰어드는 최신 탈모치료기술 채용공고가 시급합니다."
+      },
+      {
+        "id": 7,
+        "origin": "17 세기엘로 피셔로 불려진 탈모는 미국에서만 오천 명 이상의 측 대한민국 전체인구만큼이나 고통받고있는 매우 보편적이면서도 심리적인 위축과 낮은 자존감을 가져오는 반드시 정복해야만 하는 그런 아주 고약한 아직 못되고 혼쭐이 나여대는 그런 질환입니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 21.3,
+                    "end": 21.539,
+                    "text": "Hair",
+                    "id": 235
+                  },
+                  {
+                    "start": 21.539,
+                    "end": 21.825,
+                    "text": "loss,",
+                    "id": 236
+                  },
+                  {
+                    "start": 21.825,
+                    "end": 22.159,
+                    "text": "called",
+                    "id": 237
+                  },
+                  {
+                    "start": 22.159,
+                    "end": 22.35,
+                    "text": "Elo",
+                    "id": 238
+                  },
+                  {
+                    "start": 22.35,
+                    "end": 22.684,
+                    "text": "Fisher",
+                    "id": 239
+                  },
+                  {
+                    "start": 22.684,
+                    "end": 22.827,
+                    "text": "in",
+                    "id": 240
+                  },
+                  {
+                    "start": 22.827,
+                    "end": 23.018,
+                    "text": "the",
+                    "id": 241
+                  },
+                  {
+                    "start": 23.018,
+                    "end": 23.257,
+                    "text": "17th",
+                    "id": 242
+                  },
+                  {
+                    "start": 23.257,
+                    "end": 23.686,
+                    "text": "century,",
+                    "id": 243
+                  }
+                ],
+                "id": 34
+              }
+            ],
+            "id": 1342
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 23.686,
+                    "end": 23.829,
+                    "text": "is",
+                    "id": 244
+                  },
+                  {
+                    "start": 23.829,
+                    "end": 23.925,
+                    "text": "a",
+                    "id": 245
+                  },
+                  {
+                    "start": 23.925,
+                    "end": 24.163,
+                    "text": "very",
+                    "id": 246
+                  },
+                  {
+                    "start": 24.163,
+                    "end": 24.497,
+                    "text": "common",
+                    "id": 247
+                  },
+                  {
+                    "start": 24.497,
+                    "end": 24.879,
+                    "text": "disease",
+                    "id": 248
+                  },
+                  {
+                    "start": 24.879,
+                    "end": 25.118,
+                    "text": "that",
+                    "id": 249
+                  },
+                  {
+                    "start": 25.118,
+                    "end": 25.5,
+                    "text": "suffers",
+                    "id": 250
+                  },
+                  {
+                    "start": 25.5,
+                    "end": 25.643,
+                    "text": "as",
+                    "id": 251
+                  },
+                  {
+                    "start": 25.643,
+                    "end": 25.881,
+                    "text": "much",
+                    "id": 252
+                  },
+                  {
+                    "start": 25.881,
+                    "end": 26.025,
+                    "text": "as",
+                    "id": 253
+                  },
+                  {
+                    "start": 26.025,
+                    "end": 26.215,
+                    "text": "the",
+                    "id": 254
+                  }
+                ],
+                "id": 35
+              }
+            ],
+            "id": 1343
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 26.215,
+                    "end": 26.55,
+                    "text": "entire",
+                    "id": 255
+                  },
+                  {
+                    "start": 26.55,
+                    "end": 27.074,
+                    "text": "population",
+                    "id": 256
+                  },
+                  {
+                    "start": 27.074,
+                    "end": 27.218,
+                    "text": "of",
+                    "id": 257
+                  },
+                  {
+                    "start": 27.218,
+                    "end": 27.504,
+                    "text": "Korea",
+                    "id": 258
+                  },
+                  {
+                    "start": 27.504,
+                    "end": 27.743,
+                    "text": "with",
+                    "id": 259
+                  },
+                  {
+                    "start": 27.743,
+                    "end": 27.981,
+                    "text": "more",
+                    "id": 260
+                  },
+                  {
+                    "start": 27.981,
+                    "end": 28.22,
+                    "text": "than",
+                    "id": 261
+                  },
+                  {
+                    "start": 28.22,
+                    "end": 28.506,
+                    "text": "5,000",
+                    "id": 262
+                  },
+                  {
+                    "start": 28.506,
+                    "end": 28.84,
+                    "text": "people",
+                    "id": 263
+                  }
+                ],
+                "id": 36
+              }
+            ],
+            "id": 1344
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 28.84,
+                    "end": 28.983,
+                    "text": "in",
+                    "id": 264
+                  },
+                  {
+                    "start": 28.983,
+                    "end": 29.174,
+                    "text": "the",
+                    "id": 265
+                  },
+                  {
+                    "start": 29.174,
+                    "end": 29.508,
+                    "text": "United",
+                    "id": 266
+                  },
+                  {
+                    "start": 29.508,
+                    "end": 29.842,
+                    "text": "States",
+                    "id": 267
+                  },
+                  {
+                    "start": 29.842,
+                    "end": 30.176,
+                    "text": "alone,",
+                    "id": 268
+                  },
+                  {
+                    "start": 30.176,
+                    "end": 30.367,
+                    "text": "but",
+                    "id": 269
+                  },
+                  {
+                    "start": 30.367,
+                    "end": 30.51,
+                    "text": "it",
+                    "id": 270
+                  },
+                  {
+                    "start": 30.51,
+                    "end": 30.654,
+                    "text": "is",
+                    "id": 271
+                  },
+                  {
+                    "start": 30.654,
+                    "end": 30.749,
+                    "text": "a",
+                    "id": 272
+                  },
+                  {
+                    "start": 30.749,
+                    "end": 30.988,
+                    "text": "very",
+                    "id": 273
+                  },
+                  {
+                    "start": 30.988,
+                    "end": 31.274,
+                    "text": "nasty",
+                    "id": 274
+                  },
+                  {
+                    "start": 31.274,
+                    "end": 31.656,
+                    "text": "disease",
+                    "id": 275
+                  }
+                ],
+                "id": 37
+              }
+            ],
+            "id": 1345
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 31.656,
+                    "end": 31.894,
+                    "text": "that",
+                    "id": 276
+                  },
+                  {
+                    "start": 31.894,
+                    "end": 32.133,
+                    "text": "must",
+                    "id": 277
+                  },
+                  {
+                    "start": 32.133,
+                    "end": 32.276,
+                    "text": "be",
+                    "id": 278
+                  },
+                  {
+                    "start": 32.276,
+                    "end": 32.801,
+                    "text": "conquered,",
+                    "id": 279
+                  },
+                  {
+                    "start": 32.801,
+                    "end": 33.088,
+                    "text": "which",
+                    "id": 280
+                  },
+                  {
+                    "start": 33.088,
+                    "end": 33.422,
+                    "text": "brings",
+                    "id": 281
+                  },
+                  {
+                    "start": 33.422,
+                    "end": 33.708,
+                    "text": "about",
+                    "id": 282
+                  },
+                  {
+                    "start": 33.708,
+                    "end": 34.376,
+                    "text": "psychological",
+                    "id": 283
+                  }
+                ],
+                "id": 38
+              }
+            ],
+            "id": 1346
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 34.376,
+                    "end": 34.758,
+                    "text": "atrophy",
+                    "id": 284
+                  },
+                  {
+                    "start": 34.758,
+                    "end": 34.949,
+                    "text": "and",
+                    "id": 285
+                  },
+                  {
+                    "start": 34.949,
+                    "end": 35.14,
+                    "text": "low",
+                    "id": 286
+                  },
+                  {
+                    "start": 35.14,
+                    "end": 35.76,
+                    "text": "self-esteem.",
+                    "id": 287
+                  }
+                ],
+                "id": 39
+              }
+            ],
+            "id": 1347
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "17세기에 엘로피셔(Elo Fisher)라고 불리는 탈모는 미국만 해도 5,000명이 넘는 인구로 한국 전체 인구만큼 고통받는 매우 흔한 질병이지만 반드시 정복해야 하는 매우 고약한 질병이며, 심리적 위축과 낮은 자존감을 유발한다."
+      },
+      {
+        "id": 8,
+        "origin": "탈모가 워낙 정복하기 어렵다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 36.39,
+                    "end": 36.606,
+                    "text": "Hair",
+                    "id": 295
+                  },
+                  {
+                    "start": 36.606,
+                    "end": 36.821,
+                    "text": "loss",
+                    "id": 296
+                  },
+                  {
+                    "start": 36.821,
+                    "end": 36.951,
+                    "text": "is",
+                    "id": 297
+                  },
+                  {
+                    "start": 36.951,
+                    "end": 37.08,
+                    "text": "so",
+                    "id": 298
+                  },
+                  {
+                    "start": 37.08,
+                    "end": 37.296,
+                    "text": "hard",
+                    "id": 299
+                  },
+                  {
+                    "start": 37.296,
+                    "end": 37.425,
+                    "text": "to",
+                    "id": 300
+                  },
+                  {
+                    "start": 37.425,
+                    "end": 37.77,
+                    "text": "conquer",
+                    "id": 301
+                  }
+                ],
+                "id": 41
+              }
+            ],
+            "id": 1349
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "탈모는 극복하기가 너무 어렵습니다"
+      },
+      {
+        "id": 9,
+        "origin": "보니 그동안 탈모치료 접근한 샴푸",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 37.77,
+                    "end": 38.031,
+                    "text": "Bonnie,",
+                    "id": 310
+                  },
+                  {
+                    "start": 38.031,
+                    "end": 38.293,
+                    "text": "shampoo",
+                    "id": 311
+                  },
+                  {
+                    "start": 38.293,
+                    "end": 38.456,
+                    "text": "that",
+                    "id": 312
+                  },
+                  {
+                    "start": 38.456,
+                    "end": 38.587,
+                    "text": "has",
+                    "id": 313
+                  },
+                  {
+                    "start": 38.587,
+                    "end": 38.946,
+                    "text": "approached",
+                    "id": 314
+                  },
+                  {
+                    "start": 38.946,
+                    "end": 39.109,
+                    "text": "hair",
+                    "id": 315
+                  },
+                  {
+                    "start": 39.109,
+                    "end": 39.272,
+                    "text": "loss",
+                    "id": 316
+                  },
+                  {
+                    "start": 39.272,
+                    "end": 39.599,
+                    "text": "treatment",
+                    "id": 317
+                  }
+                ],
+                "id": 43
+              }
+            ],
+            "id": 1351
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "보니, 탈모치료에 다가온 샴푸"
+      },
+      {
+        "id": 10,
+        "origin": "야마사지 체조 모발이식 등 수많은 반복들이 전방위적으로 동원되었습니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 39.645,
+                    "end": 39.968,
+                    "text": "Numerous",
+                    "id": 333
+                  },
+                  {
+                    "start": 39.968,
+                    "end": 40.399,
+                    "text": "repetitions",
+                    "id": 334
+                  },
+                  {
+                    "start": 40.399,
+                    "end": 40.579,
+                    "text": "such",
+                    "id": 335
+                  },
+                  {
+                    "start": 40.579,
+                    "end": 40.687,
+                    "text": "as",
+                    "id": 336
+                  },
+                  {
+                    "start": 40.687,
+                    "end": 40.902,
+                    "text": "night",
+                    "id": 337
+                  },
+                  {
+                    "start": 40.902,
+                    "end": 41.226,
+                    "text": "massage,",
+                    "id": 338
+                  },
+                  {
+                    "start": 41.226,
+                    "end": 41.621,
+                    "text": "gymnastics",
+                    "id": 339
+                  }
+                ],
+                "id": 46
+              }
+            ],
+            "id": 1354
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 41.621,
+                    "end": 41.764,
+                    "text": "and",
+                    "id": 340
+                  },
+                  {
+                    "start": 41.764,
+                    "end": 41.944,
+                    "text": "hair",
+                    "id": 341
+                  },
+                  {
+                    "start": 41.944,
+                    "end": 42.519,
+                    "text": "transplantation",
+                    "id": 342
+                  },
+                  {
+                    "start": 42.519,
+                    "end": 42.698,
+                    "text": "were",
+                    "id": 343
+                  },
+                  {
+                    "start": 42.698,
+                    "end": 43.058,
+                    "text": "mobilized",
+                    "id": 344
+                  },
+                  {
+                    "start": 43.058,
+                    "end": 43.165,
+                    "text": "in",
+                    "id": 345
+                  },
+                  {
+                    "start": 43.165,
+                    "end": 43.309,
+                    "text": "all",
+                    "id": 346
+                  },
+                  {
+                    "start": 43.309,
+                    "end": 43.74,
+                    "text": "directions.",
+                    "id": 347
+                  }
+                ],
+                "id": 47
+              }
+            ],
+            "id": 1355
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "야간 마사지, 체조, 모발이식 등의 수차례 반복이 사방에서 동원됐다."
+      },
+      {
+        "id": 11,
+        "origin": "하지만 이 중에서 미국 FDA나 식약처에서 임정됨과 동시에 가장 많은 사람이 혜택받고있는 방법이 있다면 그것을 미녹시딜이나 피나스테라이드 같은 약을 이용한 방법이었습니다",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 43.77,
+                    "end": 44.145,
+                    "text": "However,",
+                    "id": 391
+                  },
+                  {
+                    "start": 44.145,
+                    "end": 44.27,
+                    "text": "if",
+                    "id": 392
+                  },
+                  {
+                    "start": 44.27,
+                    "end": 44.52,
+                    "text": "there",
+                    "id": 393
+                  },
+                  {
+                    "start": 44.52,
+                    "end": 44.645,
+                    "text": "is",
+                    "id": 394
+                  },
+                  {
+                    "start": 44.645,
+                    "end": 44.729,
+                    "text": "a",
+                    "id": 395
+                  },
+                  {
+                    "start": 44.729,
+                    "end": 45.02,
+                    "text": "method",
+                    "id": 396
+                  },
+                  {
+                    "start": 45.02,
+                    "end": 45.229,
+                    "text": "that",
+                    "id": 397
+                  },
+                  {
+                    "start": 45.229,
+                    "end": 45.395,
+                    "text": "has",
+                    "id": 398
+                  },
+                  {
+                    "start": 45.395,
+                    "end": 45.604,
+                    "text": "been",
+                    "id": 399
+                  },
+                  {
+                    "start": 45.604,
+                    "end": 45.979,
+                    "text": "approved",
+                    "id": 400
+                  }
+                ],
+                "id": 52
+              }
+            ],
+            "id": 1360
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 45.979,
+                    "end": 46.104,
+                    "text": "by",
+                    "id": 401
+                  },
+                  {
+                    "start": 46.104,
+                    "end": 46.27,
+                    "text": "the",
+                    "id": 402
+                  },
+                  {
+                    "start": 46.27,
+                    "end": 46.395,
+                    "text": "US",
+                    "id": 403
+                  },
+                  {
+                    "start": 46.395,
+                    "end": 46.562,
+                    "text": "FDA",
+                    "id": 404
+                  },
+                  {
+                    "start": 46.562,
+                    "end": 46.687,
+                    "text": "or",
+                    "id": 405
+                  },
+                  {
+                    "start": 46.687,
+                    "end": 46.854,
+                    "text": "the",
+                    "id": 406
+                  },
+                  {
+                    "start": 46.854,
+                    "end": 47.229,
+                    "text": "Ministry",
+                    "id": 407
+                  },
+                  {
+                    "start": 47.229,
+                    "end": 47.354,
+                    "text": "of",
+                    "id": 408
+                  },
+                  {
+                    "start": 47.354,
+                    "end": 47.562,
+                    "text": "Food",
+                    "id": 409
+                  },
+                  {
+                    "start": 47.562,
+                    "end": 47.729,
+                    "text": "and",
+                    "id": 410
+                  },
+                  {
+                    "start": 47.729,
+                    "end": 47.937,
+                    "text": "Drug",
+                    "id": 411
+                  },
+                  {
+                    "start": 47.937,
+                    "end": 48.229,
+                    "text": "Safety",
+                    "id": 412
+                  }
+                ],
+                "id": 53
+              }
+            ],
+            "id": 1361
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 48.229,
+                    "end": 48.396,
+                    "text": "and",
+                    "id": 413
+                  },
+                  {
+                    "start": 48.396,
+                    "end": 48.521,
+                    "text": "is",
+                    "id": 414
+                  },
+                  {
+                    "start": 48.521,
+                    "end": 48.938,
+                    "text": "receiving",
+                    "id": 415
+                  },
+                  {
+                    "start": 48.938,
+                    "end": 49.104,
+                    "text": "the",
+                    "id": 416
+                  },
+                  {
+                    "start": 49.104,
+                    "end": 49.313,
+                    "text": "most",
+                    "id": 417
+                  },
+                  {
+                    "start": 49.313,
+                    "end": 49.688,
+                    "text": "benefits",
+                    "id": 418
+                  },
+                  {
+                    "start": 49.688,
+                    "end": 49.813,
+                    "text": "at",
+                    "id": 419
+                  },
+                  {
+                    "start": 49.813,
+                    "end": 49.979,
+                    "text": "the",
+                    "id": 420
+                  },
+                  {
+                    "start": 49.979,
+                    "end": 50.188,
+                    "text": "same",
+                    "id": 421
+                  },
+                  {
+                    "start": 50.188,
+                    "end": 50.438,
+                    "text": "time,",
+                    "id": 422
+                  }
+                ],
+                "id": 54
+              }
+            ],
+            "id": 1362
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 50.438,
+                    "end": 50.563,
+                    "text": "it",
+                    "id": 423
+                  },
+                  {
+                    "start": 50.563,
+                    "end": 50.688,
+                    "text": "is",
+                    "id": 424
+                  },
+                  {
+                    "start": 50.688,
+                    "end": 50.771,
+                    "text": "a",
+                    "id": 425
+                  },
+                  {
+                    "start": 50.771,
+                    "end": 51.063,
+                    "text": "method",
+                    "id": 426
+                  },
+                  {
+                    "start": 51.063,
+                    "end": 51.313,
+                    "text": "using",
+                    "id": 427
+                  },
+                  {
+                    "start": 51.313,
+                    "end": 51.563,
+                    "text": "drugs",
+                    "id": 428
+                  },
+                  {
+                    "start": 51.563,
+                    "end": 51.771,
+                    "text": "such",
+                    "id": 429
+                  },
+                  {
+                    "start": 51.771,
+                    "end": 51.896,
+                    "text": "as",
+                    "id": 430
+                  },
+                  {
+                    "start": 51.896,
+                    "end": 52.313,
+                    "text": "minoxidil",
+                    "id": 431
+                  },
+                  {
+                    "start": 52.313,
+                    "end": 52.438,
+                    "text": "or",
+                    "id": 432
+                  },
+                  {
+                    "start": 52.438,
+                    "end": 52.98,
+                    "text": "finasteride.",
+                    "id": 433
+                  }
+                ],
+                "id": 55
+              }
+            ],
+            "id": 1363
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "다만, 미국 FDA나 식품의약품안전처의 승인을 받아 동시에 가장 많은 효과를 보고 있는 방법이 있다면 미녹시딜이나 피나스테리드 등의 약물을 이용한 방법이다."
+      },
+      {
+        "id": 12,
+        "origin": "그러나 모든 형이 그렇듯이 약을 통원 치료는 부작용에 대한 문제를 짚고 넘어가지 않을 수가 없었는데요",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 52.988,
+                    "end": 53.382,
+                    "text": "However,",
+                    "id": 451
+                  },
+                  {
+                    "start": 53.382,
+                    "end": 53.601,
+                    "text": "like",
+                    "id": 452
+                  },
+                  {
+                    "start": 53.601,
+                    "end": 53.776,
+                    "text": "all",
+                    "id": 453
+                  },
+                  {
+                    "start": 53.776,
+                    "end": 54.038,
+                    "text": "older",
+                    "id": 454
+                  },
+                  {
+                    "start": 54.038,
+                    "end": 54.476,
+                    "text": "brothers,",
+                    "id": 455
+                  },
+                  {
+                    "start": 54.476,
+                    "end": 54.564,
+                    "text": "I",
+                    "id": 456
+                  },
+                  {
+                    "start": 54.564,
+                    "end": 54.739,
+                    "text": "had",
+                    "id": 457
+                  },
+                  {
+                    "start": 54.739,
+                    "end": 54.87,
+                    "text": "to",
+                    "id": 458
+                  },
+                  {
+                    "start": 54.87,
+                    "end": 55.22,
+                    "text": "address",
+                    "id": 459
+                  }
+                ],
+                "id": 58
+              }
+            ],
+            "id": 1366
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 55.22,
+                    "end": 55.395,
+                    "text": "the",
+                    "id": 460
+                  },
+                  {
+                    "start": 55.395,
+                    "end": 55.745,
+                    "text": "problem",
+                    "id": 461
+                  },
+                  {
+                    "start": 55.745,
+                    "end": 55.877,
+                    "text": "of",
+                    "id": 462
+                  },
+                  {
+                    "start": 55.877,
+                    "end": 56.096,
+                    "text": "side",
+                    "id": 463
+                  },
+                  {
+                    "start": 56.096,
+                    "end": 56.446,
+                    "text": "effects",
+                    "id": 464
+                  },
+                  {
+                    "start": 56.446,
+                    "end": 56.577,
+                    "text": "of",
+                    "id": 465
+                  },
+                  {
+                    "start": 56.577,
+                    "end": 57.059,
+                    "text": "outpatient",
+                    "id": 466
+                  },
+                  {
+                    "start": 57.059,
+                    "end": 57.54,
+                    "text": "treatment.",
+                    "id": 467
+                  }
+                ],
+                "id": 59
+              }
+            ],
+            "id": 1367
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "하지만 다른 모든 형들처럼 나도 외래 진료 부작용 문제를 해결해야 했다."
+      },
+      {
+        "id": 13,
+        "origin": "특히 먹는 약인 피나 4일 경우 성기능 장애",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 57.57,
+                    "end": 57.682,
+                    "text": "In",
+                    "id": 481
+                  },
+                  {
+                    "start": 57.682,
+                    "end": 58.132,
+                    "text": "particular,",
+                    "id": 482
+                  },
+                  {
+                    "start": 58.132,
+                    "end": 58.244,
+                    "text": "in",
+                    "id": 483
+                  },
+                  {
+                    "start": 58.244,
+                    "end": 58.394,
+                    "text": "the",
+                    "id": 484
+                  },
+                  {
+                    "start": 58.394,
+                    "end": 58.582,
+                    "text": "case",
+                    "id": 485
+                  },
+                  {
+                    "start": 58.582,
+                    "end": 58.694,
+                    "text": "of",
+                    "id": 486
+                  },
+                  {
+                    "start": 58.694,
+                    "end": 58.881,
+                    "text": "Pina",
+                    "id": 487
+                  },
+                  {
+                    "start": 58.881,
+                    "end": 58.994,
+                    "text": "4,",
+                    "id": 488
+                  },
+                  {
+                    "start": 58.994,
+                    "end": 59.106,
+                    "text": "an",
+                    "id": 489
+                  },
+                  {
+                    "start": 59.106,
+                    "end": 59.293,
+                    "text": "oral",
+                    "id": 490
+                  },
+                  {
+                    "start": 59.293,
+                    "end": 59.518,
+                    "text": "drug,",
+                    "id": 491
+                  }
+                ],
+                "id": 62
+              }
+            ],
+            "id": 1370
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 59.518,
+                    "end": 59.78,
+                    "text": "sexual",
+                    "id": 492
+                  },
+                  {
+                    "start": 59.78,
+                    "end": 60.23,
+                    "text": "dysfunction",
+                    "id": 493
+                  }
+                ],
+                "id": 63
+              }
+            ],
+            "id": 1371
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "특히 경구용 약물인 피나4의 경우 성기능 장애"
+      }
+    ]
+  },
+  "translatedMultiline": {
+    "checkpoint": 1313
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

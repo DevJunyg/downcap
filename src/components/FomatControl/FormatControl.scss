@@ -1,0 +1,268 @@
+@import "styles/_colors.scss";
+
+$buttons-padding: 0.1rem 0.25rem;
+$buttons-height: 30px;
+$font-button-heigh: 1.55rem;
+
+$font-select-button-heigh: $font-button-heigh;
+$font-select-button-width: 14rem;
+$font-outline-select-button-heigh: $font-button-heigh;
+$font-outline-select-button-width: 4rem;
+
+.split-updown-buttons-box {
+  display: flex;
+  flex-direction: column;
+  margin-left: 0.3rem;
+  cursor: pointer;
+}
+
+.selecet-apply-style {
+  margin-bottom: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .selecet-apply-button {
+    margin-left: auto;
+
+    .caption-style-apply-button {
+      font-size: 1rem;
+      cursor: pointer;
+      font-weight: 600;
+      margin-left: 0.5rem;
+    }
+
+    .caption-style-apply-button:hover {
+      background-color: #7d1ed8;
+      color: #ffffff;
+    }
+  }
+}
+
+.format-control-style {
+  display: block;
+  flex-wrap: wrap;
+
+  select {
+    font-size: 0.7rem;
+  }
+
+  input {
+    font-size: 0.8rem;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  .text-format-button {
+    height: $buttons-height;
+    padding: $buttons-padding;
+  }
+
+  .style-group {
+    display: flex;
+    flex-wrap: wrap;
+
+    .font-color-button {
+      height: $buttons-height;
+      padding: $buttons-padding;
+      line-height: normal;
+
+      span > div {
+        display: flex;
+        align-items: center;
+      }
+
+      label {
+        color: black;
+        font-size: 1rem;
+        font-weight: bold;
+        border-bottom: solid transparent 5px;
+      }
+    }
+
+    .font-background-color-button {
+      height: $buttons-height;
+      padding: $buttons-padding;
+      line-height: normal;
+
+      span > div {
+        display: flex;
+        align-items: center;
+      }
+    }
+
+    .font-size-button {
+      height: $buttons-height;
+      padding: $buttons-padding;
+      line-height: normal;
+
+      input {
+        border: 0;
+        width: 1.8rem;
+        margin-left: 0.1rem;
+        background-color: inherit;
+      }
+    }
+
+    .font-select-button {
+      line-height: normal;
+
+      label {
+        font-weight: bold;
+        font-size: 1rem;
+      }
+
+      select {
+        width: $font-select-button-width;
+        height: $font-select-button-heigh;
+      }
+      select:hover {
+        background-color: inherit;
+      }
+      select:focus {
+        outline: none;
+      }
+    }
+
+    .font-select-button:hover {
+      background-color: inherit;
+    }
+
+    .font-outline-select-button {
+      line-height: normal;
+
+      label {
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: rgba(0, 0, 0, 0.38);
+        color: transparent;
+        font-size: 1rem;
+      }
+
+      select {
+        width: $font-outline-select-button-width;
+        height: $font-outline-select-button-heigh;
+      }
+      select:focus {
+        outline: none;
+      }
+    }
+
+    .font-outline-select-button:hover {
+      background-color: inherit;
+    }
+
+    .font-outline-color-button {
+      height: $buttons-height;
+      padding: $buttons-padding;
+      line-height: normal;
+
+      span > div {
+        display: flex;
+        align-items: center;
+      }
+
+      label {
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        color: white;
+        font-size: 1rem;
+        border-bottom: solid transparent 5px;
+      }
+    }
+    .font-outline-color-button:hover {
+      background-color: inherit;
+    }
+  }
+
+  .font-align-button {
+    height: $buttons-height;
+    padding: $buttons-padding;
+  }
+
+  .captions-location-button {
+    height: $buttons-height;
+    padding: $buttons-padding;
+  }
+  .line-location-button {
+    height: $buttons-height;
+    padding: $buttons-padding;
+    margin-right: 0.1rem;
+    width: 30px;
+    img {
+      width: 95%;
+    }
+    .arrow-up{
+      padding: 0.02rem;
+    }
+    .arrow-down {
+      padding: 0.02rem;
+      transform: rotate(180deg);
+    }
+
+    .arrow-left {
+      transform: rotate(270deg);
+    }
+
+    .arrow-right {
+      transform: rotate(90deg);
+    }
+  }
+
+  .Mui-disabled {
+    img, .MuiToggleButton-label div *:first-child {
+      opacity: 0.2;
+    }
+  }
+}
+
+.word-split-button {
+  height: $buttons-height;
+  padding: $buttons-padding;
+  line-height: normal;
+  cursor: initial;
+  outline: none;
+
+  select:focus {
+    outline: none;
+  }
+
+  label {
+    color: inherit;
+    font-weight: bold;
+    font-size: 13px;
+  }
+
+  label.disalbed {
+    color: inherit;
+  }
+
+  span > div {
+    display: flex;
+    align-items: center;
+  }
+
+  .split-updown-buttons-box div {
+    height: 12px;
+  }
+
+  input {
+    color: inherit;
+    border: 0;
+    width: 1.1rem;
+    text-align: end;
+    background-color: inherit;
+    font-size: 0.8rem;
+    margin-left: 0.1rem;
+  }
+
+  input::-webkit-outer-spin-button,
+  input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+    font-size: 0.6rem;
+  }
+}

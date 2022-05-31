@@ -1,0 +1,71 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 0,
+                "text": "새로 생성한 줄입니다",
+                "id": 0
+              }
+            ],
+            "id": 0
+          }
+        ],
+        "id": 0
+      }
+    ]
+  },
+  "originCaption": {},
+  "popup": {},
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 253,
+        "g": 153,
+        "b": 172,
+        "a": 1
+      },
+      "color": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 75,
+        "g": 24,
+        "b": 24,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    }
+  },
+  "projectCotrol": {},
+  "translatedCaption": {},
+  "translatedMultiline": {},
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

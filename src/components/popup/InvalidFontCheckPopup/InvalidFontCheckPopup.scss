@@ -1,0 +1,137 @@
+@import "styles/_colors.scss";
+
+.font-invalid-popup {
+  margin: 1rem 2rem 1rem 2rem;
+  text-align: center;
+  overflow: hidden;
+  width: 40rem;
+
+  .font-invalid-img {
+    margin-bottom: 0.5rem;
+    
+    img {
+      width: 5rem;
+    }
+  }
+
+  .font-invalid-text {
+    font-size: 1.3rem;
+    font-weight: 500;
+
+    .font-invalid-highlight {
+      font-weight: bold;
+      color: $font-invalid-highlight-color;
+      margin: 0 0.4rem 0 0.4rem;
+    }
+  }
+
+  .font-invalid-text-guide {
+    color: $font-invalid-text-guide-color;
+    font-weight: bold;
+    font-size: 0.8rem;
+    margin: 0 0.4rem 0.4rem 0.4rem;
+  }
+
+  .font-invalid-list-menu {
+    display: grid;
+    position: sticky;
+    font-size: 0.8rem;
+    font-weight: bold;
+    max-height: 17px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    grid-template-columns: 1fr 4fr 1fr 1.5fr;
+    color: $font-invalid-list-menu-color;
+    border: $font-invalid-list-menu-border-color solid 2px;
+    background-color: $font-invalid-list-menu-background-color;
+  }
+
+  .font-invalid-list {
+    margin: 0 0 0.4rem 0;
+    max-height: 18rem;
+    min-height: 11rem;
+    overflow-y: auto;
+    overflow-x: hidden;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border: 2px solid $font-invalid-list-border-color;
+    border-top: hidden;
+    
+    .font-invalid-list-item {
+      display: grid;
+      padding: 0.4rem 0 0.4rem 0;
+      grid-template-columns: 1fr 4fr 1fr 1.5fr;
+
+      .font-invalid-list-item-time {
+        font-weight: bold;
+        padding-top: 0.1rem;
+      }
+
+      .font-invalid-list-item-text-line {
+        border-bottom: 1px solid $font-invalid-list-item-text-line-border-bottom-color;
+
+        .font-invalid-list-item-text {
+          width: 20rem;
+          overflow: hidden;
+          text-align: left;
+          white-space: nowrap;
+          text-overflow: ellipsis;
+        }
+      }
+
+      .font-invalid-list-item-lang {
+        font-weight: bold;
+        color: $font-invalid-list-item-lang-color;
+      }
+
+      .font-invalid-list-item-separator {
+        font-weight: bold;
+        padding: 0 0.2rem 0 0.2rem;
+        color: $font-invalid-list-item-separator-color;
+      }
+
+      .font-invalid-list-item-type {
+        font-weight: bold;
+        color: $font-invalid-list-item-type-color;
+      }
+
+      .font-invalid-list-item-btn {
+        width: 4rem;
+        margin: 0 auto;
+        padding: 0;
+        font-weight: bold;
+        border: $font-invalid-list-item-btn-border-color solid 1px;
+        background-color: $font-invalid-list-item-btn-background-color;
+
+        &:hover {
+          cursor: pointer;
+          color: $font-invalid-list-item-btn-hover-color;
+          background-color: $font-invalid-list-item-btn-hover-background-color;
+        }
+        
+        .font-invalid-list-item-btn-text {
+          &:hover {
+            cursor: pointer;
+          }
+        }
+      }
+
+      &:hover {
+        border-radius: 8.5px;
+        background-color: $font-invalid-list-item-hover-background-color;
+      }
+    }
+  }
+
+  .font-invalid-list-close-btn {
+    margin-top: 0.5rem;
+    padding: 3px 10px;
+    border: $font-invalid-list-close-btn-border-color solid 1px;
+    background-color: $font-invalid-list-close-btn-background-color;
+
+    &:hover {
+      color: $font-invalid-list-close-btn-hover-color;
+      background-color: $font-invalid-list-close-btn-hover-background-color;
+    }
+  }
+}

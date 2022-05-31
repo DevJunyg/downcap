@@ -1,0 +1,45 @@
+.tab-menu-item {
+  height: 100px;
+  width: 20px;
+  margin-right: 10px;
+  font-size: 0.8rem;
+  background-image: url("https://downcap.net/client/svg/단추모양.svg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .tab-menu-item-content {
+    height: 80%;
+    width: 80%;
+  }
+
+  .subtitle-tab {
+    background: url("https://downcap.net/client/svg/자막탭.svg");
+
+    &:hover {
+      background: url("https://downcap.net/client/svg/자막탭_push_v2.svg");
+    }
+  }
+
+  .subtitle-tab-clicked {
+    background: url("https://downcap.net/client/svg/자막탭_push_v2.svg");
+    background-size: cover;
+    width: 7px;
+    height: 20px;
+  }
+
+  .styles-tab {
+    background: url("https://downcap.net/client/svg/스타일탭.svg");
+    background-size: cover;
+
+    &:hover {
+      background: url("https://downcap.net/client/svg/스타일탭_push.svg");
+      background-size: cover;
+    }
+  }
+
+  .styles-tab-clicked {
+    background: url("https://downcap.net/client/svg/스타일탭_push.svg");
+    background-size: cover;
+  }
+}

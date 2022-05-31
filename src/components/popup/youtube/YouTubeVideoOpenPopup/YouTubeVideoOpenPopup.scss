@@ -1,0 +1,141 @@
+@import "styles/_colors.scss";
+
+.youtube-play-list-select-contents {
+  color: #4d4d4d;
+  margin: 0.3rem 0 0.3rem 0.3rem;
+
+  .content-title {
+    display: block;
+    color: #7d1ed8;
+    font-size: 1rem;
+    font-weight: bold;
+    width: fit-content;
+    padding-right: 0.8rem;
+    white-space: nowrap;
+  }
+
+  .select-box {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 1.5rem 1rem 1.5rem;
+    padding-bottom: 0.5rem;
+
+    .selectable-elements {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      margin-top: 0.5rem;
+      margin-left: 1.5rem;
+
+      .select-element {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.5rem;
+
+        input {
+          margin: 1px;
+          margin-right: 15px;
+        }
+
+        select {
+          margin-top: 0.2rem;
+          padding-bottom: 3px;
+        }
+      }
+    }
+  }
+
+  .prediction-box {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 1.5rem;
+
+    .prediction-element {
+      display: flex;
+      justify-content: flex-end;
+      width: 100%;
+
+      .prediction-value {
+        color: $color-summer-sky;
+        font-weight: bold;
+        margin-right: 1rem;
+        margin-left: 1rem;
+      }
+
+      .prediction-value-unit {
+        color: $color-violet;
+        font-weight: bold;
+      }
+
+      .file-name {
+        display: block;
+        text-align: center;
+        line-height: 150%;
+        font-size: 0.75rem;
+        width: 7rem;
+        padding-top: 2px;
+        margin-right: 0.5rem;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        border: solid 1px $color-gray80;
+        background-color: white;
+
+        .srt-error {
+          text-align: center;
+          color: red;
+          font-size: 0.75rem;
+        }
+      }
+
+      .attach-file-button {
+        font-size: 0.85rem;
+        font-weight: bold;
+        text-align: center;
+        width: 4.5rem;
+        padding-top: 1px;
+        border: solid 1px $color-gray80;
+        border-radius: 5px;
+        background-color: white;
+        cursor: pointer;
+
+        &:active {
+          color: white;
+          background-color: $color-violet;
+          border-color: $color-violet;
+        }
+      }
+    }
+  }
+  
+  .middle-line {
+    border-bottom: #f2f2f2 solid 1px;
+  }
+
+  .notice {
+    width: 200px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0.5rem;
+
+    .notice-link {
+      color: $color-summer-sky;
+      text-decoration: underline;
+      cursor: pointer;
+    }
+  }
+  .notice-captionNullError {
+    width: 200px;
+    font-size: 0.9rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 0.5rem;
+    color: red;
+  }
+}
+
+.playlist-popup-player {
+  display: none;
+}

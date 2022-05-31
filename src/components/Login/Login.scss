@@ -1,0 +1,199 @@
+@import "styles/position.scss";
+@import "styles/_dimens.scss";
+@import "styles/_colors.scss";
+
+.login-page {
+  position: relative;
+  height: calc(100% - 35px);
+
+}
+
+.login-page-logo {
+  width: 100%;
+  text-align: center;
+  height: 12.5rem;
+  padding-top: 10rem;
+
+  img {
+    height: inherit;
+  }
+}
+
+.languageSwitch {
+  width: 4rem;
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+}
+
+.login {
+  .login-content {
+    width: 100%;
+    max-width: 25rem;
+
+    .error-message {
+      height: 1rem;
+      color: red;
+      font-size: 1rem;
+      font-weight: 500;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.5rem 1rem;
+      text-align: center;
+    }
+
+    .capslock-error-message {
+      color: red;
+      font-size: 0.8rem;
+      margin-top: 0.1rem;
+    }
+
+    .form-group {
+      .form-control {
+        display: block;
+        width: 100%;
+        padding: 0.6rem 0.9rem;
+        box-sizing: border-box;
+        font-size: 1.1rem;
+        line-height: 1.5;
+        color: #495057;
+        background-color: white;
+        background-clip: padding-box;
+        border: 1.5px solid #d2d2d2;
+        transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+        &:focus {
+          outline: none;
+        }
+      }
+
+      .form-control + .form-control {
+        margin-top: 0.5rem;
+      }
+
+      .password {
+        display: flex;
+        margin-top: 0.1rem;
+
+        .password-form {
+          border-top: none;
+          font-size: 1.1rem;
+          width: 100%;
+          border: none;
+          &:not(:placeholder-shown) {
+            border-color: #c9c9c9;
+          }
+
+          &:focus {
+            outline: none;
+          }
+        }
+        .password-eye-icon {
+          align-self: center;
+          cursor: pointer;
+        }
+      }
+    }
+
+    .account-group {
+      display: flex;
+      justify-content: space-between;
+      margin: 0.7rem 0;
+
+      .signed-in-control {
+        $checkbox-size: 15px;
+        $checkbox-position-top: 3px;
+        $checkmark-width: 1.5px;
+        $checkmark-position-top: 2px;
+        $checkmark-position-left: 5px;
+
+        position: relative;
+        padding-left: calc(#{$checkbox-size} + 5px);
+
+        &:hover {
+          input {
+            ~ .checkmark {
+              border-color: $color-violet;
+            }
+          }
+        }
+
+        input {
+          position: absolute;
+          opacity: 0;
+          cursor: pointer;
+          height: 0;
+          width: 0;
+
+          &:checked {
+            ~ .checkmark {
+              background-color: #3b3b3b;
+
+              &:after {
+                display: block;
+              }
+            }
+          }
+        }
+
+        .checkmark {
+          position: absolute;
+          top: $checkbox-position-top;
+          left: 0;
+          height: $checkbox-size;
+          width: $checkbox-size;
+          border: solid 1px #3b3b3b;
+
+          &:after {
+            content: "";
+            position: absolute;
+            display: none;
+            left: $checkmark-position-left;
+            top: $checkmark-position-top;
+            width: calc(#{$checkbox-size} / 4);
+            height: calc(#{$checkbox-size} / 2);
+            border: solid white;
+            border-width: 0 $checkmark-width $checkmark-width 0;
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+          }
+        }
+      }
+    }
+
+    .btn-group {
+      .btn {
+        font-size: 1.1rem;
+        margin-bottom: 0.2rem;
+        box-sizing: border-box;
+        border-radius: 0%;
+        padding: 1rem;
+
+        &:active {
+          opacity: 0.8;
+        }
+      }
+
+      .btn + .btn {
+        margin-top: 0.5rem;
+      }
+    }
+
+    label {
+      font-size: 1rem;
+      font-weight: 400;
+      cursor: pointer;
+      color: #3b3b3b;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+
+      &:hover {
+        color: $color-violet;
+      }
+    }
+  }
+}

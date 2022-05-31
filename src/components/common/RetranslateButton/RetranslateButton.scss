@@ -1,0 +1,24 @@
+.downcap-reTranslateButton-container {
+  border: 1px solid rgb(196, 196, 196);  
+  border-radius: 0.4rem;  
+  display: flex;
+  align-items: center;
+  padding: 0.25rem 0.75rem;
+
+  .downcap-reTranslateButton-button {
+    display: flex;
+    cursor: pointer;
+    line-height: 1.5;
+
+    .ReTranslate-icon {
+      width: 1.3rem;
+      margin-right: 3px;
+    }
+
+    div {
+      align-items: center;
+      font-size: 0.8rem;
+      font-weight: 500;
+    }
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": true
+  },
+  "multiline": {},
+  "originCaption": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.997,
+                "text": "저는",
+                "start": 0.72,
+                "end": 1.02,
+                "id": 0
+              },
+              {
+                "confidence": 1,
+                "text": "개인적으로",
+                "start": 1.02,
+                "end": 1.59,
+                "id": 1
+              },
+              {
+                "confidence": 0.534,
+                "text": "아",
+                "start": 2.25,
+                "end": 2.91,
+                "id": 2
+              },
+              {
+                "confidence": 0.584,
+                "text": "이",
+                "start": 3.097,
+                "end": 3.41,
+                "id": 3
+              },
+              {
+                "confidence": 0.922,
+                "text": "절",
+                "start": 3.422,
+                "end": 3.9,
+                "id": 4
+              },
+              {
+                "confidence": 0.899,
+                "text": "후렴",
+                "start": 4.53,
+                "end": 4.95,
+                "id": 5
+              },
+              {
+                "confidence": 1,
+                "text": "마지막",
+                "start": 4.95,
+                "end": 5.4,
+                "id": 6
+              },
+              {
+                "confidence": 0.985,
+                "text": "부분을",
+                "start": 5.4,
+                "end": 6.69,
+                "id": 7
+              },
+              {
+                "confidence": 0.977,
+                "text": "좋아하구요",
+                "start": 7.32,
+                "end": 8.04,
+                "id": 8
+              }
+            ],
+            "id": 0
+          }
+        ],
+        "id": 9
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.926,
+                "text": "그리고",
+                "start": 9.63,
+                "end": 10.14,
+                "id": 10
+              }
+            ],
+            "id": 1
+          }
+        ],
+        "id": 11
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "confidence": 0.989,
+                "text": "코러스와",
+                "start": 11.64,
+                "end": 12.18,
+                "id": 12
+              },
+              {
+                "confidence": 0.997,
+                "text": "함께",
+                "start": 12.18,
+                "end": 12.45,
+                "id": 13
+              },
+              {
+                "confidence": 0.997,
+                "text": "나오는",
+                "start": 12.45,
+                "end": 12.96,
+                "id": 14
+              },
+              {
+                "confidence": 0.648,
+                "text": "아",
+                "start": 13.314,
+                "end": 13.909,
+                "id": 15
+              }
+            ],
+            "id": 2
+          }
+        ],
+        "id": 16
+      }
+    ]
+  },
+  "popup": {},
+  "project": {
+    "selectedEditType": "translated",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 169,
+        "g": 175,
+        "b": 2,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 16,
+        "g": 78,
+        "b": 4,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    },
+    "projectName": "아이유 인터뷰",
+    "videoPath": "file://D:\\downcap\\downcap test\\Test data\\movie\\아이유 인터뷰.mp4",
+    "videoMeta": {
+      "width": 1280,
+      "height": 720
+    },
+    "totalTranslateTaskLength": 3,
+    "nowTranslateTaskLength": 3
+  },
+  "projectCotrol": {
+    "selectedStyleEditType": "line",
+    "focusParagraphMetas": [
+      {
+        "path": {
+          "captionIndex": 0,
+          "paragraphIndex": 0,
+          "lineIndex": 0
+        },
+        "source": "overlay",
+        "type": "translatedCaption"
+      }
+    ]
+  },
+  "translatedCaption": {
+    "captions": [
+      {
+        "id": 0,
+        "origin": "저는 개인적으로 아 이 절 후렴 마지막 부분을 좋아하구요",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 0.72,
+                    "end": 0.96,
+                    "text": "I",
+                    "id": 12
+                  },
+                  {
+                    "start": 0.96,
+                    "end": 2.28,
+                    "text": "personally",
+                    "id": 13
+                  },
+                  {
+                    "start": 2.28,
+                    "end": 2.88,
+                    "text": "like",
+                    "id": 14
+                  },
+                  {
+                    "start": 2.88,
+                    "end": 3.36,
+                    "text": "the",
+                    "id": 15
+                  },
+                  {
+                    "start": 3.36,
+                    "end": 3.96,
+                    "text": "last",
+                    "id": 16
+                  },
+                  {
+                    "start": 3.96,
+                    "end": 4.56,
+                    "text": "part",
+                    "id": 17
+                  },
+                  {
+                    "start": 4.56,
+                    "end": 4.92,
+                    "text": "of",
+                    "id": 18
+                  },
+                  {
+                    "start": 4.92,
+                    "end": 5.4,
+                    "text": "the",
+                    "id": 19
+                  },
+                  {
+                    "start": 5.4,
+                    "end": 6.24,
+                    "text": "chorus",
+                    "id": 20
+                  },
+                  {
+                    "start": 6.24,
+                    "end": 6.6,
+                    "text": "of",
+                    "id": 21
+                  },
+                  {
+                    "start": 6.6,
+                    "end": 7.2,
+                    "text": "this",
+                    "id": 22
+                  }
+                ],
+                "id": 2
+              }
+            ],
+            "id": 235,
+            "horizontal": 0.5,
+            "vertical": 0.05
+          },
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 7.2,
+                    "end": 8.04,
+                    "text": "verse.",
+                    "id": 23
+                  }
+                ],
+                "id": 3
+              }
+            ],
+            "id": 236
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "저는 개인적으로 이 구절의 후렴구의 마지막 부분을 좋아합니다."
+      },
+      {
+        "id": 1,
+        "origin": "그리고",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 9.63,
+                    "end": 10.14,
+                    "text": "and",
+                    "id": 25
+                  }
+                ],
+                "id": 5
+              }
+            ],
+            "id": 238
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "그리고"
+      },
+      {
+        "id": 2,
+        "origin": "코러스와 함께 나오는 아",
+        "paragraphs": [
+          {
+            "lines": [
+              {
+                "words": [
+                  {
+                    "start": 11.64,
+                    "end": 12.04,
+                    "text": "Ah",
+                    "id": 30
+                  },
+                  {
+                    "start": 12.04,
+                    "end": 12.708,
+                    "text": "with",
+                    "id": 31
+                  },
+                  {
+                    "start": 12.708,
+                    "end": 12.975,
+                    "text": "a",
+                    "id": 32
+                  },
+                  {
+                    "start": 12.975,
+                    "end": 13.909,
+                    "text": "chorus",
+                    "id": 33
+                  }
+                ],
+                "id": 7
+              }
+            ],
+            "id": 240
+          }
+        ],
+        "meta": {
+          "reversTranslateStatus": "Successed",
+          "translatStatus": "Successed"
+        },
+        "revers": "아 후렴과 함께"
+      }
+    ]
+  },
+  "translatedMultiline": {
+    "checkpoint": 232
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

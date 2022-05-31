@@ -1,0 +1,16 @@
+@import "_dimens.scss";
+
+.page {
+  height: $page-height;
+  box-sizing: border-box;
+}
+
+.page-content {
+  height: $page-content-height;
+  box-sizing: border-box;
+}
+
+.editor-template-cotent {
+  height: $page-content-height;
+  box-sizing: border-box;
+}

@@ -1,0 +1,17 @@
+$client-width: 100vw;
+$client-height: 100vh;
+
+$titlebar-height: 35px;
+$titlebar-control-button-width: 43px;
+$ribbon-heigth: 50px;
+
+$page-height: calc(#{$client-height} - #{$titlebar-height});
+$page-content-height: calc(#{$page-height} - #{$ribbon-heigth});
+
+$select-language-toggle-button-height: 38.4px;
+$right-template-margin: 2rem;
+$right-template-context-margin: 0.5rem;
+$subtitles-list-height: calc(
+  #{$page-height} - #{$select-language-toggle-button-height} - #{$right-template-margin} - 65px
+);
+$subtitles-list-context-height: calc(#{$subtitles-list-height} - #{$right-template-context-margin});

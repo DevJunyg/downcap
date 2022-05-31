@@ -1,0 +1,33 @@
+.playlist-item {
+  width: inherit;
+  height: auto;
+  cursor: pointer;
+  display: grid;
+  grid-template-columns: 185px calc(100% - 200px);
+  margin-top: 0.5rem;
+
+  .item-info {
+    display: grid;
+    grid-template-rows: 2rem 1.5rem 1.5rem;
+
+    .item-title {
+      font-size: 1.4rem;
+      font-weight: 700;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .item-channel {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .item-upload-date {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+  }
+}

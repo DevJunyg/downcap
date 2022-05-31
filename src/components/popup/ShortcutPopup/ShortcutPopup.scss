@@ -1,0 +1,19 @@
+@import "styles/_colors.scss";
+
+table {
+  width: 300px;
+  border-collapse: collapse;
+  margin: 1rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.8rem;
+}
+
+td {
+  border: 1px solid $color-gray80;
+  text-align: left;
+  padding: 0.4rem;
+}
+
+tr:nth-child(even) {
+  background-color: $color-whisper;
+}

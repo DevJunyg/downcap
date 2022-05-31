@@ -1,0 +1,185 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {
+    "captions": [
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 0,
+                "text": "새로 생성한 줄입니다",
+                "id": 0
+              }
+            ],
+            "id": 0
+          }
+        ],
+        "id": 0
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 10,
+                "start": 0,
+                "text": "새로 생성한 줄입니다",
+                "id": 1
+              }
+            ],
+            "id": 1
+          }
+        ],
+        "id": 1
+      },
+      {
+        "lines": [
+          {
+            "words": [
+              {
+                "end": 30,
+                "start": 10,
+                "text": "새로 생성한 줄입니다",
+                "id": 2
+              }
+            ],
+            "id": 2
+          }
+        ],
+        "id": 2
+      }
+    ]
+  },
+  "originCaption": {},
+  "popup": {},
+  "project": {
+    "selectedEditType": "translated",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 248,
+        "g": 60,
+        "b": 99,
+        "a": 1
+      },
+      "color": {
+        "r": 248,
+        "g": 231,
+        "b": 28,
+        "a": 1
+      },
+      "outline": 0,
+      "outlineColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    }
+  },
+  "projectCotrol": {
+    "selectedStyleEditType": "line",
+    "focusParagraphMetas": [
+      {
+        "path": {
+          "lineIndex": 0,
+          "paragraphIndex": 1
+        },
+        "source": "list",
+        "type": "translatedMultiline"
+      }
+    ]
+  },
+  "translatedCaption": {},
+  "translatedMultiline": {
+    "captions": [
+      {
+        "id": 0,
+        "lines": [
+          {
+            "id": 0,
+            "words": [
+              {
+                "start": 0,
+                "id": 0,
+                "end": 30,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 0,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      },
+      {
+        "id": 1,
+        "lines": [
+          {
+            "id": 1,
+            "words": [
+              {
+                "start": 0,
+                "id": 1,
+                "end": 10,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 1,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      },
+      {
+        "id": 2,
+        "lines": [
+          {
+            "id": 2,
+            "words": [
+              {
+                "start": 10,
+                "id": 2,
+                "end": 30,
+                "text": "This is a newly created line"
+              }
+            ]
+          }
+        ],
+        "meta": {
+          "sourceId": 2,
+          "sourceText": "새로 생성한 줄입니다",
+          "status": "Successed",
+          "translatedText": "This is a newly created line"
+        }
+      }
+    ],
+    "checkpoint": 3
+  },
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

@@ -1,0 +1,339 @@
+{
+  "appSetting": {
+      "realTimeTranslationFlag": true
+  },
+  "multiline": {},
+  "originCaption": {
+      "captions": [
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "confidence": 0.991,
+                              "text": "내가",
+                              "start": 0.27,
+                              "end": 0.512,
+                              "id": 0
+                          },
+                          {
+                              "confidence": 0.162,
+                              "text": "안녕하세요",
+                              "start": 0.512,
+                              "end": 1.44,
+                              "id": 1
+                          }
+                      ],
+                      "id": 0,
+                      "style": {
+                          "font": 5
+                      }
+                  }
+              ],
+              "id": 2
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "confidence": 0.419,
+                              "text": "힘내세요",
+                              "start": 1.8,
+                              "end": 2.43,
+                              "id": 3
+                          },
+                          {
+                              "confidence": 0.255,
+                              "text": "따르게",
+                              "start": 2.58,
+                              "end": 2.906,
+                              "id": 4
+                          },
+                          {
+                              "confidence": 0.463,
+                              "text": "아니고",
+                              "start": 2.906,
+                              "end": 3.091,
+                              "id": 5
+                          },
+                          {
+                              "confidence": 0.389,
+                              "text": "저희가",
+                              "start": 3.095,
+                              "end": 3.399,
+                              "id": 6
+                          },
+                          {
+                              "confidence": 0.28,
+                              "text": "그",
+                              "start": 3.42,
+                              "end": 3.75,
+                              "id": 7
+                          },
+                          {
+                              "confidence": 0.999,
+                              "text": "무한도전",
+                              "start": 3.753,
+                              "end": 4.32,
+                              "id": 8
+                          },
+                          {
+                              "confidence": 0.964,
+                              "text": "혹시",
+                              "start": 4.32,
+                              "end": 4.68,
+                              "id": 9
+                          },
+                          {
+                              "confidence": 1,
+                              "text": "보신",
+                              "start": 4.68,
+                              "end": 4.95,
+                              "id": 10
+                          }
+                      ],
+                      "id": 1
+                  }
+              ],
+              "id": 11
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "confidence": 1,
+                              "text": "적",
+                              "start": 4.95,
+                              "end": 5.04,
+                              "id": 12
+                          },
+                          {
+                              "confidence": 0.978,
+                              "text": "있으십니까",
+                              "start": 5.04,
+                              "end": 5.58,
+                              "id": 13
+                          }
+                      ],
+                      "id": 2
+                  }
+              ],
+              "id": 14
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "confidence": 0.995,
+                              "text": "잘",
+                              "start": 6.041,
+                              "end": 6.24,
+                              "id": 15
+                          },
+                          {
+                              "confidence": 0.993,
+                              "text": "몰라요",
+                              "start": 6.24,
+                              "end": 6.69,
+                              "id": 16
+                          }
+                      ],
+                      "id": 3
+                  }
+              ],
+              "id": 17
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "confidence": 0.674,
+                              "text": "세글자를",
+                              "start": 7.17,
+                              "end": 7.89,
+                              "id": 18
+                          },
+                          {
+                              "confidence": 0.544,
+                              "text": "조금",
+                              "start": 7.89,
+                              "end": 8.25,
+                              "id": 19
+                          },
+                          {
+                              "confidence": 0.841,
+                              "text": "안",
+                              "start": 8.251,
+                              "end": 8.4,
+                              "id": 20
+                          },
+                          {
+                              "confidence": 0.756,
+                              "text": "입어",
+                              "start": 8.4,
+                              "end": 8.58,
+                              "id": 21
+                          },
+                          {
+                              "confidence": 0.72,
+                              "text": "죠아",
+                              "start": 8.585,
+                              "end": 9.406,
+                              "id": 22
+                          },
+                          {
+                              "confidence": 0.808,
+                              "text": "아",
+                              "start": 9.473,
+                              "end": 9.772,
+                              "id": 23
+                          },
+                          {
+                              "confidence": 0.721,
+                              "text": "예",
+                              "start": 9.87,
+                              "end": 10.135,
+                              "id": 24
+                          },
+                          {
+                              "confidence": 0.715,
+                              "text": "3",
+                              "start": 10.141,
+                              "end": 10.47,
+                              "id": 25
+                          },
+                          {
+                              "confidence": 0.915,
+                              "text": "보셨습니까",
+                              "start": 10.551,
+                              "end": 11.1,
+                              "id": 26
+                          }
+                      ],
+                      "id": 4
+                  }
+              ],
+              "id": 27
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "confidence": 0.737,
+                              "text": "CIA",
+                              "start": 11.1,
+                              "end": 11.579,
+                              "id": 28
+                          },
+                          {
+                              "confidence": 0.211,
+                              "text": "호주",
+                              "start": 11.67,
+                              "end": 11.987,
+                              "id": 29
+                          },
+                          {
+                              "confidence": 0.861,
+                              "text": "액션이",
+                              "start": 12.045,
+                              "end": 12.361,
+                              "id": 30
+                          },
+                          {
+                              "confidence": 0.834,
+                              "text": "어딨는지",
+                              "start": 12.361,
+                              "end": 12.75,
+                              "id": 31
+                          },
+                          {
+                              "confidence": 0.441,
+                              "text": "않으려",
+                              "start": 12.75,
+                              "end": 13.05,
+                              "id": 32
+                          },
+                          {
+                              "confidence": 0.557,
+                              "text": "무한",
+                              "start": 13.051,
+                              "end": 13.95,
+                              "id": 33
+                          }
+                      ],
+                      "id": 5
+                  }
+              ],
+              "id": 34
+          }
+      ]
+  },
+  "popup": {},
+  "project": {
+      "selectedEditType": "origin",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+          "origin": 20,
+          "translated": 40
+      },
+      "sequence": [
+          "origin",
+          "translated"
+      ],
+      "projectDefaultStyle": {
+          "background": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+          },
+          "color": {
+              "r": 156,
+              "g": 190,
+              "b": 255,
+              "a": 1
+          },
+          "outline": 1,
+          "outlineColor": {
+              "r": 19,
+              "g": 0,
+              "b": 223,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": true,
+          "font": 4,
+          "fontSize": 100
+      },
+      "videoPath": "file://C:\\Users\\hogeu\\Desktop\\테스트 짧은 영상\\윤곽선.mp4",
+      "projectName": "윤곽선",
+      "videoMeta": {
+          "width": 640,
+          "height": 360
+      }
+  },
+  "projectCotrol": {
+      "selectedStyleEditType": "line",
+      "focusParagraphMetas": [
+          {
+              "path": {
+                  "lineIndex": 0,
+                  "paragraphIndex": 0
+              },
+              "source": "list",
+              "type": "originCaption"
+          }
+      ]
+  },
+  "translatedCaption": {},
+  "translatedMultiline": {},
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

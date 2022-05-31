@@ -1,0 +1,13 @@
+.layoutBound{
+  display: flex;
+  justify-content: center;
+  box-shadow: 0px -5px 6px 1px #CCC;
+  
+  .subtitle-tab {
+    background: url("https://downcap.net/client/svg/자막탭_push_v2.svg");
+    background-size: cover;
+    width: 7px;
+    height: 20px;
+    transform: rotate(90deg);
+  }
+}

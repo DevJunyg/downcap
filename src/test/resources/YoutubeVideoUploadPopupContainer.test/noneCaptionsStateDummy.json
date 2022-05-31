@@ -1,0 +1,57 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": true
+  },
+  "multiline": {},
+  "originCaption": {},
+  "popup": {
+    "name": "YoutubeVideoUploadPopup",
+    "payload": {
+      "filePath": "D:\\downcap\\downcap test\\Test data\\movie\\아이유 인터뷰.mp4"
+    }
+  },
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 255,
+        "g": 255,
+        "b": 255,
+        "a": 0
+      },
+      "color": {
+        "r": 163,
+        "g": 255,
+        "b": 166,
+        "a": 1
+      },
+      "outline": 3,
+      "outlineColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 1
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    }
+  },
+  "projectCotrol": {},
+  "translatedCaption": {},
+  "translatedMultiline": {},
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

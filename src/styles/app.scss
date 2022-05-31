@@ -1,0 +1,270 @@
+@import "styles/_colors.scss";
+
+.subtitles {
+  margin-right: 0.5rem;
+  padding: 1rem 0.5rem;
+  outline: 0;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  position: sticky;
+
+  .time-table {
+    width: 4rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: $subtitle-time-table-standby-color;
+    text-align: right;
+    margin-right: 1rem;
+
+    input[type="text"] {
+      width: inherit;
+      height: auto;
+      padding: 0 0.15em;
+      margin: 1px 0;
+      border: 1px solid $color-gray80;
+      border-radius: 3px;
+      text-align: inherit;
+
+      &:focus {
+        border-color: $color-violet;
+      }
+    }
+  }
+
+  .words-box {
+    border-bottom: solid $subtitle-words-box-standby-color;
+    padding: 0.5rem 0;
+    width: 100vw;
+  }
+
+  .exit {
+    top: 0.25rem;
+    right: 0.5rem;
+    position: absolute;
+    color: $color-gray80;
+    cursor: pointer;
+
+    :hover {
+      color: $color-summer-sky;
+    }
+  }
+}
+
+.highlight-subtitle {
+  background-color: $subtitle-highlight-bg-color;
+
+  .time-table {
+    color: $subtitle-time-table-highlight-color;
+  }
+
+  .words-box {
+    border-color: $subtitle-words-box-highlight-color;
+  }
+
+  .exit {
+    color: darken($color: $color-gray80, $amount: 15%);
+  }
+}
+
+.input-label {
+  text-align: center;
+  display: inline-block;
+  min-width: 0.5rem;
+  min-height: 1rem;
+  pointer-events: initial;
+  text-decoration: inherit;
+  cursor: default;
+  letter-spacing: 0;
+
+  .confidence-low {
+    color: red;
+  }
+  .confidence-middle {
+    color: orange;
+  }
+
+  input[type="text"] {
+    min-height: inherit;
+    min-width: inherit;
+    min-width: 0.5rem;
+    text-align: inherit;
+    font-size: 1rem;
+    outline: 0;
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    text-shadow: inherit;
+
+    &:focus {
+      background-color: #00000020;
+    }
+  }
+
+  label {
+    padding: 0;
+    margin: 0;
+    display: inline;
+    width: inherit;
+    min-height: inherit;
+    min-width: inherit;
+    font-size: inherit;
+    text-shadow: inherit;
+    text-decoration: inherit;
+    word-wrap: normal;
+    word-break: break-all;
+    cursor: pointer;
+  }
+}
+
+.affter-space {
+  &::after {
+    content: " ";
+    white-space: pre;
+    font-size: inherit;
+    text-decoration: none;
+  }
+
+  &:last-child:after {
+    content: "";
+    white-space: pre-wrap;
+  }
+}
+
+.underline {
+  border-bottom: 1px solid;
+  border-bottom-color: inherit;
+}
+
+.highlight {
+  background-color: #87ceeb90;
+}
+
+.caption-ovleray {
+  box-sizing: border-box;
+  transform: translate(-50%, 0);
+  padding: 3px 0.15em 1px 0.15em;
+  margin-top: auto;
+  outline: 0;
+  width: fit-content;
+  overflow-x: hidden;
+  position: absolute;
+  z-index: 3000;
+  line-height: normal;
+  white-space: pre-wrap;
+
+  &:hover {
+    &:not(.disabled) {
+      border-style: dashed;
+      border-width: 2px;
+      border-color: #e9e3e3;
+      transform: translate(-50%, 2px);
+    }
+  }
+}
+
+.left-content {
+  background-color: #e6e6e6;
+  padding: 1rem;
+}
+
+.fade-out {
+  animation: fade-out 3s;
+  animation-fill-mode: forwards;
+
+  @keyframes fade-out {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+    }
+  }
+}
+
+.violet-scroll {
+  overflow-y: auto;
+
+  &::-webkit-scrollbar {
+    width: 0.5rem;
+  }
+  &::-webkit-scrollbar-thumb {
+    background-color: $color-violet;
+    border-radius: 15px;
+  }
+  &::-webkit-scrollbar-track {
+    border-radius: 50%;
+  }
+}
+
+.subtitles-control-buttons {
+  display: flex;
+  justify-content: center;
+  margin: 0.2rem 0;
+
+  .icon-button {
+    min-width: 20px;
+    min-height: 20px;
+    margin: 1px 0.5rem;
+    cursor: pointer;
+  }
+
+  .add-caption-button {
+    background-image: url("https://downcap.net/client/svg/icon/new_caption.svg");
+    background-repeat: no-repeat;
+    background-size: 1rem;
+
+    &:hover {
+      background-image: url("https://downcap.net/client/svg/icon/new_caption_hover.svg");
+    }
+  }
+
+  .combine-button {
+    background-image: url("https://downcap.net/client/svg/자석.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    &:hover {
+      background-image: url("https://downcap.net/client/svg/자석_push.svg");
+    }
+  }
+}
+
+.subtitles-control-buttons + .subtitles {
+  margin-top: 0.5rem;
+}
+
+.subtitles + .subtitles-control-buttons {
+  margin-bottom: 0.5rem;
+}
+
+.redo-undo {
+  --icon-width: 1rem;
+  --icon-height: 1rem;
+  --icon-hover-background-color: #ebebeb;
+  --icon-disabled-color: #959595;
+
+  margin-left: 1rem;
+
+  .icon {
+    padding: 5px 14px;
+    width: var(--icon-width);
+    height: var(--icon-height);
+
+    &:not([disabled]) {
+      cursor: pointer;
+      &:hover {
+        background-color: var(--icon-hover-background-color);
+      }
+    }
+  }
+
+  .icon[disabled] {
+    color: var(--icon-disabled-color);
+    cursor: initial;
+  }
+}

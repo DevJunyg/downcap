@@ -1,0 +1,140 @@
+@import "styles/_dimens.scss";
+@import "styles/_colors.scss";
+
+.ribbon {
+  background: $ribbon-bg-color;
+  box-shadow: 0 5px 5px #aaa;
+  user-select: none;
+  height: $ribbon-heigth;
+  min-width: max-content;
+  position: relative;
+  box-sizing: border-box;
+
+  li {
+    display: inline-block;
+  }
+
+  .ri {
+    margin: 0 auto;
+    display: flex;
+  }
+
+  label {
+    margin: 0 1.5rem;
+    cursor: inherit;
+    align-items: center;
+    display: flex;
+  }
+
+  .content {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    min-width: max-content;
+    height: inherit;
+    color: $ribbon-color;
+
+    .group {
+      background-color: initial;
+      min-width: max-content;
+      display: flex;
+
+      div {
+        cursor: pointer;
+        display: flex;
+
+        label {
+          display: block;
+        }
+      }
+
+      .item-title {
+        font-weight: 700;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+      }
+
+      .major-classification {
+        height: 30px;
+        width: 2px;
+      }
+
+      .disabled {
+        label {
+          color: darken($color: $ribbon-bg-color, $amount: 20);
+        }
+
+        div {
+          cursor: initial;
+        }
+
+        cursor: initial;
+      }
+
+      .item {
+        background-color: transparent;
+        text-align: center;
+        align-items: center;
+        -webkit-user-select: none;
+        font-weight: 300;
+
+        label {
+          margin: 0 0.5rem;
+          text-align: center;
+          font-size: 0.9rem;
+          min-width: 2.5rem;
+          padding: 0 5px;
+          display: block;
+        }
+
+        img {
+          height: 20px;
+        }
+      }
+    }
+
+    .content-option {
+      margin-left: auto;
+    }
+  }
+
+  .split-length {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: #5f00aa solid 1.5px;
+    border-radius: 10px;
+    padding: 0.1rem;
+
+    input::-webkit-outer-spin-button,
+    input::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+
+    label {
+      margin: 0;
+      margin-left: 0.5rem;
+    }
+
+    input {
+      color: #ffffff;
+      border: none;
+      background-color: transparent;
+      text-align: end;
+      width: 1.5rem;
+    }
+
+    .split-length-buttons-box {
+      display: flex;
+      flex-direction: column;
+      width: 1rem;
+      margin-left: 0.7rem;
+
+      .split-length-button {
+        font-size: 0.7rem;
+      }
+    }
+  }
+}

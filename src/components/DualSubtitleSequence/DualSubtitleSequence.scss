@@ -1,0 +1,27 @@
+.dual-subtitle-sequence {
+  display: flex;
+
+  .dual-subtitle-item {
+    display: flex;
+    align-items: center;
+
+    .dual-subtitle-item-label {
+      padding: 1px 2px;
+      margin-right: 0.3rem;
+      font-size: 13px;
+      font-weight: 300;
+    }
+
+    .dual-subtitle-item-text {
+      width: 100%;
+      padding: 3px 3.2rem;
+      text-align: center;
+      border: 1px solid black;
+      border-radius: 5px;
+    }
+  }
+
+  .dual-subtitle-button-icon {
+    padding: 0 0.5rem;
+  }
+}

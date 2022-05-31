@@ -1,0 +1,111 @@
+@import "styles/_colors.scss";
+
+$border-color: #29abe2;
+$revers-text-color: white;
+
+.en-subtitles {
+  margin-top: 0.25rem;
+  margin-bottom: 0.5rem;
+
+  .ko-revers-box {
+    margin-bottom: 0.25rem;
+    margin-right: 0.5rem;
+    text-align: center;
+    border: solid $border-color;
+    border-radius: 10px;
+    outline: "none";
+
+    .ko-origin {
+      display: flex;
+      padding: 0.75rem 3%;
+      padding-right: 10%;
+      text-align: justify;
+      position: relative;
+      min-height: 1.5rem;
+      
+      .merge-icon {
+        top: 0.3rem;
+        left: 0.5rem;
+        position: absolute;
+        color: $color-gray80;
+        cursor: pointer;
+        display: flex;
+
+        :hover {
+          color: $color-summer-sky;
+        }
+      }
+
+      textarea {
+        border: 0;
+        background-color: transparent;
+        font-size: initial;
+        font-weight: 500;
+        width: 100%;
+      }
+    }
+
+    .en-revers {
+      user-select: auto;
+      -webkit-user-select: none;
+      background-color: $border-color;
+      border-radius: 0 0 6px 6px;
+      color: white;
+      font-weight: 500;
+      padding: 0.6rem 3%;
+      padding-right: 10%;
+      text-align: justify;
+      position: sticky;
+      min-height: 1.25rem;
+    }
+  }
+
+  .exit {
+    display: flex;
+    margin: 0 0.5rem 0.3rem auto;
+    top: 0.25rem;
+    right: 0.5rem;
+    color: $color-gray80;
+    :hover {
+      color: $color-summer-sky;
+    }
+  }
+
+  .subtitles {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .insert-icon {
+    color: $color-gray80;
+    cursor: pointer;
+    display: flex;
+    margin: 0.5rem 0;
+    margin-left: 0.7rem;
+    width: fit-content;
+
+    :hover {
+      color: $color-summer-sky;
+    }
+  }
+}
+
+.caption-highlight {
+  .ko-revers-box {
+    border: #7d1ed8 solid;
+
+    .en-revers {
+      border-radius: 0 0 6px 6px;
+    }
+  }
+}
+
+.translate-helper-button {
+  position: absolute;
+  right: 5px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+}

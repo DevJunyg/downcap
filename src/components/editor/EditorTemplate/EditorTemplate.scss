@@ -1,0 +1,19 @@
+@import "styles/_dimens.scss";
+@import "styles/_colors.scss";
+
+.editor-template {
+  h3 {
+    margin: 0;
+    padding: 0;
+  }
+
+  .subtitles-list {
+    padding: 0.25rem 0;
+    .context {
+      margin: 0.25rem 0;
+      margin-right: 0.5rem;
+      height: $subtitles-list-context-height;
+      width: inherit;
+    }
+  }
+}

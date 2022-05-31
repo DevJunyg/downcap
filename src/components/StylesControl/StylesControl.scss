@@ -1,0 +1,58 @@
+@import "styles/_colors.scss";
+@import "styles/_dimens.scss";
+
+.styles-control {
+  h3,
+  h4 {
+    padding: 0;
+    margin: 0;
+  }
+  .preset-save {
+    text-align: right;
+  }
+
+  .styles-control-context {
+    .styles-control-context-item {
+      margin: 1rem 1rem 1rem auto;
+
+      .preset-save {
+        font-weight: 300;
+        font-size: 12px;
+      }
+
+      .format-control-label {
+        font-weight: 300;
+        font-size: 13px;
+        margin-bottom: 0.25rem;
+        margin-left: 0.25rem;
+      }
+
+      .format-control-content + .format-control-content {
+        margin-top: 0.75rem;
+      }
+
+      .styles-control-context-item-title {
+        margin-top: 0.3rem;
+        margin-bottom: 0.75rem;
+        font-weight: 300;
+        display: flex;
+        align-items: center;
+        background-color: initial;
+
+        h4 {
+          font-size: 14px;
+          font-weight: 500;
+        }
+
+        &::before {
+          content: "";
+          margin-right: 0.4rem;
+          height: 0.6rem;
+          width: 0.6rem;
+          border: 1.75px solid $color-violet;
+          border-radius: 100%;
+        }
+      }
+    }
+  }
+}

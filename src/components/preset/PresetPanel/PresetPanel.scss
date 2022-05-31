@@ -1,0 +1,66 @@
+@import "styles/_colors.scss";
+
+.preset-cotent {
+  display: flex;
+  justify-content: space-between;
+
+  .preset-content-column {
+    width: 48%;
+    min-width: 12rem;
+    .preset-content-context {
+      display: flex;
+      justify-content: space-between;
+      .preset-save {
+        border: 1px solid rgba(0, 0, 0, 0.12);
+        border-radius: 5px;
+        padding: 5px;
+        max-height: 15px;
+        img {
+          width: 20px;
+        }
+        span {
+          margin-left: 2px;
+          font-weight: bold;
+          font-size: 13px;
+        }
+        &:hover {
+          background-color: $color-violet;
+        }
+      }
+    }
+
+    .styles-control-context-items {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      row-gap: 15px;
+      column-gap: 5px;
+    }
+  }
+
+  .preset-item {
+    width: 100%;
+    border: 1px solid $color-whisper;
+    min-height: 25px;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMUlEQVQ4T2NkYGAQYcAP3uCTZhw1gGGYhAGBZIA/nYDCgBDAm9BGDWAAJyRCgLaBCAAgXwixzAS0pgAAAABJRU5ErkJggg==");
+    cursor: pointer;
+
+    .background-color-view-port {
+      height: 100%;
+      width: 100%;
+      padding: 5px;
+      box-sizing: border-box;
+    }
+  }
+
+  .preset-delete {
+    position: absolute;
+    top: 5px;
+    right: 3px;
+    height: 100%;
+
+    svg path {
+      stroke: white;
+      stroke-width: 50px;
+    }
+  }
+}

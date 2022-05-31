@@ -1,0 +1,52 @@
+{
+  "appSetting": {
+    "realTimeTranslationFlag": false
+  },
+  "multiline": {},
+  "originCaption": {},
+  "popup": {},
+  "project": {
+    "selectedEditType": "origin",
+    "selectedPreviewType": "web",
+    "wordSplits": {
+      "origin": 20,
+      "translated": 40
+    },
+    "sequence": [
+      "origin",
+      "translated"
+    ],
+    "projectDefaultStyle": {
+      "background": {
+        "r": 248,
+        "g": 60,
+        "b": 99,
+        "a": 1
+      },
+      "color": {
+        "r": 248,
+        "g": 231,
+        "b": 28,
+        "a": 1
+      },
+      "outline": 0,
+      "outlineColor": {
+        "r": 0,
+        "g": 0,
+        "b": 0,
+        "a": 0
+      },
+      "bold": true,
+      "underline": false,
+      "italic": false,
+      "font": 4,
+      "fontSize": 100
+    }
+  },
+  "projectCotrol": {},
+  "translatedCaption": {},
+  "translatedMultiline": {},
+  "youtubeSearch": {},
+  "dualCaption": {},
+  "dualMultiline": {}
+}

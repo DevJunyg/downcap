@@ -1,0 +1,34 @@
+@import "styles/_colors.scss";
+
+.upload-success-contents {
+  flex-direction: column;
+
+  .upload-success-message {
+    display: flex;
+    align-items: center;
+    font-size: 1.3rem;
+    padding: 2rem 0;
+    margin: 0 1rem;
+  }
+
+  img {
+    width: 5rem;
+    height: 5rem;
+    margin: 0.5rem;
+  }
+
+  .added-info-message {
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+    margin: 0 1rem;
+    border-top: solid 1px $color-gray80;
+    width: 20rem;
+  }
+
+  .caption-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

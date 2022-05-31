@@ -1,0 +1,39 @@
+@import "styles/_colors.scss";
+
+.translated-info-board{
+  display: flex;
+  margin-top: 0.25rem;
+  margin-right: 0.5rem;
+  border: 3px solid #5C1DB5;
+  border-left: 0;
+  border-radius: 10px;
+  height: 8rem;
+  position: sticky;
+  
+  .center{
+    margin: auto;
+  }
+
+  .left{
+    background-color: #5C1DB5;
+    padding: 3rem 0;
+    width: 2rem;
+    border-radius: 7px 0 0 7px;
+
+    .center {
+      justify-content: center;
+      display: flex;
+    }
+
+    div {
+      font-size: 0.6rem;
+      color: white;
+      margin-top: 0.2rem;
+    }
+    
+    .help-image-icon-en{
+      color: white;
+    }
+  }
+
+}

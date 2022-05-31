@@ -1,0 +1,3180 @@
+{
+  "appSetting": {
+      "realTimeTranslationFlag": false
+  },
+  "multiline": {
+      "captions": [
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "end": 16.834467,
+                              "start": 0.27,
+                              "text": "새로 생성한 줄입니다",
+                              "id": 0
+                          }
+                      ],
+                      "id": 0
+                  }
+              ],
+              "id": 23,
+              "horizontal": 1,
+              "vertical": 0.95
+          }
+      ],
+      "defaultStyle": {
+          "background": {
+              "r": 177,
+              "g": 157,
+              "b": 245,
+              "a": 0.86
+          },
+          "color": {
+              "r": 245,
+              "g": 223,
+              "b": 77,
+              "a": 1
+          },
+          "outline": 3,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "defaultLocation": {
+          "vertical": 0.95,
+          "horizontal": 1
+      }
+  },
+  "originCaption": {
+      "captions": [
+          {
+              "id": 1,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 1,
+                              "end": 0.51,
+                              "start": 0.27,
+                              "text": "내가",
+                              "confidence": 0.979
+                          },
+                          {
+                              "id": 2,
+                              "end": 1.44,
+                              "start": 0.51,
+                              "text": "안녕하세요",
+                              "confidence": 0.463
+                          }
+                      ],
+                      "id": 1
+                  }
+              ],
+              "horizontal": 0,
+              "vertical": 0.95
+          },
+          {
+              "id": 2,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 3,
+                              "end": 2.43,
+                              "start": 1.77,
+                              "text": "힘내세요",
+                              "confidence": 0.549,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 4,
+                              "end": 2.906,
+                              "start": 2.58,
+                              "text": "다름이",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 5,
+                              "end": 3.091,
+                              "start": 2.906,
+                              "text": "아니고",
+                              "confidence": 0.358,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 6,
+                              "end": 3.421,
+                              "start": 3.096,
+                              "text": "저희가",
+                              "confidence": 0.343,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 7,
+                              "end": 3.75,
+                              "start": 3.421,
+                              "text": "그",
+                              "confidence": 0.308,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 8,
+                              "end": 4.32,
+                              "start": 3.759,
+                              "text": "무한도전",
+                              "confidence": 0.998,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 9,
+                              "end": 4.68,
+                              "start": 4.32,
+                              "text": "혹시",
+                              "confidence": 0.954,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 2,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 3,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 10,
+                              "end": 4.95,
+                              "start": 4.68,
+                              "text": "보신",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 11,
+                              "end": 5.04,
+                              "start": 4.95,
+                              "text": "적",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 12,
+                              "end": 5.576,
+                              "start": 5.04,
+                              "text": "있으십니까",
+                              "confidence": 0.988,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 3,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 4,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 13,
+                              "end": 6.24,
+                              "start": 6.04,
+                              "text": "잘",
+                              "confidence": 0.998,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 14,
+                              "end": 6.69,
+                              "start": 6.24,
+                              "text": "몰라요",
+                              "confidence": 0.997,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 4,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 5,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 15,
+                              "end": 7.889,
+                              "start": 7.171,
+                              "text": "세글자를",
+                              "confidence": 0.354,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 16,
+                              "end": 8.25,
+                              "start": 7.89,
+                              "text": "조금",
+                              "confidence": 0.282,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 17,
+                              "end": 8.4,
+                              "start": 8.252,
+                              "text": "아",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 18,
+                              "end": 8.58,
+                              "start": 8.4,
+                              "text": "저희가",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 19,
+                              "end": 9.409,
+                              "start": 8.587,
+                              "text": "많이보죠",
+                              "confidence": 1,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 20,
+                              "end": 9.767,
+                              "start": 9.469,
+                              "text": "아",
+                              "confidence": 0.764,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 21,
+                              "end": 10.134,
+                              "start": 9.87,
+                              "text": "예",
+                              "confidence": 0.633,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 22,
+                              "end": 10.47,
+                              "start": 10.14,
+                              "text": "3",
+                              "confidence": 0.794,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 23,
+                              "end": 11.1,
+                              "start": 10.553,
+                              "text": "보셨습니까",
+                              "confidence": 0.873,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 5,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          },
+          {
+              "id": 6,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "id": 24,
+                              "end": 11.579,
+                              "start": 11.1,
+                              "text": "CIA",
+                              "confidence": 0.827,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 25,
+                              "end": 12.03,
+                              "start": 11.67,
+                              "text": "사실",
+                              "confidence": 0.131,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 26,
+                              "end": 12.36,
+                              "start": 12.051,
+                              "text": "액션이",
+                              "confidence": 0.912,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 27,
+                              "end": 12.75,
+                              "start": 12.36,
+                              "text": "어딨는지",
+                              "confidence": 0.942,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 28,
+                              "end": 13.05,
+                              "start": 12.75,
+                              "text": "않으려",
+                              "confidence": 0.567,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "id": 29,
+                              "end": 16.055,
+                              "start": 13.05,
+                              "text": "무한하",
+                              "confidence": 0.626,
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "id": 6,
+                      "style": {
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "horizontal": 0.5,
+              "vertical": 0.05
+          }
+      ],
+      "defaultStyle": {
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "outline": 3,
+          "captionsLocation": "center",
+          "color": {
+              "r": 245,
+              "g": 223,
+              "b": 77,
+              "a": 1
+          },
+          "bold": true,
+          "align": "center",
+          "underline": false,
+          "font": 4,
+          "fontSize": 100,
+          "italic": false,
+          "background": {
+              "r": 177,
+              "g": 157,
+              "b": 245,
+              "a": 0.86
+          }
+      },
+      "defaultLocation": {
+          "vertical": 0.05,
+          "horizontal": 0.5
+      }
+  },
+  "popup": {},
+  "project": {
+      "selectedEditType": "translated",
+      "selectedPreviewType": "web",
+      "wordSplits": {
+          "origin": 20,
+          "translated": 40
+      },
+      "sequence": [
+          "origin",
+          "translated"
+      ],
+      "projectDefaultStyle": {
+          "background": {
+              "r": 248,
+              "g": 60,
+              "b": 99,
+              "a": 1
+          },
+          "color": {
+              "r": 248,
+              "g": 231,
+              "b": 28,
+              "a": 1
+          },
+          "outline": 0,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "projectName": "무한도전 무야호_360p",
+      "videoPath": "file://C:\\Users\\hogeu\\Desktop\\테스트 짧은 영상\\무한도전 무야호_360p.mp4",
+      "videoMeta": {
+          "width": 640,
+          "height": 360
+      },
+      "totalTranslateTaskLength": 6,
+      "nowTranslateTaskLength": 6,
+      "trnaldatedGuidClosed": true
+  },
+  "projectCotrol": {
+      "focusParagraphMetas": [
+          {
+              "path": {
+                  "paragraphIndex": 1,
+                  "lineIndex": 0
+              },
+              "source": "overlay",
+              "type": "translatedMultiline"
+          }
+      ],
+      "selectedStyleEditType": "line"
+  },
+  "translatedCaption": {
+      "defaultStyle": {
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 1
+          },
+          "outline": 3,
+          "captionsLocation": "center",
+          "color": {
+              "r": 191,
+              "g": 222,
+              "b": 255,
+              "a": 1
+          },
+          "bold": true,
+          "align": "center",
+          "underline": false,
+          "font": 4,
+          "fontSize": 100,
+          "italic": false,
+          "background": {
+              "r": 255,
+              "g": 255,
+              "b": 255,
+              "a": 0
+          }
+      },
+      "defaultLocation": {
+          "vertical": 0.05,
+          "horizontal": 0.5
+      },
+      "captions": [
+          {
+              "id": 1,
+              "origin": "내가 안녕하세요",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 0.27,
+                                      "end": 1.148,
+                                      "text": "hello",
+                                      "id": 12
+                                  },
+                                  {
+                                      "start": 1.148,
+                                      "end": 1.44,
+                                      "text": "i",
+                                      "id": 13
+                                  }
+                              ],
+                              "id": 3,
+                              "style": {
+                                  "background": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 0
+                                  },
+                                  "color": {
+                                      "r": 191,
+                                      "g": 222,
+                                      "b": 255,
+                                      "a": 1
+                                  },
+                                  "outline": 3,
+                                  "outlineColor": {
+                                      "r": 0,
+                                      "g": 0,
+                                      "b": 0,
+                                      "a": 1
+                                  },
+                                  "bold": true,
+                                  "underline": false,
+                                  "italic": false,
+                                  "font": 4,
+                                  "fontSize": 100
+                              }
+                          }
+                      ],
+                      "id": 10,
+                      "horizontal": 1,
+                      "vertical": 0
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "안녕하세요",
+              "lines": [
+                  {}
+              ]
+          },
+          {
+              "id": 2,
+              "origin": "힘내세요 다름이 아니고 저희가 그 무한도전 혹시 보신 적 있으십니까",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 1.77,
+                                      "end": 1.981,
+                                      "text": "Be",
+                                      "id": 14
+                                  },
+                                  {
+                                      "start": 1.981,
+                                      "end": 2.545,
+                                      "text": "strong.",
+                                      "id": 15
+                                  },
+                                  {
+                                      "start": 2.545,
+                                      "end": 2.898,
+                                      "text": "Have",
+                                      "id": 16
+                                  },
+                                  {
+                                      "start": 2.898,
+                                      "end": 3.18,
+                                      "text": "you",
+                                      "id": 17
+                                  },
+                                  {
+                                      "start": 3.18,
+                                      "end": 3.532,
+                                      "text": "ever",
+                                      "id": 18
+                                  },
+                                  {
+                                      "start": 3.532,
+                                      "end": 3.884,
+                                      "text": "seen",
+                                      "id": 19
+                                  },
+                                  {
+                                      "start": 3.884,
+                                      "end": 4.166,
+                                      "text": "our",
+                                      "id": 20
+                                  },
+                                  {
+                                      "start": 4.166,
+                                      "end": 4.801,
+                                      "text": "Infinite",
+                                      "id": 21
+                                  },
+                                  {
+                                      "start": 4.801,
+                                      "end": 5.576,
+                                      "text": "Challenge?",
+                                      "id": 22
+                                  }
+                              ],
+                              "id": 4
+                          }
+                      ],
+                      "id": 11
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "힘내세요. 저희 무한도전 보셨나요?"
+          },
+          {
+              "id": 3,
+              "origin": "잘 몰라요",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 6.04,
+                                      "end": 6.133,
+                                      "text": "I",
+                                      "id": 37
+                                  },
+                                  {
+                                      "start": 6.133,
+                                      "end": 6.272,
+                                      "text": "do",
+                                      "id": 38
+                                  },
+                                  {
+                                      "start": 6.272,
+                                      "end": 6.458,
+                                      "text": "not",
+                                      "id": 39
+                                  },
+                                  {
+                                      "start": 6.458,
+                                      "end": 6.69,
+                                      "text": "know",
+                                      "id": 40
+                                  }
+                              ],
+                              "id": 7
+                          }
+                      ],
+                      "id": 14
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "모르겠어요"
+          },
+          {
+              "id": 4,
+              "origin": "세글자를 조금 아 저희가 많이보죠",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 7.171,
+                                      "end": 7.273,
+                                      "text": "A",
+                                      "id": 47
+                                  },
+                                  {
+                                      "start": 7.273,
+                                      "end": 7.629,
+                                      "text": "little",
+                                      "id": 48
+                                  },
+                                  {
+                                      "start": 7.629,
+                                      "end": 7.832,
+                                      "text": "bit",
+                                      "id": 49
+                                  },
+                                  {
+                                      "start": 7.832,
+                                      "end": 7.985,
+                                      "text": "of",
+                                      "id": 50
+                                  },
+                                  {
+                                      "start": 7.985,
+                                      "end": 8.29,
+                                      "text": "three",
+                                      "id": 51
+                                  },
+                                  {
+                                      "start": 8.29,
+                                      "end": 8.748,
+                                      "text": "letters,",
+                                      "id": 52
+                                  },
+                                  {
+                                      "start": 8.748,
+                                      "end": 8.9,
+                                      "text": "we",
+                                      "id": 53
+                                  },
+                                  {
+                                      "start": 8.9,
+                                      "end": 9.104,
+                                      "text": "see",
+                                      "id": 54
+                                  },
+                                  {
+                                      "start": 9.104,
+                                      "end": 9.206,
+                                      "text": "a",
+                                      "id": 55
+                                  },
+                                  {
+                                      "start": 9.206,
+                                      "end": 9.409,
+                                      "text": "lot",
+                                      "id": 56
+                                  }
+                              ],
+                              "id": 9
+                          }
+                      ],
+                      "id": 16
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "세 글자의 작은 우리는 많이 본다"
+          },
+          {
+              "id": 5,
+              "origin": "아 예 3 보셨습니까",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 9.469,
+                                      "end": 9.702,
+                                      "text": "oh",
+                                      "id": 57
+                                  },
+                                  {
+                                      "start": 9.702,
+                                      "end": 10.013,
+                                      "text": "yes",
+                                      "id": 58
+                                  },
+                                  {
+                                      "start": 10.013,
+                                      "end": 10.323,
+                                      "text": "did",
+                                      "id": 59
+                                  },
+                                  {
+                                      "start": 10.323,
+                                      "end": 10.634,
+                                      "text": "you",
+                                      "id": 60
+                                  },
+                                  {
+                                      "start": 10.634,
+                                      "end": 10.945,
+                                      "text": "see",
+                                      "id": 61
+                                  },
+                                  {
+                                      "start": 10.945,
+                                      "end": 11.1,
+                                      "text": "3",
+                                      "id": 62
+                                  }
+                              ],
+                              "id": 10
+                          }
+                      ],
+                      "id": 18
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "오 그래 3을 봤어"
+          },
+          {
+              "id": 6,
+              "origin": "CIA 사실 액션이 어딨는지 않으려 무한하",
+              "paragraphs": [
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 11.1,
+                                      "end": 11.336,
+                                      "text": "In",
+                                      "id": 76
+                                  },
+                                  {
+                                      "start": 11.336,
+                                      "end": 11.808,
+                                      "text": "fact,",
+                                      "id": 77
+                                  },
+                                  {
+                                      "start": 11.808,
+                                      "end": 12.122,
+                                      "text": "the",
+                                      "id": 78
+                                  },
+                                  {
+                                      "start": 12.122,
+                                      "end": 12.437,
+                                      "text": "CIA",
+                                      "id": 79
+                                  },
+                                  {
+                                      "start": 12.437,
+                                      "end": 12.673,
+                                      "text": "is",
+                                      "id": 80
+                                  },
+                                  {
+                                      "start": 12.673,
+                                      "end": 13.46,
+                                      "text": "limitless",
+                                      "id": 81
+                                  },
+                                  {
+                                      "start": 13.46,
+                                      "end": 13.774,
+                                      "text": "not",
+                                      "id": 82
+                                  },
+                                  {
+                                      "start": 13.774,
+                                      "end": 14.01,
+                                      "text": "to",
+                                      "id": 83
+                                  },
+                                  {
+                                      "start": 14.01,
+                                      "end": 14.403,
+                                      "text": "know",
+                                      "id": 84
+                                  },
+                                  {
+                                      "start": 14.403,
+                                      "end": 14.875,
+                                      "text": "where",
+                                      "id": 85
+                                  },
+                                  {
+                                      "start": 14.875,
+                                      "end": 15.19,
+                                      "text": "the",
+                                      "id": 86
+                                  }
+                              ],
+                              "id": 13
+                          }
+                      ],
+                      "id": 21
+                  },
+                  {
+                      "lines": [
+                          {
+                              "words": [
+                                  {
+                                      "start": 15.19,
+                                      "end": 15.74,
+                                      "text": "action",
+                                      "id": 87
+                                  },
+                                  {
+                                      "start": 15.74,
+                                      "end": 16.055,
+                                      "text": "is.",
+                                      "id": 88
+                                  }
+                              ],
+                              "id": 14
+                          }
+                      ],
+                      "id": 22
+                  }
+              ],
+              "meta": {
+                  "reversTranslateStatus": "Successed",
+                  "translatStatus": "Successed"
+              },
+              "revers": "사실, CIA는 그 행동이 어디에 있는지 모르는 것이 무한합니다."
+          }
+      ]
+  },
+  "translatedMultiline": {
+      "checkpoint": 26,
+      "captions": [
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "end": 16.834467,
+                              "start": 0.27,
+                              "text": "This is a newly created line",
+                              "id": 0
+                          }
+                      ],
+                      "id": 0
+                  }
+              ],
+              "id": 17
+          },
+          {
+              "id": 1,
+              "lines": [
+                  {
+                      "id": 1,
+                      "words": [
+                          {
+                              "id": 0,
+                              "start": 0.27,
+                              "end": 16.834467,
+                              "text": "This is a newly created line"
+                          }
+                      ]
+                  }
+              ],
+              "meta": {
+                  "sourceId": 23,
+                  "sourceText": "새로 생성한 줄입니다",
+                  "status": "Successed",
+                  "translatedText": "This is a newly created line"
+              },
+              "horizontal": 0,
+              "vertical": 0
+          }
+      ],
+      "defaultStyle": {
+          "background": {
+              "r": 248,
+              "g": 60,
+              "b": 99,
+              "a": 1
+          },
+          "color": {
+              "r": 248,
+              "g": 231,
+              "b": 28,
+              "a": 1
+          },
+          "outline": 0,
+          "outlineColor": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0
+          },
+          "bold": true,
+          "underline": false,
+          "italic": false,
+          "font": 4,
+          "fontSize": 100
+      },
+      "defaultLocation": {
+          "vertical": 0,
+          "horizontal": 0
+      }
+  },
+  "youtubeSearch": {},
+  "dualCaption": {
+      "captions": [
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "내가",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "안녕하세요",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "hello"
+                          },
+                          {
+                              "text": "i"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 0.27,
+              "end": 1.44,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "힘내세요",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "다름이",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아니고",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "저희가",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "그",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "무한도전",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "혹시",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "Be"
+                          },
+                          {
+                              "text": "strong."
+                          },
+                          {
+                              "text": "Have"
+                          },
+                          {
+                              "text": "you"
+                          },
+                          {
+                              "text": "ever"
+                          },
+                          {
+                              "text": "seen"
+                          },
+                          {
+                              "text": "our"
+                          },
+                          {
+                              "text": "Infinite"
+                          },
+                          {
+                              "text": "Challenge?"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 1.77,
+              "end": 4.68,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "보신",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "적",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "있으십니까",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "Be"
+                          },
+                          {
+                              "text": "strong."
+                          },
+                          {
+                              "text": "Have"
+                          },
+                          {
+                              "text": "you"
+                          },
+                          {
+                              "text": "ever"
+                          },
+                          {
+                              "text": "seen"
+                          },
+                          {
+                              "text": "our"
+                          },
+                          {
+                              "text": "Infinite"
+                          },
+                          {
+                              "text": "Challenge?"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 4.68,
+              "end": 5.576,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "잘",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "몰라요",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "I"
+                          },
+                          {
+                              "text": "do"
+                          },
+                          {
+                              "text": "not"
+                          },
+                          {
+                              "text": "know"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 6.04,
+              "end": 6.69,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "세글자를",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "조금",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "저희가",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "많이보죠",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "예",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "3",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "보셨습니까",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "A"
+                          },
+                          {
+                              "text": "little"
+                          },
+                          {
+                              "text": "bit"
+                          },
+                          {
+                              "text": "of"
+                          },
+                          {
+                              "text": "three"
+                          },
+                          {
+                              "text": "letters,"
+                          },
+                          {
+                              "text": "we"
+                          },
+                          {
+                              "text": "see"
+                          },
+                          {
+                              "text": "a"
+                          },
+                          {
+                              "text": "lot"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 7.171,
+              "end": 9.409,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "세글자를",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "조금",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "저희가",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "많이보죠",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "예",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "3",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "보셨습니까",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  }
+              ],
+              "start": 9.409,
+              "end": 9.469,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "세글자를",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "조금",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "저희가",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "많이보죠",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "아",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "예",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "3",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "보셨습니까",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "oh"
+                          },
+                          {
+                              "text": "yes"
+                          },
+                          {
+                              "text": "did"
+                          },
+                          {
+                              "text": "you"
+                          },
+                          {
+                              "text": "see"
+                          },
+                          {
+                              "text": "3"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 9.469,
+              "end": 11.1,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "CIA",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "사실",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "액션이",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "어딨는지",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "않으려",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "무한하",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "In"
+                          },
+                          {
+                              "text": "fact,"
+                          },
+                          {
+                              "text": "the"
+                          },
+                          {
+                              "text": "CIA"
+                          },
+                          {
+                              "text": "is"
+                          },
+                          {
+                              "text": "limitless"
+                          },
+                          {
+                              "text": "not"
+                          },
+                          {
+                              "text": "to"
+                          },
+                          {
+                              "text": "know"
+                          },
+                          {
+                              "text": "where"
+                          },
+                          {
+                              "text": "the"
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 11.1,
+              "end": 15.19,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          },
+          {
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "text": "CIA",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "사실",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "액션이",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "어딨는지",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "않으려",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          },
+                          {
+                              "text": "무한하",
+                              "style": {
+                                  "outlineColor": {
+                                      "r": 34,
+                                      "g": 34,
+                                      "b": 34,
+                                      "a": 1
+                                  },
+                                  "color": {
+                                      "r": 255,
+                                      "g": 255,
+                                      "b": 255,
+                                      "a": 1
+                                  }
+                              }
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false,
+                          "left": 50,
+                          "bottom": 5,
+                          "background": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0.74
+                          }
+                      }
+                  },
+                  {
+                      "words": [
+                          {
+                              "text": "action"
+                          },
+                          {
+                              "text": "is."
+                          }
+                      ],
+                      "style": {
+                          "outlineColor": {
+                              "r": 34,
+                              "g": 34,
+                              "b": 34,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "captionsLocation": "center",
+                          "color": {
+                              "r": 255,
+                              "g": 255,
+                              "b": 255,
+                              "a": 1
+                          },
+                          "bold": true,
+                          "align": "center",
+                          "underline": false,
+                          "font": 4,
+                          "fontSize": 100,
+                          "italic": false
+                      }
+                  }
+              ],
+              "start": 15.19,
+              "end": 16.055,
+              "vertical": 0.05,
+              "horizontal": 0.5
+          }
+      ]
+  },
+  "dualMultiline": {
+      "captions": [
+          {
+              "end": 16.834467,
+              "start": 0.27,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "end": 16.834467,
+                              "start": 0.27,
+                              "text": "This is a newly created line",
+                              "id": 0
+                          }
+                      ],
+                      "id": 0,
+                      "style": {
+                          "background": {
+                              "r": 248,
+                              "g": 60,
+                              "b": 99,
+                              "a": 1
+                          },
+                          "color": {
+                              "r": 248,
+                              "g": 231,
+                              "b": 28,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "outlineColor": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0
+                          },
+                          "bold": true,
+                          "underline": false,
+                          "italic": false,
+                          "font": 4,
+                          "fontSize": 100
+                      }
+                  }
+              ]
+          },
+          {
+              "end": 16.834467,
+              "start": 0.27,
+              "lines": [
+                  {
+                      "words": [
+                          {
+                              "end": 16.834467,
+                              "start": 0.27,
+                              "text": "새로 생성한 줄입니다",
+                              "id": 0
+                          }
+                      ],
+                      "id": 0,
+                      "style": {
+                          "background": {
+                              "r": 248,
+                              "g": 60,
+                              "b": 99,
+                              "a": 1
+                          },
+                          "color": {
+                              "r": 248,
+                              "g": 231,
+                              "b": 28,
+                              "a": 1
+                          },
+                          "outline": 0,
+                          "outlineColor": {
+                              "r": 0,
+                              "g": 0,
+                              "b": 0,
+                              "a": 0
+                          },
+                          "bold": true,
+                          "underline": false,
+                          "italic": false,
+                          "font": 4,
+                          "fontSize": 100
+                      }
+                  }
+              ]
+          }
+      ]
+  }
+}

@@ -1,0 +1,96 @@
+@import "styles/_dimens.scss";
+@import "styles/_colors.scss";
+
+.titlebar {
+  padding: 2px;
+  box-sizing: border-box;
+  height: $titlebar-height;
+
+  * {
+    box-sizing: border-box;
+  }
+
+  .titlebar-content {
+    user-select: none;
+    -webkit-app-region: drag;
+    display: flex;
+    align-items: center;
+    height: 100%;
+
+    .control-box {
+      color: $titlebar-control-box-color;
+      height: inherit;
+      white-space: nowrap;
+
+      button {
+        -webkit-app-region: no-drag;
+        height: inherit;
+        width: $titlebar-control-button-width;
+
+        &:hover {
+          color: $titlebar-btn-hover-color;
+          background-color: $titlebar-btn-hover-bg-color;
+          transition-duration: 0.1s;
+        }
+      }
+
+      .exit {
+        &:hover {
+          background-color: $titlebar-btn-exit-hover-bg-color;
+          color: $titlebar-btn-exit-hover-color;
+          transition-duration: 0.1s;
+        }
+      }
+    }
+  }
+}
+
+.path {
+  // background-color: $main-background-color;
+  justify-content: flex-end;
+
+  .project-name-box {
+    display: none;
+  }
+}
+
+.pathlogin {
+  background-color: #ffffffff;
+  justify-content: flex-end;
+
+  .project-name-box {
+    display: none;
+  }
+}
+
+.patheditor {
+  color: $titlebar-color;
+  background-color: $titlebar-bg-color;
+  justify-content: space-between;
+
+  .project-name-box {
+    margin-left: calc(1rem - 2px);
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+
+    .project-name {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .titlebar-logo {
+      height: 1.2rem;
+      margin-right: 0.5rem;
+    }
+  }
+
+  .project-name-box-mac {
+    margin: 0 auto;
+
+    .project-name {
+      margin-top: 3px;
+    }
+  }
+}
