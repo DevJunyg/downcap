@@ -14,5 +14,5 @@ youtube CC 자막 제작을 도와주는 데스크톱 어플리케이션 클라�
 electron, react, typescript 기반으로 초기 90%이상으로 이루어진 javascript를 대부분 typescript로 변환하였습니다. </br>
 
 ## 기술
-`react` `javascript` `electron` `typescript` `redux` `git` `azure` `github` `VScode` `NodeJS` `yarn` `lodash` `axios` `restAPI` `lodash` `immutable` `jest` `html5` `css` `scss` 등
+`react` `javascript` `es6` `electron` `typescript` `redux` `git` `azure` `github` `VScode` `NodeJS` `yarn` `lodash` `axios` `restAPI` `lodash` `immutable` `jest` `html5` `css` `scss` 등
 
